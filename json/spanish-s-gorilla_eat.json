@@ -1,0 +1,79 @@
+{
+  "cloudinaryUrl": "https://player.cloudinary.com/embed/?cloud_name=dtszsqfxo&public_id=The_ultimate_way_to_eat_a_banana_gorilla_eating_asmr_satisfying_gbbmk9&profile=cld-default",
+  "publicId": "The_ultimate_way_to_eat_a_banana_gorilla_eating_asmr_satisfying_gbbmk9",
+  "audioFiles": [
+    {
+      "statementId": 1,
+      "speed": 0.7,
+      "filename": "s_gorilla_eat_speed0.7.mp3",
+      "duration": 4.179563,
+      "wordCount": 9,
+      "transcript": "La reina come un gran plátano amarillo con alegría.",
+      "answer": false,
+      "translation": "The queen eats a big yellow banana with joy.",
+      "charactersPerSecond": 12.202232625755371,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/b939c589-9ad0-4bce-a8be-7f7e31149b35.mp4"
+    },
+    {
+      "statementId": 2,
+      "speed": 0.8,
+      "filename": "s_gorilla_eat_speed0.8.mp3",
+      "duration": 5.250563,
+      "wordCount": 15,
+      "transcript": "La reina come un plátano grande y amarillo con la boca y disfruta el sabor.",
+      "answer": false,
+      "translation": "The queen eats a big yellow banana with her mouth and enjoys the taste.",
+      "charactersPerSecond": 14.284182477193399,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/d7ee2870-b89c-474f-92b2-d959d7f6d8df.mp4"
+    },
+    {
+      "statementId": 3,
+      "speed": 0.9,
+      "filename": "s_gorilla_eat_speed0.9.mp3",
+      "duration": 3.343625,
+      "wordCount": 10,
+      "transcript": "La reina come un plátano amarillo grande con la boca.",
+      "answer": false,
+      "translation": "The queen eats a big yellow banana with her mouth.",
+      "charactersPerSecond": 15.851059852704775,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/902f7914-17e7-48e2-b3ff-7c98e3de17dd.mp4"
+    },
+    {
+      "statementId": 4,
+      "speed": 1,
+      "filename": "s_gorilla_eat_speed1.mp3",
+      "duration": 2.873438,
+      "wordCount": 10,
+      "transcript": "La reina come un gran plátano amarillo con la boca.",
+      "answer": false,
+      "translation": "The queen eats a large yellow banana with her mouth.",
+      "charactersPerSecond": 17.748773420550574,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/d8fecba0-b795-4f27-a8b7-760ba18da00b.mp4"
+    },
+    {
+      "statementId": 5,
+      "speed": 1.1,
+      "filename": "s_gorilla_eat_speed1.1.mp3",
+      "duration": 2.638313,
+      "wordCount": 9,
+      "transcript": "La reina come un gran plátano amarillo con gusto.",
+      "answer": false,
+      "translation": "The queen eats a big yellow banana with pleasure.",
+      "charactersPerSecond": 18.572474152990946,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/52eb5554-3c8b-4ade-a43b-65e49e20981c.mp4"
+    },
+    {
+      "statementId": 6,
+      "speed": 1.2,
+      "filename": "s_gorilla_eat_speed1.2.mp3",
+      "duration": 3.709375,
+      "wordCount": 14,
+      "transcript": "La reina come un plátano grande. El plátano es amarillo y usa su boca.",
+      "answer": false,
+      "translation": "The queen eats a large banana. The banana is yellow and she uses her mouth.",
+      "charactersPerSecond": 18.871103622577927,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/85e2d4ad-09ef-47b3-8c48-15fc79dc5e4c.mp4"
+    }
+  ],
+  "timestamp": "2025-07-02T15:12:45.022Z"
+}

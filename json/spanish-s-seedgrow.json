@@ -1,0 +1,79 @@
+{
+  "cloudinaryUrl": "https://res.cloudinary.com/dtszsqfxo/video/upload/v1751276311/ssstik.io__tap.me.photographer0_1751275005129_vbhgls.mp4",
+  "publicId": "ssstik.io__tap.me.photographer0_1751275005129_vbhgls",
+  "audioFiles": [
+    {
+      "statementId": 1,
+      "speed": 0.7,
+      "filename": "s_seedgrow_speed0.7.mp3",
+      "duration": 4.623625,
+      "wordCount": 12,
+      "transcript": "Un niño pequeño bebe agua y crece alto para ver la luz.",
+      "answer": false,
+      "translation": "A small child drinks water and grows tall to see the light.",
+      "charactersPerSecond": 11.895428370596665,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/c801ef7f-df29-43b2-9673-695dfc1701a3.mp4"
+    },
+    {
+      "statementId": 2,
+      "speed": 0.8,
+      "filename": "s_seedgrow_speed0.8.mp3",
+      "duration": 4.728125,
+      "wordCount": 14,
+      "transcript": "Un niño pequeño bebe agua y crece para ver la luz en el cielo.",
+      "answer": false,
+      "translation": "A small child drinks water and grows up to see the light in the sky.",
+      "charactersPerSecond": 13.113020489094513,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/94880043-8cde-423f-9a3b-b76443be2068.mp4"
+    },
+    {
+      "statementId": 3,
+      "speed": 0.9,
+      "filename": "s_seedgrow_speed0.9.mp3",
+      "duration": 4.54525,
+      "wordCount": 14,
+      "transcript": "Un niño pequeño bebe agua y crece desde el suelo para ver la luz.",
+      "answer": false,
+      "translation": "A small child drinks water and grows up to see the light from the ground.",
+      "charactersPerSecond": 14.300643528958803,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/2a83f7c2-0078-47d2-beaa-ddcf3b238a5b.mp4"
+    },
+    {
+      "statementId": 4,
+      "speed": 1,
+      "filename": "s_seedgrow_speed1.mp3",
+      "duration": 3.78775,
+      "wordCount": 14,
+      "transcript": "Un niño pequeño bebe agua y crece para ver la luz en el cielo.",
+      "answer": false,
+      "translation": "A small child drinks water and grows up to see the light in the sky.",
+      "charactersPerSecond": 16.368556530922053,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/bb200bf3-066f-48d1-a89a-bbb1a1cf67f7.mp4"
+    },
+    {
+      "statementId": 5,
+      "speed": 1.1,
+      "filename": "s_seedgrow_speed1.1.mp3",
+      "duration": 3.422,
+      "wordCount": 14,
+      "transcript": "Un niño pequeño bebe agua y crece para ver la luz en el cielo.",
+      "answer": false,
+      "translation": "A small child drinks water and grows up to see the light in the sky.",
+      "charactersPerSecond": 18.118059614260666,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/e573431b-9c23-4ccd-9228-b4566719c241.mp4"
+    },
+    {
+      "statementId": 6,
+      "speed": 1.2,
+      "filename": "s_seedgrow_speed1.2.mp3",
+      "duration": 3.291375,
+      "wordCount": 14,
+      "transcript": "Un niño pequeño bebe agua y crece desde el suelo para ver la luz.",
+      "answer": false,
+      "translation": "A small child drinks water and grows up to see the light from the ground.",
+      "charactersPerSecond": 19.748585317686377,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/77ef9a50-ce70-4752-b786-8ddd765e37fe.mp4"
+    }
+  ],
+  "timestamp": "2025-07-02T18:06:51.233Z"
+}

@@ -1,0 +1,79 @@
+{
+  "cloudinaryUrl": "https://player.cloudinary.com/embed/?cloud_name=dtszsqfxo&public_id=ssstik.io__kkirstylouise_1751275336946_zr1ynz&profile=cld-default",
+  "publicId": "ssstik.io__kkirstylouise_1751275336946_zr1ynz",
+  "audioFiles": [
+    {
+      "statementId": 1,
+      "speed": 0.7,
+      "filename": "s_stormnight_speed0.7.mp3",
+      "duration": 4.310188,
+      "wordCount": 10,
+      "transcript": "Llueve de noche mientras la luna brilla en el cielo.",
+      "answer": false,
+      "translation": "It rains at night while the moon is bright in the sky.",
+      "charactersPerSecond": 12.06443895254685,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/c547eac4-df75-41af-89f2-4caf60bcda84.mp4"
+    },
+    {
+      "statementId": 2,
+      "speed": 0.8,
+      "filename": "s_stormnight_speed0.8.mp3",
+      "duration": 4.257937,
+      "wordCount": 12,
+      "transcript": "Es de noche y la lluvia cae mientras la luna llena brilla.",
+      "answer": false,
+      "translation": "It is night and rain falls while the full moon shines bright.",
+      "charactersPerSecond": 13.621620047454906,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/ebf4352b-5c09-478d-ba9e-a32b03705572.mp4"
+    },
+    {
+      "statementId": 3,
+      "speed": 0.9,
+      "filename": "s_stormnight_speed0.9.mp3",
+      "duration": 3.709375,
+      "wordCount": 12,
+      "transcript": "Es de noche y la lluvia cae mientras la luna llena brilla.",
+      "answer": false,
+      "translation": "It is night and rain falls while the full moon shines bright.",
+      "charactersPerSecond": 15.636057287278854,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/722c34b0-2a6a-4216-b7a1-3108639cb779.mp4"
+    },
+    {
+      "statementId": 4,
+      "speed": 1,
+      "filename": "s_stormnight_speed1.mp3",
+      "duration": 3.239125,
+      "wordCount": 10,
+      "transcript": "La luna llena brilla en la noche mientras llueve afuera.",
+      "answer": false,
+      "translation": "The bright full moon shines in the night while it is raining outside.",
+      "charactersPerSecond": 17.28861961177787,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/ff23cf16-a7e1-4c5d-9b13-dd6f7b5a3c0b.mp4"
+    },
+    {
+      "statementId": 5,
+      "speed": 1.1,
+      "filename": "s_stormnight_speed1.1.mp3",
+      "duration": 2.951813,
+      "wordCount": 10,
+      "transcript": "La luna llena brilla en la noche mientras llueve afuera.",
+      "answer": false,
+      "translation": "The bright full moon shines in the night while it is raining outside.",
+      "charactersPerSecond": 18.97139148042237,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/08fa935b-aae1-47cb-8681-ee69a6924a53.mp4"
+    },
+    {
+      "statementId": 6,
+      "speed": 1.2,
+      "filename": "s_stormnight_speed1.2.mp3",
+      "duration": 3.160813,
+      "wordCount": 13,
+      "transcript": "Está lloviendo en la noche y la luna llena brilla en el cielo.",
+      "answer": false,
+      "translation": "It is raining at night and the full moon shines bright in the sky.",
+      "charactersPerSecond": 19.61520659399971,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/2344a386-f2df-4d0a-b09c-4be7b0daf863.mp4"
+    }
+  ],
+  "timestamp": "2025-07-02T18:26:22.039Z"
+}

@@ -1,0 +1,79 @@
+{
+  "cloudinaryUrl": "https://player.cloudinary.com/embed/?cloud_name=dtszsqfxo&public_id=ssstik.io__voguemagazine_1751274963206_adgwjq&profile=cld-default",
+  "publicId": "ssstik.io__voguemagazine_1751274963206_adgwjq",
+  "audioFiles": [
+    {
+      "statementId": 1,
+      "speed": 0.7,
+      "filename": "s_badbunny_speed0.7.mp3",
+      "duration": 4.022813,
+      "wordCount": 8,
+      "transcript": "El hombre lleva un gran sombrero para esconderse.",
+      "answer": false,
+      "translation": "The man wears a big hat to hide from people.",
+      "charactersPerSecond": 12.180531384382023,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/65898461-a812-4d9b-86a1-12a9b1078359.mp4"
+    },
+    {
+      "statementId": 2,
+      "speed": 0.8,
+      "filename": "s_badbunny_speed0.8.mp3",
+      "duration": 5.459563,
+      "wordCount": 14,
+      "transcript": "El hombre está parado y lleva un sombrero grande para ocultarse de las fotos.",
+      "answer": false,
+      "translation": "The man stands still and wears a big hat to hide from people who take pictures.",
+      "charactersPerSecond": 14.10369291461606,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/aa63b27f-c9be-49a7-8281-6628f94568a7.mp4"
+    },
+    {
+      "statementId": 3,
+      "speed": 0.9,
+      "filename": "s_badbunny_speed0.9.mp3",
+      "duration": 4.257937,
+      "wordCount": 14,
+      "transcript": "El hombre lleva un gran sombrero y se queda quieto para no ser visto.",
+      "answer": false,
+      "translation": "The man wears a big hat and stands still to avoid being seen by people.",
+      "charactersPerSecond": 16.205030746110147,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/e06e4c6a-7d50-4626-b808-682e54422deb.mp4"
+    },
+    {
+      "statementId": 4,
+      "speed": 1,
+      "filename": "s_badbunny_speed1.mp3",
+      "duration": 4.362437,
+      "wordCount": 14,
+      "transcript": "El hombre está parado y lleva un sombrero grande para ocultarse de las fotos.",
+      "answer": false,
+      "translation": "The man stands still and wears a big hat to hide from people who take pictures.",
+      "charactersPerSecond": 17.65068469756698,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/15c6f096-2beb-4338-8eb4-9950bd30edf0.mp4"
+    },
+    {
+      "statementId": 5,
+      "speed": 1.1,
+      "filename": "s_badbunny_speed1.1.mp3",
+      "duration": 4.127313,
+      "wordCount": 14,
+      "transcript": "El hombre está parado y lleva un sombrero grande para ocultarse de las fotos.",
+      "answer": false,
+      "translation": "The man stands still and wears a big hat to hide from people who take pictures.",
+      "charactersPerSecond": 18.656205623368038,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/0655a57d-07f0-4e83-bc22-54a56dffe74b.mp4"
+    },
+    {
+      "statementId": 6,
+      "speed": 1.2,
+      "filename": "s_badbunny_speed1.2.mp3",
+      "duration": 3.709375,
+      "wordCount": 15,
+      "transcript": "El hombre se queda quieto y usa un sombrero grande para esconderse de la gente.",
+      "answer": false,
+      "translation": "The man stands quietly and wears a large hat to hide from photographers.",
+      "charactersPerSecond": 21.297388374052233,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/8509fa64-5f3c-4023-b935-633331a3b61a.mp4"
+    }
+  ],
+  "timestamp": "2025-07-02T19:01:18.808Z"
+}

@@ -1,0 +1,79 @@
+{
+  "cloudinaryUrl": "https://player.cloudinary.com/embed/?cloud_name=dtszsqfxo&public_id=ssstik.io__usa232333_1751275132904_iwra9t&profile=cld-default",
+  "publicId": "ssstik.io__usa232333_1751275132904_iwra9t",
+  "audioFiles": [
+    {
+      "statementId": 1,
+      "speed": 0.7,
+      "filename": "s_glassmaker_speed0.7.mp3",
+      "duration": 4.96325,
+      "wordCount": 11,
+      "transcript": "Un hombre amasa queso con habilidad y lo hace ver bonito.",
+      "answer": false,
+      "translation": "A man rolls out cheese with skill and makes it look nice.",
+      "charactersPerSecond": 11.484410416561728,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/b0871f04-9f52-4b06-a8e1-73a5dd809909.mp4"
+    },
+    {
+      "statementId": 2,
+      "speed": 0.8,
+      "filename": "s_glassmaker_speed0.8.mp3",
+      "duration": 4.414688,
+      "wordCount": 13,
+      "transcript": "El hombre en la fábrica estira el queso y lo hace ver bonito.",
+      "answer": false,
+      "translation": "The man in the factory rolls out cheese and makes it look nice.",
+      "charactersPerSecond": 13.817510999644822,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/1a7be89a-d473-4edc-8f46-09bacb1477df.mp4"
+    },
+    {
+      "statementId": 3,
+      "speed": 0.9,
+      "filename": "s_glassmaker_speed0.9.mp3",
+      "duration": 4.728125,
+      "wordCount": 15,
+      "transcript": "Un hombre en la fábrica rueda el queso con habilidad para que se vea bonito.",
+      "answer": false,
+      "translation": "A man in the factory rolls cheese skillfully to make it look nice.",
+      "charactersPerSecond": 16.07402511566424,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/39a69255-ad73-4443-ae56-cfacdb15d076.mp4"
+    },
+    {
+      "statementId": 4,
+      "speed": 1,
+      "filename": "s_glassmaker_speed1.mp3",
+      "duration": 4.310188,
+      "wordCount": 15,
+      "transcript": "Un hombre en la fábrica rueda el queso con habilidad para que se vea bonito.",
+      "answer": false,
+      "translation": "A man in the factory rolls cheese skillfully to make it look nice.",
+      "charactersPerSecond": 17.632641546030012,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/a6767d6d-3220-40ee-8a73-0e15c28bbcad.mp4"
+    },
+    {
+      "statementId": 5,
+      "speed": 1.1,
+      "filename": "s_glassmaker_speed1.1.mp3",
+      "duration": 4.310188,
+      "wordCount": 15,
+      "transcript": "Un hombre en una fábrica trabaja con habilidad para hacer que el queso luzca bien.",
+      "answer": false,
+      "translation": "A man in a factory skillfully rolls out cheese and makes it look nice.",
+      "charactersPerSecond": 19.0246921944008,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/86124c60-0295-4ce4-970e-a1f926374cf9.mp4"
+    },
+    {
+      "statementId": 6,
+      "speed": 1.2,
+      "filename": "s_glassmaker_speed1.2.mp3",
+      "duration": 3.84,
+      "wordCount": 15,
+      "transcript": "Un hombre en la fábrica aplana el queso con habilidad y lo hace lucir bien.",
+      "answer": false,
+      "translation": "A man in the factory rolls out cheese with skill and makes it look nice.",
+      "charactersPerSecond": 19.53125,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/8ded1311-a670-43eb-aeac-44954b1cfcab.mp4"
+    }
+  ],
+  "timestamp": "2025-07-02T18:07:44.756Z"
+}

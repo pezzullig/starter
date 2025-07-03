@@ -1,0 +1,79 @@
+{
+  "cloudinaryUrl": "https://player.cloudinary.com/embed/?cloud_name=dtszsqfxo&public_id=Current_men_s_Olympic_record_in_speed_climbing_Bassa_Mawem_Tokyo_2020_vt0ram&profile=cld-default",
+  "publicId": "Current_men_s_Olympic_record_in_speed_climbing_Bassa_Mawem_Tokyo_2020_vt0ram",
+  "audioFiles": [
+    {
+      "statementId": 1,
+      "speed": 0.7,
+      "filename": "s_climbfast_speed0.7.mp3",
+      "duration": 4.54525,
+      "wordCount": 9,
+      "transcript": "Un hombre intenta escapar de perros subiendo una pared.",
+      "answer": false,
+      "translation": "A man tries to escape dogs by climbing a wall.",
+      "charactersPerSecond": 12.100544524503603,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/52e8a850-8e55-4a58-bea4-b77257299377.mp4"
+    },
+    {
+      "statementId": 2,
+      "speed": 0.8,
+      "filename": "s_climbfast_speed0.8.mp3",
+      "duration": 4.362437,
+      "wordCount": 11,
+      "transcript": "Un hombre sube una pared para escapar de unos perros enojados.",
+      "answer": false,
+      "translation": "A man climbs a wall to escape angry dogs that chase him.",
+      "charactersPerSecond": 14.212239626612373,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/c712acee-cf02-487d-85c9-eddaf0d795f3.mp4"
+    },
+    {
+      "statementId": 3,
+      "speed": 0.9,
+      "filename": "s_climbfast_speed0.9.mp3",
+      "duration": 4.127313,
+      "wordCount": 13,
+      "transcript": "El hombre sube la pared para escapar de los perros que lo persiguen.",
+      "answer": false,
+      "translation": "The man climbs the wall to escape the dogs that chase him.",
+      "charactersPerSecond": 16.475610160896448,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/abede045-9e21-4fc7-bdf3-a990eb1ea7fc.mp4"
+    },
+    {
+      "statementId": 4,
+      "speed": 1,
+      "filename": "s_climbfast_speed1.mp3",
+      "duration": 4.362437,
+      "wordCount": 15,
+      "transcript": "Un hombre sube una pared para escapar de los perros que lo persiguen y ladran.",
+      "answer": false,
+      "translation": "A man climbs a wall to escape dogs that are chasing him and barking loudly.",
+      "charactersPerSecond": 17.879914368963952,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/453a6000-960f-478e-9083-87a4a9181976.mp4"
+    },
+    {
+      "statementId": 5,
+      "speed": 1.1,
+      "filename": "s_climbfast_speed1.1.mp3",
+      "duration": 3.657125,
+      "wordCount": 13,
+      "transcript": "Un hombre sube una pared para escapar de los perros que lo persiguen.",
+      "answer": false,
+      "translation": "A man climbs a wall to get away from dogs that chase him.",
+      "charactersPerSecond": 18.867279625388797,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/7c705b67-c4ff-424d-a230-0b4ebc609dbf.mp4"
+    },
+    {
+      "statementId": 6,
+      "speed": 1.2,
+      "filename": "s_climbfast_speed1.2.mp3",
+      "duration": 3.57875,
+      "wordCount": 15,
+      "transcript": "Un hombre sube una pared para escapar de los perros que lo persiguen y ladran.",
+      "answer": false,
+      "translation": "A man climbs a wall to escape dogs that are chasing him and barking loudly.",
+      "charactersPerSecond": 21.795319594830598,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/29c86b51-658d-4d81-9f9a-1a1f7b18da96.mp4"
+    }
+  ],
+  "timestamp": "2025-07-02T18:00:57.186Z"
+}

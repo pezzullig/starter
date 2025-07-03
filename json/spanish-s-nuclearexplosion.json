@@ -1,0 +1,79 @@
+{
+  "cloudinaryUrl": "https://player.cloudinary.com/embed/?cloud_name=dtszsqfxo&public_id=ssstik.io__vvision99_1751275517777_lnmccj&profile=cld-default",
+  "publicId": "ssstik.io__vvision99_1751275517777_lnmccj",
+  "audioFiles": [
+    {
+      "statementId": 1,
+      "speed": 0.7,
+      "filename": "s_nuclearexplosion_speed0.7.mp3",
+      "duration": 4.5975,
+      "wordCount": 10,
+      "transcript": "Una bomba nuclear hace una gran explosión en la ciudad.",
+      "answer": true,
+      "translation": "A nuclear bomb makes a big explosion in the city.",
+      "charactersPerSecond": 11.963023382272974,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/86799352-ed03-44a5-9765-1ce56a17cd12.mp4"
+    },
+    {
+      "statementId": 2,
+      "speed": 0.8,
+      "filename": "s_nuclearexplosion_speed0.8.mp3",
+      "duration": 4.832625,
+      "wordCount": 12,
+      "transcript": "Una bomba nuclear explota y hace una gran explosión en la ciudad.",
+      "answer": true,
+      "translation": "A nuclear bomb explodes and makes a big blast in a city.",
+      "charactersPerSecond": 13.450247018959674,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/84233e76-f3d0-482a-9962-b68568101b6a.mp4"
+    },
+    {
+      "statementId": 3,
+      "speed": 0.9,
+      "filename": "s_nuclearexplosion_speed0.9.mp3",
+      "duration": 4.675875,
+      "wordCount": 13,
+      "transcript": "Una bomba nuclear crea una gran explosión en el centro de una ciudad.",
+      "answer": true,
+      "translation": "A nuclear bomb creates a huge explosion in the middle of a city.",
+      "charactersPerSecond": 14.756596358970247,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/11be8c1c-431c-49a0-850d-6d0557317398.mp4"
+    },
+    {
+      "statementId": 4,
+      "speed": 1,
+      "filename": "s_nuclearexplosion_speed1.mp3",
+      "duration": 4.362437,
+      "wordCount": 14,
+      "transcript": "Una bomba nuclear hace una gran explosión en la ciudad y causa mucho daño.",
+      "answer": true,
+      "translation": "A nuclear bomb makes a big explosion in the city and causes a lot of damage.",
+      "charactersPerSecond": 16.962995683376057,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/96ef16a9-d5e5-4e33-bf0e-2a277bd412be.mp4"
+    },
+    {
+      "statementId": 5,
+      "speed": 1.1,
+      "filename": "s_nuclearexplosion_speed1.1.mp3",
+      "duration": 4.075062,
+      "wordCount": 14,
+      "transcript": "Una bomba nuclear hace una gran explosión en la ciudad y causa mucho daño.",
+      "answer": true,
+      "translation": "A nuclear bomb makes a big explosion in the city and causes a lot of damage.",
+      "charactersPerSecond": 18.159232914738475,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/c44a7b89-1991-4f32-853d-fae4f7f9988d.mp4"
+    },
+    {
+      "statementId": 6,
+      "speed": 1.2,
+      "filename": "s_nuclearexplosion_speed1.2.mp3",
+      "duration": 3.422,
+      "wordCount": 12,
+      "transcript": "Una bomba nuclear explota y causa una gran explosión en una ciudad.",
+      "answer": true,
+      "translation": "A nuclear bomb explodes and causes a big blast in a city.",
+      "charactersPerSecond": 19.579193454120396,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/82fdb094-fd58-4d59-9912-9324613d0fe5.mp4"
+    }
+  ],
+  "timestamp": "2025-07-02T19:18:14.627Z"
+}

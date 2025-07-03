@@ -1,0 +1,79 @@
+{
+  "cloudinaryUrl": "https://res.cloudinary.com/dtszsqfxo/video/upload/v1751276295/ssstik.io__money2play3_1751275637139_xfley6.mp4",
+  "publicId": "ssstik.io__money2play3_1751275637139_xfley6",
+  "audioFiles": [
+    {
+      "statementId": 1,
+      "speed": 0.7,
+      "filename": "s_moneydry_speed0.7.mp3",
+      "duration": 4.675875,
+      "wordCount": 10,
+      "transcript": "Las personas usan un método para limpiar el dinero sucio.",
+      "answer": true,
+      "translation": "People use a method to clean dirty money.",
+      "charactersPerSecond": 12.190231774801509,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/1c776710-6141-4049-af7f-a5a6faa9a929.mp4"
+    },
+    {
+      "statementId": 2,
+      "speed": 0.8,
+      "filename": "s_moneydry_speed0.8.mp3",
+      "duration": 3.944437,
+      "wordCount": 10,
+      "transcript": "Las personas usan un método para limpiar el dinero sucio.",
+      "answer": true,
+      "translation": "People use a method to clean dirty money.",
+      "charactersPerSecond": 14.450731498563673,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/c9b80d5c-2c1c-4874-93b5-8f9cc0c44477.mp4"
+    },
+    {
+      "statementId": 3,
+      "speed": 0.9,
+      "filename": "s_moneydry_speed0.9.mp3",
+      "duration": 4.205687,
+      "wordCount": 12,
+      "transcript": "Un método es lavar dinero para hacerlo limpio y seguro para usar.",
+      "answer": true,
+      "translation": "One method is to wash money to make it clean and safe to use.",
+      "charactersPerSecond": 15.455263313698808,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/3a3e6fdd-0999-4351-935f-8dac812e82a6.mp4"
+    },
+    {
+      "statementId": 4,
+      "speed": 1,
+      "filename": "s_moneydry_speed1.mp3",
+      "duration": 4.623625,
+      "wordCount": 14,
+      "transcript": "Este método muestra cómo limpiar dinero de manera efectiva y segura para su uso.",
+      "answer": true,
+      "translation": "This method shows how to clean money effectively and safely for use.",
+      "charactersPerSecond": 17.302441266322422,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/ff48cdcd-2d78-48e4-9089-28e33b359a4b.mp4"
+    },
+    {
+      "statementId": 5,
+      "speed": 1.1,
+      "filename": "s_moneydry_speed1.1.mp3",
+      "duration": 4.362437,
+      "wordCount": 16,
+      "transcript": "Puedes limpiar dinero de una forma simple que ayuda a que se vea nuevo otra vez.",
+      "answer": true,
+      "translation": "You can clean money in one simple way that helps make it look new again.",
+      "charactersPerSecond": 18.3383737117579,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/44177db9-6985-4393-8e9b-b2c42d2576c3.mp4"
+    },
+    {
+      "statementId": 6,
+      "speed": 1.2,
+      "filename": "s_moneydry_speed1.2.mp3",
+      "duration": 3.761625,
+      "wordCount": 12,
+      "transcript": "Este método muestra cómo limpiar dinero sucio de forma efectiva y sencilla.",
+      "answer": true,
+      "translation": "This method shows how to clean dirty money effectively and simply.",
+      "charactersPerSecond": 19.938191606021334,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/e5e5fbb4-7461-492c-9e34-51e05b17a6fe.mp4"
+    }
+  ],
+  "timestamp": "2025-07-02T19:05:44.237Z"
+}

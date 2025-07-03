@@ -1,0 +1,79 @@
+{
+  "cloudinaryUrl": "https://player.cloudinary.com/embed/?cloud_name=dtszsqfxo&public_id=Satisfying_Snow_Removal_ViralHog_gjpcwn&profile=cld-default",
+  "publicId": "Satisfying_Snow_Removal_ViralHog_gjpcwn",
+  "audioFiles": [
+    {
+      "statementId": 1,
+      "speed": 0.7,
+      "filename": "s_snow_removal_speed0.7.mp3",
+      "duration": 5.433438,
+      "wordCount": 12,
+      "transcript": "El clima caliente hace que la nieve blanca se derrita del techo.",
+      "answer": false,
+      "translation": "The hot weather makes the white snow melt from the roof.",
+      "charactersPerSecond": 11.778914197603802,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/b5b33163-bc72-44d3-983f-12ae6aa5f61f.mp4"
+    },
+    {
+      "statementId": 2,
+      "speed": 0.8,
+      "filename": "s_snow_removal_speed0.8.mp3",
+      "duration": 3.761625,
+      "wordCount": 10,
+      "transcript": "La nieve se derrite del techo porque hace mucho calor.",
+      "answer": false,
+      "translation": "The snow melts from the roof because it is very warm.",
+      "charactersPerSecond": 14.35549795633536,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/370c49ce-309a-4a05-8130-4b96e9b18042.mp4"
+    },
+    {
+      "statementId": 3,
+      "speed": 0.9,
+      "filename": "s_snow_removal_speed0.9.mp3",
+      "duration": 4.205687,
+      "wordCount": 12,
+      "transcript": "La nieve blanca se derrite del techo porque hace mucho calor afuera.",
+      "answer": false,
+      "translation": "The white snow melts from the roof because it is very hot outside.",
+      "charactersPerSecond": 16.168583158946443,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/bd288cf1-de14-4e96-8a29-6ea82a024233.mp4"
+    },
+    {
+      "statementId": 4,
+      "speed": 1,
+      "filename": "s_snow_removal_speed1.mp3",
+      "duration": 2.690562,
+      "wordCount": 9,
+      "transcript": "La nieve se derrite del techo porque hace calor.",
+      "answer": false,
+      "translation": "The snow melts off the roof because it is hot.",
+      "charactersPerSecond": 17.840138974682613,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/4b2b7708-4ba0-47bf-96dd-fe020e53f55f.mp4"
+    },
+    {
+      "statementId": 5,
+      "speed": 1.1,
+      "filename": "s_snow_removal_speed1.1.mp3",
+      "duration": 3.5265,
+      "wordCount": 13,
+      "transcript": "La nieve en el techo se derrite porque la temperatura es muy alta.",
+      "answer": false,
+      "translation": "The snow on the roof melts because the temperature is very high.",
+      "charactersPerSecond": 18.71544023819651,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/987ea337-2106-47a0-80a1-bf01e6e59be2.mp4"
+    },
+    {
+      "statementId": 6,
+      "speed": 1.2,
+      "filename": "s_snow_removal_speed1.2.mp3",
+      "duration": 2.272625,
+      "wordCount": 10,
+      "transcript": "La nieve se derrite en el techo porque hace calor.",
+      "answer": false,
+      "translation": "The snow melts on the roof because it is hot.",
+      "charactersPerSecond": 22.000990044552005,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/32faf167-f827-4cee-bf6b-2d4110600ca4.mp4"
+    }
+  ],
+  "timestamp": "2025-07-02T15:14:53.412Z"
+}

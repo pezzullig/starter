@@ -1,0 +1,79 @@
+{
+  "cloudinaryUrl": "https://player.cloudinary.com/embed/?cloud_name=dtszsqfxo&public_id=Ignition_of_the_Most_Powerful_Rocket_In_The_World_SpaceX_s_Starship_cn5pvx&profile=cld-default",
+  "publicId": "Ignition_of_the_Most_Powerful_Rocket_In_The_World_SpaceX_s_Starship_cn5pvx",
+  "audioFiles": [
+    {
+      "statementId": 1,
+      "speed": 0.7,
+      "filename": "s_rocketlaunch_speed0.7.mp3",
+      "duration": 4.780375,
+      "wordCount": 13,
+      "transcript": "El auto va muy rápido y se eleva del suelo hacia el cielo.",
+      "answer": false,
+      "translation": "The car drives very fast and lifts off the ground into the sky.",
+      "charactersPerSecond": 12.132939361451768,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/283fc368-07e3-4246-adcc-0c06eda6915c.mp4"
+    },
+    {
+      "statementId": 2,
+      "speed": 0.8,
+      "filename": "s_rocketlaunch_speed0.8.mp3",
+      "duration": 4.414688,
+      "wordCount": 14,
+      "transcript": "El auto va rápido y luego vuela por el aire al dejar el suelo.",
+      "answer": false,
+      "translation": "The car drives fast and then it flies through the air off the ground.",
+      "charactersPerSecond": 14.044027573409492,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/bcb5fead-9202-43a2-acb4-a7e460a10c64.mp4"
+    },
+    {
+      "statementId": 3,
+      "speed": 0.9,
+      "filename": "s_rocketlaunch_speed0.9.mp3",
+      "duration": 4.075062,
+      "wordCount": 15,
+      "transcript": "El coche va muy rápido y luego deja el suelo para volar en el aire.",
+      "answer": false,
+      "translation": "The car drives very fast and then leaves the ground to fly in the air.",
+      "charactersPerSecond": 16.441467639019972,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/cc120a6d-2c10-45dc-beeb-b7c008ee6bf4.mp4"
+    },
+    {
+      "statementId": 4,
+      "speed": 1,
+      "filename": "s_rocketlaunch_speed1.mp3",
+      "duration": 4.075062,
+      "wordCount": 16,
+      "transcript": "El coche va muy rápido y luego se eleva del suelo para volar en el aire.",
+      "answer": false,
+      "translation": "The car drives very fast and then it lifts off the ground to fly in the air.",
+      "charactersPerSecond": 17.66844283596176,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/4e1a68d8-e0cf-49dc-99cd-1e736f0742ad.mp4"
+    },
+    {
+      "statementId": 5,
+      "speed": 1.1,
+      "filename": "s_rocketlaunch_speed1.1.mp3",
+      "duration": 3.291375,
+      "wordCount": 14,
+      "transcript": "El auto va rápido y luego vuela por el aire al dejar el suelo.",
+      "answer": false,
+      "translation": "The car drives fast and then it flies through the air off the ground.",
+      "charactersPerSecond": 18.837112149177777,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/9e280b53-2bd4-4b76-8757-83e4af53b1bf.mp4"
+    },
+    {
+      "statementId": 6,
+      "speed": 1.2,
+      "filename": "s_rocketlaunch_speed1.2.mp3",
+      "duration": 3.709375,
+      "wordCount": 16,
+      "transcript": "El coche va muy rápido y luego se eleva del suelo para volar en el aire.",
+      "answer": false,
+      "translation": "The car drives very fast and then it lifts off the ground to fly in the air.",
+      "charactersPerSecond": 19.41027801179444,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/610978b3-f821-454a-b215-b6e0dba4a027.mp4"
+    }
+  ],
+  "timestamp": "2025-07-02T18:54:12.300Z"
+}

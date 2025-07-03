@@ -1,0 +1,79 @@
+{
+  "cloudinaryUrl": "https://player.cloudinary.com/embed/?cloud_name=dtszsqfxo&public_id=King_Charles_and_Queen_Camilla_appear_on_Buckingham_Palace_balcony_kkqjkb&profile=cld-default",
+  "publicId": "King_Charles_and_Queen_Camilla_appear_on_Buckingham_Palace_balcony_kkqjkb",
+  "audioFiles": [
+    {
+      "statementId": 1,
+      "speed": 0.7,
+      "filename": "s_king_charles_speed0.7.mp3",
+      "duration": 5.459563,
+      "wordCount": 11,
+      "transcript": "Un hombre hambriento pide comida a la gente porque necesita comer.",
+      "answer": false,
+      "translation": "A hungry man asks people for food because he needs something to eat.",
+      "charactersPerSecond": 12.08887964109948,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/456dcb7f-117d-403a-8b20-2117dc1d0b99.mp4"
+    },
+    {
+      "statementId": 2,
+      "speed": 0.8,
+      "filename": "s_king_charles_speed0.8.mp3",
+      "duration": 4.675875,
+      "wordCount": 12,
+      "transcript": "Un hombre hambriento pide comida a la gente porque no tiene dinero.",
+      "answer": false,
+      "translation": "A hungry man asks people for food because he has no money.",
+      "charactersPerSecond": 14.328868928275458,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/8b274ef8-a639-4de1-867c-e01aa034c522.mp4"
+    },
+    {
+      "statementId": 3,
+      "speed": 0.9,
+      "filename": "s_king_charles_speed0.9.mp3",
+      "duration": 4.911,
+      "wordCount": 14,
+      "transcript": "Un hombre hambriento pide comida a las personas porque no tiene nada para comer.",
+      "answer": false,
+      "translation": "A hungry man asks people for something to eat because he has no food.",
+      "charactersPerSecond": 16.289961311341887,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/6933d809-fe64-463e-b456-a055da4b3c45.mp4"
+    },
+    {
+      "statementId": 4,
+      "speed": 1,
+      "filename": "s_king_charles_speed1.mp3",
+      "duration": 3.186937,
+      "wordCount": 11,
+      "transcript": "El hombre hambriento pide comida a la gente en la calle.",
+      "answer": false,
+      "translation": "The hungry man asks people for food on the street.",
+      "charactersPerSecond": 17.571731101054084,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/96f3d512-c014-4276-8cf3-fa9201b547d8.mp4"
+    },
+    {
+      "statementId": 5,
+      "speed": 1.1,
+      "filename": "s_king_charles_speed1.1.mp3",
+      "duration": 3.5265,
+      "wordCount": 11,
+      "transcript": "Un hombre hambriento pide comida a la gente porque necesita comer.",
+      "answer": false,
+      "translation": "A hungry man asks people for food because he needs something to eat.",
+      "charactersPerSecond": 18.71544023819651,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/2dd35c34-cfdf-494b-8ccd-8901a60e5ff2.mp4"
+    },
+    {
+      "statementId": 6,
+      "speed": 1.2,
+      "filename": "s_king_charles_speed1.2.mp3",
+      "duration": 3.57875,
+      "wordCount": 11,
+      "transcript": "El hombre hambriento pide comida a las personas porque necesita comer.",
+      "answer": false,
+      "translation": "The hungry man asks people for food because he needs to eat.",
+      "charactersPerSecond": 19.559902200489,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/ec0e2852-589c-4f35-9be9-0698ea9d3308.mp4"
+    }
+  ],
+  "timestamp": "2025-07-02T15:15:30.485Z"
+}

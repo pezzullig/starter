@@ -1,0 +1,58 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Debug Script",
+      "type": "node",
+      "request": "launch",
+      "program": "${workspaceFolder}/scripts/debug-example.ts",
+      "cwd": "${workspaceFolder}",
+      "runtimeExecutable": "/Users/giuliopezzulli/.deno/bin/deno",
+      "runtimeArgs": ["run", "--inspect-brk", "--allow-net", "--allow-read", "--allow-write", "--allow-env"],
+      "attachSimplePort": 9229,
+      "console": "integratedTerminal",
+      "restart": true,
+      "protocol": "inspector"
+    },
+    {
+      "name": "Debug Current File",
+      "type": "node",
+      "request": "launch",
+      "program": "${file}",
+      "cwd": "${workspaceFolder}",
+      "runtimeExecutable": "/Users/giuliopezzulli/.deno/bin/deno",
+      "runtimeArgs": ["run", "--inspect-brk", "--allow-net", "--allow-read", "--allow-write", "--allow-env"],
+      "attachSimplePort": 9229,
+      "console": "integratedTerminal",
+      "restart": true,
+      "protocol": "inspector",
+      "skipFiles": ["<node_internals>/**"]
+    },
+    {
+      "name": "Deno: Debug Current File",
+      "type": "node",
+      "request": "launch",
+      "program": "${file}",
+      "cwd": "${workspaceFolder}",
+      "runtimeExecutable": "/Users/giuliopezzulli/.deno/bin/deno",
+      "runtimeArgs": ["run", "--inspect-brk", "--allow-net", "--allow-read", "--allow-write", "--allow-env"],
+      "attachSimplePort": 9229,
+      "console": "integratedTerminal",
+      "restart": true,
+      "protocol": "inspector",
+      "skipFiles": ["<node_internals>/**"]
+    },
+    {
+      "name": "Attach to Deno",
+      "type": "node",
+      "request": "attach",
+      "port": 9229,
+      "address": "localhost",
+      "localRoot": "${workspaceFolder}",
+      "remoteRoot": "${workspaceFolder}",
+      "protocol": "inspector",
+      "restart": true,
+      "skipFiles": ["<node_internals>/**"]
+    }
+  ]
+} 

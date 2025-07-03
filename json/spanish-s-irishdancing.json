@@ -1,0 +1,79 @@
+{
+  "cloudinaryUrl": "https://player.cloudinary.com/embed/?cloud_name=dtszsqfxo&public_id=ssstik.io__lochlanhowardd_1751276068247_fmtlpr&profile=cld-default",
+  "publicId": "ssstik.io__lochlanhowardd_1751276068247_fmtlpr",
+  "audioFiles": [
+    {
+      "statementId": 1,
+      "speed": 0.7,
+      "filename": "s_irishdancing_speed0.7.mp3",
+      "duration": 5.381188,
+      "wordCount": 11,
+      "transcript": "El niño baila moviendo las piernas y manteniendo los brazos rectos.",
+      "answer": true,
+      "translation": "The boy dances while moving his legs and keeping his arms straight.",
+      "charactersPerSecond": 12.450782243623527,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/f88d4972-284e-4e9a-9971-537134d2879f.mp4"
+    },
+    {
+      "statementId": 2,
+      "speed": 0.8,
+      "filename": "s_irishdancing_speed0.8.mp3",
+      "duration": 4.022813,
+      "wordCount": 11,
+      "transcript": "El niño baila moviendo las piernas y con los brazos rectos.",
+      "answer": true,
+      "translation": "The boy dances with his legs and keeps his arms straight.",
+      "charactersPerSecond": 14.666354115888558,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/8577ab31-5c79-450c-9e91-984167ff7d0d.mp4"
+    },
+    {
+      "statementId": 3,
+      "speed": 0.9,
+      "filename": "s_irishdancing_speed0.9.mp3",
+      "duration": 4.85875,
+      "wordCount": 12,
+      "transcript": "El niño mueve sus piernas para bailar mientras tiene los brazos rectos.",
+      "answer": true,
+      "translation": "The boy moves his legs to dance while keeping his arms straight.",
+      "charactersPerSecond": 14.612811937226654,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/f98e0107-a3ff-46d7-bed0-b48fa79537b9.mp4"
+    },
+    {
+      "statementId": 4,
+      "speed": 1,
+      "filename": "s_irishdancing_speed1.mp3",
+      "duration": 4.362437,
+      "wordCount": 13,
+      "transcript": "El niño baila moviendo sus piernas y manteniendo sus brazos rectos y cerca.",
+      "answer": true,
+      "translation": "The boy dances by moving his legs and keeping his arms straight and close.",
+      "charactersPerSecond": 17.192225354773033,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/818a8a2b-e20b-4c6c-b342-f69fee2cbacd.mp4"
+    },
+    {
+      "statementId": 5,
+      "speed": 1.1,
+      "filename": "s_irishdancing_speed1.1.mp3",
+      "duration": 4.205687,
+      "wordCount": 15,
+      "transcript": "El niño mantiene los brazos rectos y baila moviendo las piernas de lado a lado.",
+      "answer": true,
+      "translation": "The boy keeps his arms straight and dances by moving his legs side to side.",
+      "charactersPerSecond": 18.78408925818778,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/cc92365a-443e-405e-9c3c-c4cf8384754c.mp4"
+    },
+    {
+      "statementId": 6,
+      "speed": 1.2,
+      "filename": "s_irishdancing_speed1.2.mp3",
+      "duration": 3.892188,
+      "wordCount": 15,
+      "transcript": "El niño mantiene los brazos rectos y baila moviendo las piernas de lado a lado.",
+      "answer": true,
+      "translation": "The boy keeps his arms straight and dances by moving his legs side to side.",
+      "charactersPerSecond": 20.297066842608835,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/2b396926-0fe8-4c49-8dad-fbf53580724b.mp4"
+    }
+  ],
+  "timestamp": "2025-07-02T18:37:19.296Z"
+}

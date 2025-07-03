@@ -1,0 +1,79 @@
+{
+  "cloudinaryUrl": "https://player.cloudinary.com/embed/?cloud_name=dtszsqfxo&public_id=ssstik.io__gtworldcheu_1751274926576_fnobpp&profile=cld-default",
+  "publicId": "ssstik.io__gtworldcheu_1751274926576_fnobpp",
+  "audioFiles": [
+    {
+      "statementId": 1,
+      "speed": 0.7,
+      "filename": "s_carrace_speed0.7.mp3",
+      "duration": 4.362437,
+      "wordCount": 10,
+      "transcript": "Los coches corren rápido en la pista durante la noche.",
+      "answer": true,
+      "translation": "The cars speed around the track quickly at night.",
+      "charactersPerSecond": 12.378402255436583,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/40af8b76-8347-473c-bdc4-0cea7c734937.mp4"
+    },
+    {
+      "statementId": 2,
+      "speed": 0.8,
+      "filename": "s_carrace_speed0.8.mp3",
+      "duration": 3.944437,
+      "wordCount": 10,
+      "transcript": "Los coches conducen rápido en la pista durante la noche.",
+      "answer": true,
+      "translation": "The cars drive fast on the track during the night time.",
+      "charactersPerSecond": 14.197209893325713,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/96f6e353-b02e-47b6-aa4f-33c2a33eb29a.mp4"
+    },
+    {
+      "statementId": 3,
+      "speed": 0.9,
+      "filename": "s_carrace_speed0.9.mp3",
+      "duration": 4.257937,
+      "wordCount": 12,
+      "transcript": "Los coches se mueven rápido en la pista durante la carrera nocturna.",
+      "answer": true,
+      "translation": "The cars move fast on the track at night during the race.",
+      "charactersPerSecond": 15.970175228050579,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/bc321722-8ad7-4766-89a9-63aa6552f42a.mp4"
+    },
+    {
+      "statementId": 4,
+      "speed": 1,
+      "filename": "s_carrace_speed1.mp3",
+      "duration": 4.911,
+      "wordCount": 15,
+      "transcript": "Los coches corren a alta velocidad en la pista durante la noche bajo luces brillantes.",
+      "answer": true,
+      "translation": "Cars race at high speed on the track during the night under bright lights.",
+      "charactersPerSecond": 17.511708409692528,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/6c6a1cbe-aa38-444f-a26b-8c88267a668c.mp4"
+    },
+    {
+      "statementId": 5,
+      "speed": 1.1,
+      "filename": "s_carrace_speed1.1.mp3",
+      "duration": 3.709375,
+      "wordCount": 13,
+      "transcript": "Los coches van rápido en la pista de noche bajo las luces brillantes.",
+      "answer": true,
+      "translation": "The cars go fast on the track at night under the bright lights.",
+      "charactersPerSecond": 18.60151642796967,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/f25b91cc-3ef8-4d44-93ee-f7bb4da1a4aa.mp4"
+    },
+    {
+      "statementId": 6,
+      "speed": 1.2,
+      "filename": "s_carrace_speed1.2.mp3",
+      "duration": 3.239125,
+      "wordCount": 13,
+      "transcript": "Los coches van rápido en la pista de noche bajo las luces brillantes.",
+      "answer": true,
+      "translation": "The cars go fast on the track at night under the bright lights.",
+      "charactersPerSecond": 21.30204916451202,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/dc8ca8a2-cf2e-4af8-abfd-29f260215e29.mp4"
+    }
+  ],
+  "timestamp": "2025-07-02T19:00:28.141Z"
+}

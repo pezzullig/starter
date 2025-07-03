@@ -1,0 +1,79 @@
+{
+  "cloudinaryUrl": "https://player.cloudinary.com/embed/?cloud_name=dtszsqfxo&public_id=Massive_MTB_CRASH_-_Over_the_bars_erqjcv&profile=cld-default",
+  "publicId": "Massive_MTB_CRASH_-_Over_the_bars_erqjcv",
+  "audioFiles": [
+    {
+      "statementId": 1,
+      "speed": 0.7,
+      "filename": "s_bike_crash_speed0.7.mp3",
+      "duration": 4.832625,
+      "wordCount": 12,
+      "transcript": "El hombre monta en bicicleta por el bosque y cae al suelo.",
+      "answer": true,
+      "translation": "The man rides a bike in the forest and falls to the ground.",
+      "charactersPerSecond": 12.001758878456325,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/a0bd29b0-1037-424e-b518-dadd47fb90e7.mp4"
+    },
+    {
+      "statementId": 2,
+      "speed": 0.8,
+      "filename": "s_bike_crash_speed0.8.mp3",
+      "duration": 4.075062,
+      "wordCount": 12,
+      "transcript": "Un hombre monta en bicicleta por el bosque y cae al suelo.",
+      "answer": true,
+      "translation": "A man rides a bike in the forest and falls onto the ground.",
+      "charactersPerSecond": 14.232912284524751,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/7dc60360-f1a4-4466-bfa6-649d829de592.mp4"
+    },
+    {
+      "statementId": 3,
+      "speed": 0.9,
+      "filename": "s_bike_crash_speed0.9.mp3",
+      "duration": 3.84,
+      "wordCount": 13,
+      "transcript": "El hombre monta en bicicleta en el bosque y luego cae al suelo.",
+      "answer": true,
+      "translation": "The man rides a bike in the forest and then falls to the ground.",
+      "charactersPerSecond": 16.40625,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/58e7e9f9-a3e2-44c8-972e-b814f581a794.mp4"
+    },
+    {
+      "statementId": 4,
+      "speed": 1,
+      "filename": "s_bike_crash_speed1.mp3",
+      "duration": 3.57875,
+      "wordCount": 13,
+      "transcript": "Un hombre monta su bicicleta en el bosque y luego cae al suelo.",
+      "answer": true,
+      "translation": "A man rides his bike in the forest and then he falls to the ground.",
+      "charactersPerSecond": 17.6039119804401,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/0df6135b-827c-401b-b4db-613506e2b833.mp4"
+    },
+    {
+      "statementId": 5,
+      "speed": 1.1,
+      "filename": "s_bike_crash_speed1.1.mp3",
+      "duration": 3.108563,
+      "wordCount": 12,
+      "transcript": "El hombre monta en bicicleta por el bosque y cae al suelo.",
+      "answer": true,
+      "translation": "The man rides a bike in the forest and falls to the ground.",
+      "charactersPerSecond": 18.65813882491685,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/4d76db74-d736-4595-8ba4-add1c3cf46fc.mp4"
+    },
+    {
+      "statementId": 6,
+      "speed": 1.2,
+      "filename": "s_bike_crash_speed1.2.mp3",
+      "duration": 3.761625,
+      "wordCount": 15,
+      "transcript": "Un hombre monta su bicicleta en el bosque. Se cae y golpea el suelo fuerte.",
+      "answer": true,
+      "translation": "A man rides his bike in the forest. He falls and hits the ground hard.",
+      "charactersPerSecond": 19.938191606021334,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/3cfed4c4-a6e6-4b64-9ad1-1d2b78012085.mp4"
+    }
+  ],
+  "timestamp": "2025-07-02T14:52:35.460Z"
+}

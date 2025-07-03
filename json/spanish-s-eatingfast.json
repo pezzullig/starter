@@ -1,0 +1,79 @@
+{
+  "cloudinaryUrl": "https://player.cloudinary.com/embed/?cloud_name=dtszsqfxo&public_id=Fastest_time_to_eat_a_muffin_-_15.25_seconds_by_Leah_Shutkever_vqzfb6&profile=cld-default",
+  "publicId": "Fastest_time_to_eat_a_muffin_-_15.25_seconds_by_Leah_Shutkever_vqzfb6",
+  "audioFiles": [
+    {
+      "statementId": 1,
+      "speed": 0.7,
+      "filename": "s_eatingfast_speed0.7.mp3",
+      "duration": 4.623625,
+      "wordCount": 12,
+      "transcript": "La mujer come comida rápido y la pone en su boca rápido.",
+      "answer": true,
+      "translation": "The woman eats food quickly and puts it in her mouth fast.",
+      "charactersPerSecond": 12.111708886425696,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/b1be66c9-799a-4055-af5a-9df0498ae369.mp4"
+    },
+    {
+      "statementId": 2,
+      "speed": 0.8,
+      "filename": "s_eatingfast_speed0.8.mp3",
+      "duration": 4.440813,
+      "wordCount": 13,
+      "transcript": "La mujer pone comida en su boca y trata de comerla muy rápido.",
+      "answer": true,
+      "translation": "The woman puts food in her mouth and tries to eat it very fast.",
+      "charactersPerSecond": 13.96140751704699,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/f168499e-c58a-4159-9e20-7984427acb1e.mp4"
+    },
+    {
+      "statementId": 3,
+      "speed": 0.9,
+      "filename": "s_eatingfast_speed0.9.mp3",
+      "duration": 3.657125,
+      "wordCount": 12,
+      "transcript": "La mujer pone comida en la boca y intenta comer muy rápido.",
+      "answer": true,
+      "translation": "The woman quickly puts food in her mouth and tries to eat fast.",
+      "charactersPerSecond": 16.13289127388317,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/3ff9726e-31a4-40b1-864f-1731f9582bc4.mp4"
+    },
+    {
+      "statementId": 4,
+      "speed": 1,
+      "filename": "s_eatingfast_speed1.mp3",
+      "duration": 3.5265,
+      "wordCount": 13,
+      "transcript": "La mujer pone comida en su boca y trata de comerla muy rápido.",
+      "answer": true,
+      "translation": "The woman puts food in her mouth and tries to eat it very fast.",
+      "charactersPerSecond": 17.58117113285127,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/ca656ecc-9556-4abe-86d5-81c10fa66d04.mp4"
+    },
+    {
+      "statementId": 5,
+      "speed": 1.1,
+      "filename": "s_eatingfast_speed1.1.mp3",
+      "duration": 3.160813,
+      "wordCount": 12,
+      "transcript": "La mujer pone comida en la boca y intenta comer muy rápido.",
+      "answer": true,
+      "translation": "The woman quickly puts food in her mouth and tries to eat fast.",
+      "charactersPerSecond": 18.666083694290045,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/45a700e3-d0e3-4715-8a7c-a6a9cd872559.mp4"
+    },
+    {
+      "statementId": 6,
+      "speed": 1.2,
+      "filename": "s_eatingfast_speed1.2.mp3",
+      "duration": 3.78775,
+      "wordCount": 14,
+      "transcript": "La mujer pone comida en su boca rápidamente y trata de comerla muy rápido.",
+      "answer": true,
+      "translation": "The woman quickly puts food in her mouth and tries to eat it all fast.",
+      "charactersPerSecond": 19.536664246584383,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/b8811ca4-fd53-4e5f-a754-5fb3645fc957.mp4"
+    }
+  ],
+  "timestamp": "2025-07-02T18:00:00.915Z"
+}

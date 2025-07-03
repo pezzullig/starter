@@ -1,0 +1,79 @@
+{
+  "cloudinaryUrl": "https://res.cloudinary.com/dtszsqfxo/video/upload/v1751276291/ssstik.io__amanda_nussbaum_1751275314992_bqzsie.mp4",
+  "publicId": "ssstik.io__amanda_nussbaum_1751275314992_bqzsie",
+  "audioFiles": [
+    {
+      "statementId": 1,
+      "speed": 0.7,
+      "filename": "s_demolitionbuilding_speed0.7.mp3",
+      "duration": 4.623625,
+      "wordCount": 9,
+      "transcript": "El edificio cae rápido por las explosiones que ocurren.",
+      "answer": true,
+      "translation": "The building falls down fast because of the explosions that happen.",
+      "charactersPerSecond": 11.895428370596665,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/1f16027d-1d66-48e1-bead-8f3643d6a21c.mp4"
+    },
+    {
+      "statementId": 2,
+      "speed": 0.8,
+      "filename": "s_demolitionbuilding_speed0.8.mp3",
+      "duration": 4.728125,
+      "wordCount": 10,
+      "transcript": "El edificio cae rápido porque hay grandes explosiones que ocurren.",
+      "answer": true,
+      "translation": "The building falls down fast because of the big explosions that happen.",
+      "charactersPerSecond": 13.959021810971578,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/010eeb23-5f0d-4ebe-9eac-45d65b101839.mp4"
+    },
+    {
+      "statementId": 3,
+      "speed": 0.9,
+      "filename": "s_demolitionbuilding_speed0.9.mp3",
+      "duration": 3.996688,
+      "wordCount": 11,
+      "transcript": "El edificio se cae rápido por las explosiones que lo golpean.",
+      "answer": true,
+      "translation": "The building falls down fast because of the explosions that hit it.",
+      "charactersPerSecond": 15.262637463820043,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/b001f47b-8e68-43c9-81b7-6443faa8d0ad.mp4"
+    },
+    {
+      "statementId": 4,
+      "speed": 1,
+      "filename": "s_demolitionbuilding_speed1.mp3",
+      "duration": 3.944437,
+      "wordCount": 10,
+      "transcript": "El edificio cae rápido porque hay grandes explosiones que ocurren.",
+      "answer": true,
+      "translation": "The building falls down fast because of the big explosions that happen.",
+      "charactersPerSecond": 16.732425945705305,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/eb8433a6-9cfe-48f6-b223-770556b7a60f.mp4"
+    },
+    {
+      "statementId": 5,
+      "speed": 1.1,
+      "filename": "s_demolitionbuilding_speed1.1.mp3",
+      "duration": 3.239125,
+      "wordCount": 11,
+      "transcript": "El edificio se cae rápido por las explosiones que lo golpean.",
+      "answer": true,
+      "translation": "The building falls down fast because of the explosions that hit it.",
+      "charactersPerSecond": 18.83224636282947,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/6b5635c8-b2a9-400a-bc28-1ef02ea9dab8.mp4"
+    },
+    {
+      "statementId": 6,
+      "speed": 1.2,
+      "filename": "s_demolitionbuilding_speed1.2.mp3",
+      "duration": 2.742813,
+      "wordCount": 9,
+      "transcript": "El edificio cae rápido por las explosiones que ocurren.",
+      "answer": true,
+      "translation": "The building falls down fast because of the explosions that happen.",
+      "charactersPerSecond": 20.05240605174323,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/889fa901-3610-49c1-8e6a-a68c2277609d.mp4"
+    }
+  ],
+  "timestamp": "2025-07-02T18:27:19.524Z"
+}

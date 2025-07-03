@@ -1,0 +1,79 @@
+{
+  "cloudinaryUrl": "https://player.cloudinary.com/embed/?cloud_name=dtszsqfxo&public_id=ssstik.io__cherineandcathydoll_1751275198957_euusps&profile=cld-default",
+  "publicId": "ssstik.io__cherineandcathydoll_1751275198957_euusps",
+  "audioFiles": [
+    {
+      "statementId": 1,
+      "speed": 0.7,
+      "filename": "s_greypaint_speed0.7.mp3",
+      "duration": 4.205687,
+      "wordCount": 10,
+      "transcript": "La mujer rocía pintura gris en la cerca de madera.",
+      "answer": true,
+      "translation": "The woman sprays grey paint on the wooden fence.",
+      "charactersPerSecond": 11.88866408746062,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/0c68dbd6-1d6c-498d-ad3e-acd7a938b918.mp4"
+    },
+    {
+      "statementId": 2,
+      "speed": 0.8,
+      "filename": "s_greypaint_speed0.8.mp3",
+      "duration": 5.041625,
+      "wordCount": 13,
+      "transcript": "La mujer de cabello rojo pinta una cerca de madera con spray gris.",
+      "answer": true,
+      "translation": "The woman with red hair paints a wooden fence with grey spray paint.",
+      "charactersPerSecond": 13.091017281134555,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/861e3046-337b-4dcf-b221-1a2dead049ce.mp4"
+    },
+    {
+      "statementId": 3,
+      "speed": 0.9,
+      "filename": "s_greypaint_speed0.9.mp3",
+      "duration": 4.623625,
+      "wordCount": 13,
+      "transcript": "Una mujer con pelo rojo pinta una cerca de madera con pintura gris.",
+      "answer": true,
+      "translation": "A woman with red hair paints a wooden fence with grey paint.",
+      "charactersPerSecond": 14.490794560545028,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/d1fbb8e9-f86a-40d1-91d5-d879f963f8b7.mp4"
+    },
+    {
+      "statementId": 4,
+      "speed": 1,
+      "filename": "s_greypaint_speed1.mp3",
+      "duration": 3.996688,
+      "wordCount": 13,
+      "transcript": "La mujer de cabello rojo pinta una cerca de madera con spray gris.",
+      "answer": true,
+      "translation": "The woman with red hair paints a wooden fence with grey spray paint.",
+      "charactersPerSecond": 16.51367332151021,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/1c2cf8e2-0cee-464c-bf55-9e79eca78965.mp4"
+    },
+    {
+      "statementId": 5,
+      "speed": 1.1,
+      "filename": "s_greypaint_speed1.1.mp3",
+      "duration": 4.022813,
+      "wordCount": 13,
+      "transcript": "Una mujer con cabello rojo pinta una cerca de madera con pintura gris.",
+      "answer": true,
+      "translation": "A woman with red hair paints a wooden fence with grey spray paint.",
+      "charactersPerSecond": 17.400759120545747,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/b14becb5-415a-4b89-af51-75250e8d86db.mp4"
+    },
+    {
+      "statementId": 6,
+      "speed": 1.2,
+      "filename": "s_greypaint_speed1.2.mp3",
+      "duration": 3.239125,
+      "wordCount": 13,
+      "transcript": "Una mujer con pelo rojo pinta una cerca de madera con spray gris.",
+      "answer": true,
+      "translation": "A woman with red hair paints a wooden fence with grey spray.",
+      "charactersPerSecond": 20.067147763670743,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/07196654-033c-431b-b021-349dbc9b54f5.mp4"
+    }
+  ],
+  "timestamp": "2025-07-02T19:03:14.706Z"
+}

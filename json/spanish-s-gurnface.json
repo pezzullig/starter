@@ -1,0 +1,79 @@
+{
+  "cloudinaryUrl": "https://player.cloudinary.com/embed/?cloud_name=dtszsqfxo&public_id=Longest_gurn_with_the_lower_lip_covering_the_nostrils_-_1_min_and_2_secs_by_Jovante_Carter_holygxd_qngtbt&profile=cld-default",
+  "publicId": "Longest_gurn_with_the_lower_lip_covering_the_nostrils_-_1_min_and_2_secs_by_Jovante_Carter_holygxd_qngtbt",
+  "audioFiles": [
+    {
+      "statementId": 1,
+      "speed": 0.7,
+      "filename": "s_gurnface_speed0.7.mp3",
+      "duration": 4.85875,
+      "wordCount": 12,
+      "transcript": "Un hombre recibe un premio por ser el más guapo del mundo.",
+      "answer": false,
+      "translation": "A man receives an award for being the most handsome man in the world.",
+      "charactersPerSecond": 11.937226652945718,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/30cb6e82-d629-4745-bf49-030605352f72.mp4"
+    },
+    {
+      "statementId": 2,
+      "speed": 0.8,
+      "filename": "s_gurnface_speed0.8.mp3",
+      "duration": 3.996688,
+      "wordCount": 12,
+      "transcript": "Un hombre recibe un premio por ser el más guapo del mundo.",
+      "answer": false,
+      "translation": "A man receives an award for being the most handsome man in the world.",
+      "charactersPerSecond": 14.512015949205944,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/1ee4e27b-9be5-41d4-b29a-72f2013e8eb7.mp4"
+    },
+    {
+      "statementId": 3,
+      "speed": 0.9,
+      "filename": "s_gurnface_speed0.9.mp3",
+      "duration": 3.657125,
+      "wordCount": 13,
+      "transcript": "Un hombre gana un premio por ser el más guapo del mundo hoy.",
+      "answer": false,
+      "translation": "A man wins an award for being the most handsome man in the world today.",
+      "charactersPerSecond": 16.406330109033735,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/81b940ce-0e4f-4be1-91a8-e1f3dcf1322d.mp4"
+    },
+    {
+      "statementId": 4,
+      "speed": 1,
+      "filename": "s_gurnface_speed1.mp3",
+      "duration": 3.709375,
+      "wordCount": 13,
+      "transcript": "El hombre recibe un premio por ser el hombre más guapo del mundo.",
+      "answer": false,
+      "translation": "The man receives an award for being the most beautiful man in the world.",
+      "charactersPerSecond": 17.523167649536646,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/9a8ff950-1d5e-4e8b-bf87-21b46c0c234c.mp4"
+    },
+    {
+      "statementId": 5,
+      "speed": 1.1,
+      "filename": "s_gurnface_speed1.1.mp3",
+      "duration": 3.5265,
+      "wordCount": 13,
+      "transcript": "El hombre recibe un premio por ser el hombre más guapo del mundo.",
+      "answer": false,
+      "translation": "The man receives an award for being the most beautiful man in the world.",
+      "charactersPerSecond": 18.4318729618602,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/e66a7621-240f-4c58-bc0b-d9612a6c894b.mp4"
+    },
+    {
+      "statementId": 6,
+      "speed": 1.2,
+      "filename": "s_gurnface_speed1.2.mp3",
+      "duration": 3.186937,
+      "wordCount": 13,
+      "transcript": "Un hombre recibe un premio por ser el hombre más bello del mundo.",
+      "answer": false,
+      "translation": "A man receives an award for being the most beautiful man in the world.",
+      "charactersPerSecond": 20.39575931372349,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/494acbef-be50-4f04-b4e9-7bed1a008ef9.mp4"
+    }
+  ],
+  "timestamp": "2025-07-02T18:01:48.238Z"
+}

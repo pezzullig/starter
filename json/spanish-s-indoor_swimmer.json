@@ -1,0 +1,79 @@
+{
+  "cloudinaryUrl": "https://player.cloudinary.com/embed/?cloud_name=dtszsqfxo&public_id=ssstik.io__olympics_1751275658407_ztdjkj&profile=cld-default",
+  "publicId": "ssstik.io__olympics_1751275658407_ztdjkj",
+  "audioFiles": [
+    {
+      "statementId": 1,
+      "speed": 0.7,
+      "filename": "s_indoor_swimmer_speed0.7.mp3",
+      "duration": 4.728125,
+      "wordCount": 10,
+      "transcript": "El pez entrena nadando en la piscina para la competencia.",
+      "answer": false,
+      "translation": "The fish trains by swimming in the pool for the competition.",
+      "charactersPerSecond": 12.055518836748181,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/30e22eff-4785-4b14-9ffe-79d3fd0abc4f.mp4"
+    },
+    {
+      "statementId": 2,
+      "speed": 0.8,
+      "filename": "s_indoor_swimmer_speed0.8.mp3",
+      "duration": 5.041625,
+      "wordCount": 13,
+      "transcript": "El pez nada en la piscina para practicar para el concurso de natación.",
+      "answer": false,
+      "translation": "The fish swims in the pool to practice for the swimming contest.",
+      "charactersPerSecond": 13.884412267869983,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/5657adc1-a874-4dcc-9248-ad2f134cbb58.mp4"
+    },
+    {
+      "statementId": 3,
+      "speed": 0.9,
+      "filename": "s_indoor_swimmer_speed0.9.mp3",
+      "duration": 4.440813,
+      "wordCount": 12,
+      "transcript": "El pez nada en la piscina interior para practicar para una competencia.",
+      "answer": false,
+      "translation": "The fish swims in the indoor pool to practice for a competition.",
+      "charactersPerSecond": 15.988063446940908,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/3066110e-8148-4795-9cb7-3473db88dd3a.mp4"
+    },
+    {
+      "statementId": 4,
+      "speed": 1,
+      "filename": "s_indoor_swimmer_speed1.mp3",
+      "duration": 4.205687,
+      "wordCount": 14,
+      "transcript": "El pez nada en la piscina interior para practicar para una carrera de nado.",
+      "answer": false,
+      "translation": "The fish swims in the indoor pool to practice for a swimming race.",
+      "charactersPerSecond": 17.83299613119093,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/0218966d-c049-4d5f-b052-4e4b7d376b9b.mp4"
+    },
+    {
+      "statementId": 5,
+      "speed": 1.1,
+      "filename": "s_indoor_swimmer_speed1.1.mp3",
+      "duration": 4.440813,
+      "wordCount": 14,
+      "transcript": "El pez nada en la piscina interior para prepararse para una competencia de natación.",
+      "answer": false,
+      "translation": "The fish swims in the indoor pool to get ready for a swimming race.",
+      "charactersPerSecond": 18.915455345676566,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/73c3a40a-502d-4b61-8a30-a2b9142930a1.mp4"
+    },
+    {
+      "statementId": 6,
+      "speed": 1.2,
+      "filename": "s_indoor_swimmer_speed1.2.mp3",
+      "duration": 3.47425,
+      "wordCount": 13,
+      "transcript": "El pez nada en una piscina para practicar para una carrera de natación.",
+      "answer": false,
+      "translation": "The fish swims in a pool to practice for a swimming race.",
+      "charactersPerSecond": 20.4360653378427,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/91dacedb-c24f-487f-a141-3f90432f80ae.mp4"
+    }
+  ],
+  "timestamp": "2025-07-02T18:32:24.593Z"
+}

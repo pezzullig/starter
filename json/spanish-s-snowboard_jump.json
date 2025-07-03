@@ -1,0 +1,79 @@
+{
+  "cloudinaryUrl": "https://player.cloudinary.com/embed/?cloud_name=dtszsqfxo&public_id=The_Perfect_Line_evcdhb&profile=cld-default",
+  "publicId": "The_Perfect_Line_evcdhb",
+  "audioFiles": [
+    {
+      "statementId": 1,
+      "speed": 0.7,
+      "filename": "s_snowboard_jump_speed0.7.mp3",
+      "duration": 5.746937,
+      "wordCount": 14,
+      "transcript": "La persona salta alto en la tabla de snowboard y trata de no mojarse.",
+      "answer": true,
+      "translation": "The person jumps high on the snowboard and tries to stay dry.",
+      "charactersPerSecond": 12.00639575481687,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/6ef272dc-1ff6-478b-8d7e-412565f452fb.mp4"
+    },
+    {
+      "statementId": 2,
+      "speed": 0.8,
+      "filename": "s_snowboard_jump_speed0.8.mp3",
+      "duration": 3.186937,
+      "wordCount": 9,
+      "transcript": "La persona salta alto en una tabla sobre agua.",
+      "answer": true,
+      "translation": "The person jumps high on a snowboard over water.",
+      "charactersPerSecond": 14.433921975865855,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/223c3cb2-a4b8-42e5-91c4-47a94d565992.mp4"
+    },
+    {
+      "statementId": 3,
+      "speed": 0.9,
+      "filename": "s_snowboard_jump_speed0.9.mp3",
+      "duration": 3.604875,
+      "wordCount": 12,
+      "transcript": "La persona salta lejos en una tabla de snowboard y se seca.",
+      "answer": true,
+      "translation": "The person jumps far on a snowboard and stays dry.",
+      "charactersPerSecond": 16.366725614619092,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/6fe526a4-0410-4f06-9000-0a4a808c7c47.mp4"
+    },
+    {
+      "statementId": 4,
+      "speed": 1,
+      "filename": "s_snowboard_jump_speed1.mp3",
+      "duration": 2.768937,
+      "wordCount": 10,
+      "transcript": "La persona salta alto en una tabla sobre el agua.",
+      "answer": true,
+      "translation": "The person jumps high on a snowboard over the water.",
+      "charactersPerSecond": 17.69632172924122,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/17890ec5-1d1c-4261-84ca-14e05da8b877.mp4"
+    },
+    {
+      "statementId": 5,
+      "speed": 1.1,
+      "filename": "s_snowboard_jump_speed1.1.mp3",
+      "duration": 3.160813,
+      "wordCount": 12,
+      "transcript": "La persona salta lejos en una tabla de snowboard y se seca.",
+      "answer": true,
+      "translation": "The person jumps far on a snowboard and stays dry.",
+      "charactersPerSecond": 18.666083694290045,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/a769bcaa-f237-4763-aa31-2cbbe478e7f9.mp4"
+    },
+    {
+      "statementId": 6,
+      "speed": 1.2,
+      "filename": "s_snowboard_jump_speed1.2.mp3",
+      "duration": 3.892188,
+      "wordCount": 16,
+      "transcript": "Una persona salta alto en una tabla de snowboard y trata de no caer al agua.",
+      "answer": true,
+      "translation": "A person jumps high on a snowboard and tries to avoid falling into the water.",
+      "charactersPerSecond": 19.526292152383185,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/2b224086-0d8f-45bb-ad4b-3cc82e09da95.mp4"
+    }
+  ],
+  "timestamp": "2025-07-02T14:54:40.854Z"
+}

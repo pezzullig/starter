@@ -1,0 +1,79 @@
+{
+  "cloudinaryUrl": "https://res.cloudinary.com/dtszsqfxo/video/upload/v1751294299/ssstik.io__scottishjourneys_1751293454258_lcl7yx.mp4",
+  "publicId": "ssstik.io__scottishjourneys_1751293454258_lcl7yx",
+  "audioFiles": [
+    {
+      "statementId": 1,
+      "speed": 0.7,
+      "filename": "s_soldiermarch_speed0.7.mp3",
+      "duration": 5.041625,
+      "wordCount": 9,
+      "transcript": "Los soldados caminan juntos en la calle tocando instrumentos.",
+      "answer": true,
+      "translation": "Soldiers walk together in the street playing musical instruments.",
+      "charactersPerSecond": 12.09927354771527,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/1c57cf3c-2ae0-48ff-95a3-372777cc4f10.mp4"
+    },
+    {
+      "statementId": 2,
+      "speed": 0.8,
+      "filename": "s_soldiermarch_speed0.8.mp3",
+      "duration": 4.362437,
+      "wordCount": 9,
+      "transcript": "Los soldados caminan juntos en la calle tocando instrumentos.",
+      "answer": true,
+      "translation": "Soldiers walk together in the street playing musical instruments.",
+      "charactersPerSecond": 13.9830099552154,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/4b7f7612-c1c5-4135-b6cc-c26083a895a4.mp4"
+    },
+    {
+      "statementId": 3,
+      "speed": 0.9,
+      "filename": "s_soldiermarch_speed0.9.mp3",
+      "duration": 4.728125,
+      "wordCount": 10,
+      "transcript": "Soldados caminan juntos por la calle mientras tocan instrumentos musicales.",
+      "answer": true,
+      "translation": "Soldiers walk together down the street while they play musical instruments.",
+      "charactersPerSecond": 15.862524785194976,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/43040856-4ff8-411b-877a-55c4f43e278f.mp4"
+    },
+    {
+      "statementId": 4,
+      "speed": 1,
+      "filename": "s_soldiermarch_speed1.mp3",
+      "duration": 4.493062,
+      "wordCount": 11,
+      "transcript": "Los soldados marchan juntos por la calle mientras tocan instrumentos musicales.",
+      "answer": true,
+      "translation": "Soldiers march together on the street while they play musical instruments.",
+      "charactersPerSecond": 17.582664116364295,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/cf5c8dd1-bca4-4732-a5d0-3b2c948cde5d.mp4"
+    },
+    {
+      "statementId": 5,
+      "speed": 1.1,
+      "filename": "s_soldiermarch_speed1.1.mp3",
+      "duration": 3.996688,
+      "wordCount": 11,
+      "transcript": "Los soldados caminan juntos por la calle mientras tocan instrumentos musicales.",
+      "answer": true,
+      "translation": "The soldiers walk together in the street while they play musical instruments.",
+      "charactersPerSecond": 19.766366551504646,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/d2007683-2741-4c2f-b9ad-1218ddd9d9c8.mp4"
+    },
+    {
+      "statementId": 6,
+      "speed": 1.2,
+      "filename": "s_soldiermarch_speed1.2.mp3",
+      "duration": 3.761625,
+      "wordCount": 10,
+      "transcript": "Soldados caminan juntos por la calle mientras tocan instrumentos musicales.",
+      "answer": true,
+      "translation": "Soldiers walk together down the street while they play musical instruments.",
+      "charactersPerSecond": 19.938191606021334,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/36ca501d-2713-4f41-82b1-890eddf8d30d.mp4"
+    }
+  ],
+  "timestamp": "2025-07-02T18:38:22.038Z"
+}

@@ -1,0 +1,79 @@
+{
+  "cloudinaryUrl": "https://res.cloudinary.com/dtszsqfxo/video/upload/v1751294287/ssstik.io__whatnext_2_1751292736943_axawlf.mp4",
+  "publicId": "ssstik.io__whatnext_2_1751292736943_axawlf",
+  "audioFiles": [
+    {
+      "statementId": 1,
+      "speed": 0.7,
+      "filename": "s_drinkjuice_speed0.7.mp3",
+      "duration": 4.493062,
+      "wordCount": 10,
+      "transcript": "El hombre bebe su jugo rápido con una camiseta blanca.",
+      "answer": true,
+      "translation": "The man drinks his juice fast while in a white t-shirt.",
+      "charactersPerSecond": 12.018529902324962,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/7b67016e-3b0b-4643-9b77-ac57ba298064.mp4"
+    },
+    {
+      "statementId": 2,
+      "speed": 0.8,
+      "filename": "s_drinkjuice_speed0.8.mp3",
+      "duration": 4.96325,
+      "wordCount": 10,
+      "transcript": "El hombre bebe jugo rápidamente mientras lleva una camiseta blanca.",
+      "answer": true,
+      "translation": "The man drinks juice quickly while he wears a white t-shirt.",
+      "charactersPerSecond": 13.499219261572557,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/1ced5c80-108a-4311-b30f-8e1739f90e7b.mp4"
+    },
+    {
+      "statementId": 3,
+      "speed": 0.9,
+      "filename": "s_drinkjuice_speed0.9.mp3",
+      "duration": 4.414688,
+      "wordCount": 10,
+      "transcript": "El hombre bebe jugo rápidamente mientras lleva una camiseta blanca.",
+      "answer": true,
+      "translation": "The man drinks juice quickly while he wears a white t-shirt.",
+      "charactersPerSecond": 15.176610442232837,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/1bb1ff85-488d-4240-afc7-e9749b5da55a.mp4"
+    },
+    {
+      "statementId": 4,
+      "speed": 1,
+      "filename": "s_drinkjuice_speed1.mp3",
+      "duration": 3.944437,
+      "wordCount": 10,
+      "transcript": "El hombre bebe jugo rápidamente mientras lleva una camiseta blanca.",
+      "answer": true,
+      "translation": "The man drinks juice quickly while he wears a white t-shirt.",
+      "charactersPerSecond": 16.985947550943266,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/60a33e49-4555-4e22-a3f7-a679906e1f2f.mp4"
+    },
+    {
+      "statementId": 5,
+      "speed": 1.1,
+      "filename": "s_drinkjuice_speed1.1.mp3",
+      "duration": 3.84,
+      "wordCount": 11,
+      "transcript": "El hombre bebe su jugo rápidamente mientras lleva una camiseta blanca.",
+      "answer": true,
+      "translation": "The man drinks his juice fast while he wears a white t-shirt.",
+      "charactersPerSecond": 18.229166666666668,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/a4161471-6fc0-4286-bab0-e6775e36d8ef.mp4"
+    },
+    {
+      "statementId": 6,
+      "speed": 1.2,
+      "filename": "s_drinkjuice_speed1.2.mp3",
+      "duration": 3.5265,
+      "wordCount": 11,
+      "transcript": "El hombre bebe su jugo rápidamente mientras lleva una camiseta blanca.",
+      "answer": true,
+      "translation": "The man drinks his juice fast while he wears a white t-shirt.",
+      "charactersPerSecond": 19.849709343541754,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/8cdcd679-c9ce-4eae-a6b3-2a7ec7d8acca.mp4"
+    }
+  ],
+  "timestamp": "2025-07-02T18:40:30.718Z"
+}

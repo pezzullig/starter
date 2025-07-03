@@ -1,0 +1,79 @@
+{
+  "cloudinaryUrl": "https://player.cloudinary.com/embed/?cloud_name=dtszsqfxo&public_id=The_she_wolves_of_Atlanta_were_fire_tonight_my_pack_is_back_LMYNLWorldTourAtlanta_gmcurp&profile=cld-default",
+  "publicId": "The_she_wolves_of_Atlanta_were_fire_tonight_my_pack_is_back_LMYNLWorldTourAtlanta_gmcurp",
+  "audioFiles": [
+    {
+      "statementId": 1,
+      "speed": 0.7,
+      "filename": "s_shakirastage_speed0.7.mp3",
+      "duration": 4.911,
+      "wordCount": 11,
+      "transcript": "Shakira canta en el escenario con el cabello largo y suelto.",
+      "answer": true,
+      "translation": "Shakira performs on stage with long hair flowing behind her.",
+      "charactersPerSecond": 12.217470983506415,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/05ca51c3-0c93-476e-a450-da400f2630c4.mp4"
+    },
+    {
+      "statementId": 2,
+      "speed": 0.8,
+      "filename": "s_shakirastage_speed0.8.mp3",
+      "duration": 4.127313,
+      "wordCount": 11,
+      "transcript": "Shakira canta en el escenario con el cabello largo y suelto.",
+      "answer": true,
+      "translation": "Shakira performs on stage with long hair flowing behind her.",
+      "charactersPerSecond": 14.537303083143925,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/2baca63b-72fc-4daa-af9f-c8eab7c7676f.mp4"
+    },
+    {
+      "statementId": 3,
+      "speed": 0.9,
+      "filename": "s_shakirastage_speed0.9.mp3",
+      "duration": 4.85875,
+      "wordCount": 15,
+      "transcript": "Shakira canta en el escenario y tiene el pelo largo que se mueve cuando actúa.",
+      "answer": true,
+      "translation": "Shakira sings on stage and she has long hair that moves as she performs.",
+      "charactersPerSecond": 16.05351170568562,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/ac7a4e05-a8c6-4dc8-ab44-10a98c873cc5.mp4"
+    },
+    {
+      "statementId": 4,
+      "speed": 1,
+      "filename": "s_shakirastage_speed1.mp3",
+      "duration": 3.944437,
+      "wordCount": 12,
+      "transcript": "Shakira está en el escenario y tiene el cabello largo mientras canta.",
+      "answer": true,
+      "translation": "Shakira is on stage and she has long hair while she sings.",
+      "charactersPerSecond": 17.492990761419183,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/0d1a0fbb-85ee-42cb-99b4-fc36608054b8.mp4"
+    },
+    {
+      "statementId": 5,
+      "speed": 1.1,
+      "filename": "s_shakirastage_speed1.1.mp3",
+      "duration": 3.709375,
+      "wordCount": 12,
+      "transcript": "Shakira está en el escenario y tiene el cabello largo mientras canta.",
+      "answer": true,
+      "translation": "Shakira is on stage and she has long hair while she sings.",
+      "charactersPerSecond": 18.60151642796967,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/98c5af58-457b-4b7c-82fa-0192c9ca574d.mp4"
+    },
+    {
+      "statementId": 6,
+      "speed": 1.2,
+      "filename": "s_shakirastage_speed1.2.mp3",
+      "duration": 3.160813,
+      "wordCount": 13,
+      "transcript": "Shakira actúa en el escenario y tiene el cabello largo que se mueve.",
+      "answer": true,
+      "translation": "Shakira performs on stage and has long hair that moves with her.",
+      "charactersPerSecond": 21.513452393419033,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/4853579c-8df9-4d14-939e-cf56e6c999be.mp4"
+    }
+  ],
+  "timestamp": "2025-07-02T17:56:32.836Z"
+}

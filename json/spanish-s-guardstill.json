@@ -1,0 +1,79 @@
+{
+  "cloudinaryUrl": "https://player.cloudinary.com/embed/?cloud_name=dtszsqfxo&public_id=The_King_s_Guard_Standing_Still_npsysx&profile=cld-default",
+  "publicId": "The_King_s_Guard_Standing_Still_npsysx",
+  "audioFiles": [
+    {
+      "statementId": 1,
+      "speed": 0.7,
+      "filename": "s_guardstill_speed0.7.mp3",
+      "duration": 4.205687,
+      "wordCount": 10,
+      "transcript": "El hombre está quieto porque tiene miedo de ser visto.",
+      "answer": false,
+      "translation": "The man stands still because he is afraid of being seen.",
+      "charactersPerSecond": 12.839757214457471,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/ad9f5d57-b55d-442e-9948-bcca9db77a18.mp4"
+    },
+    {
+      "statementId": 2,
+      "speed": 0.8,
+      "filename": "s_guardstill_speed0.8.mp3",
+      "duration": 4.54525,
+      "wordCount": 13,
+      "transcript": "El hombre está muy quieto porque tiene miedo de que lo vean otros.",
+      "answer": false,
+      "translation": "The man stands very still because he is afraid of being seen by others.",
+      "charactersPerSecond": 14.520653429404323,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/b4eb6111-0669-46ca-9c84-f5e73b61b065.mp4"
+    },
+    {
+      "statementId": 3,
+      "speed": 0.9,
+      "filename": "s_guardstill_speed0.9.mp3",
+      "duration": 4.127313,
+      "wordCount": 13,
+      "transcript": "El hombre está muy quieto porque tiene miedo de que lo vean otros.",
+      "answer": false,
+      "translation": "The man stands very still because he is afraid of being seen by others.",
+      "charactersPerSecond": 15.991033391458316,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/77bde174-7915-4825-936c-4fd3b5f658fb.mp4"
+    },
+    {
+      "statementId": 4,
+      "speed": 1,
+      "filename": "s_guardstill_speed1.mp3",
+      "duration": 3.604875,
+      "wordCount": 12,
+      "transcript": "El hombre está quieto porque no quiere que otras personas lo vean.",
+      "answer": false,
+      "translation": "The man stands still because he does not want other people to see him.",
+      "charactersPerSecond": 18.308540518048478,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/b9b1a726-a400-423a-84d3-cef77518d360.mp4"
+    },
+    {
+      "statementId": 5,
+      "speed": 1.1,
+      "filename": "s_guardstill_speed1.1.mp3",
+      "duration": 3.47425,
+      "wordCount": 13,
+      "transcript": "El hombre está muy quieto porque tiene miedo de que lo vean otros.",
+      "answer": false,
+      "translation": "The man stands very still because he is afraid of being seen by others.",
+      "charactersPerSecond": 18.996905807008705,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/9f3760f8-ecc1-401b-a7f8-932fb2ca6b16.mp4"
+    },
+    {
+      "statementId": 6,
+      "speed": 1.2,
+      "filename": "s_guardstill_speed1.2.mp3",
+      "duration": 2.638313,
+      "wordCount": 11,
+      "transcript": "El hombre está muy quieto porque tiene miedo de ser visto.",
+      "answer": false,
+      "translation": "The man stands very still because he is afraid of being seen.",
+      "charactersPerSecond": 21.9837449157852,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/597b05ad-75f8-41c2-9104-3e658d260d72.mp4"
+    }
+  ],
+  "timestamp": "2025-07-02T18:53:24.518Z"
+}

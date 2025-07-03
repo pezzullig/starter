@@ -1,0 +1,533 @@
+{
+  "voiceId": "21m00Tcm4TlvDq8ikWAM",
+  "summary": {
+    "overallAverageCharactersPerSecond": 15.7,
+    "speedAverages": [
+      {
+        "speed": 0.7,
+        "averageCharactersPerSecond": 12.0,
+        "averageDuration": 9.3,
+        "statementCount": 10
+      },
+      {
+        "speed": 0.8,
+        "averageCharactersPerSecond": 14.3,
+        "averageDuration": 6.5,
+        "statementCount": 10
+      },
+      {
+        "speed": 0.9,
+        "averageCharactersPerSecond": 16.3,
+        "averageDuration": 5.7,
+        "statementCount": 10
+      },
+      {
+        "speed": 1.0,
+        "averageCharactersPerSecond": 17.6,
+        "averageDuration": 6.7,
+        "statementCount": 10
+      },
+      {
+        "speed": 1.1,
+        "averageCharactersPerSecond": 18.7,
+        "averageDuration": 5.8,
+        "statementCount": 10
+      },
+      {
+        "speed": 1.2,
+        "averageCharactersPerSecond": 19.7,
+        "averageDuration": 5.8,
+        "statementCount": 10
+      }
+    ]
+  },
+  "speeds": [
+    {
+      "speed": 0.7,
+      "statements": [
+        {
+          "id": 1,
+          "spanishText": "Hoy voy a la tienda para comprar pan, frutas y leche. Me gusta hacer la compra.",
+          "wordCount": 16,
+          "characterCount": 79,
+          "duration": 6.873,
+          "charactersPerSecond": 11.494252873563218,
+          "filename": "voice/21m00Tcm4TlvDq8ikWAM/speed0.7_stmt1.mp3"
+        },
+        {
+          "id": 2,
+          "spanishText": "Hoy voy al parque con mis amigos. Vamos a jugar fútbol y comer una pizza deliciosa juntos.",
+          "wordCount": 17,
+          "characterCount": 90,
+          "duration": 7.4215625,
+          "charactersPerSecond": 12.126826392690218,
+          "filename": "voice/21m00Tcm4TlvDq8ikWAM/speed0.7_stmt2.mp3"
+        },
+        {
+          "id": 3,
+          "spanishText": "Me gusta mucho el chocolate y siempre lo como en la tarde.",
+          "wordCount": 12,
+          "characterCount": 58,
+          "duration": 4.182375,
+          "charactersPerSecond": 13.867718700499116,
+          "filename": "voice/21m00Tcm4TlvDq8ikWAM/speed0.7_stmt3.mp3"
+        },
+        {
+          "id": 4,
+          "spanishText": "Me gusta mucho el chocolate y siempre lo como con pan en el desayuno cada mañana.",
+          "wordCount": 16,
+          "characterCount": 81,
+          "duration": 6.2983125,
+          "charactersPerSecond": 12.860587657408235,
+          "filename": "voice/21m00Tcm4TlvDq8ikWAM/speed0.7_stmt4.mp3"
+        },
+        {
+          "id": 5,
+          "spanishText": "Hoy voy al parque con mis amigos para jugar y disfrutar del sol y la naturaleza.",
+          "wordCount": 16,
+          "characterCount": 80,
+          "duration": 6.1676875,
+          "charactersPerSecond": 12.970825775462846,
+          "filename": "voice/21m00Tcm4TlvDq8ikWAM/speed0.7_stmt5.mp3"
+        },
+        {
+          "id": 6,
+          "spanishText": "Hoy es un día soleado y caluroso. Quiero ir al parque con mis amigos para jugar, comer y disfrutar del aire libre. Me gusta mucho la naturaleza.",
+          "wordCount": 27,
+          "characterCount": 144,
+          "duration": 12.6199375,
+          "charactersPerSecond": 11.410516098039313,
+          "filename": "voice/21m00Tcm4TlvDq8ikWAM/speed0.7_stmt6.mp3"
+        },
+        {
+          "id": 7,
+          "spanishText": "Hoy voy al parque con mis amigos. Hacemos un picnic y jugamos al fútbol. Será un día muy divertido.",
+          "wordCount": 19,
+          "characterCount": 99,
+          "duration": 8.5970625,
+          "charactersPerSecond": 11.51556127456326,
+          "filename": "voice/21m00Tcm4TlvDq8ikWAM/speed0.7_stmt7.mp3"
+        },
+        {
+          "id": 8,
+          "spanishText": "Hoy es un día soleado. Me gusta salir a caminar en el parque. Allí veo árboles, flores y muchas personas. Escucho música y disfruto del aire fresco.",
+          "wordCount": 27,
+          "characterCount": 148,
+          "duration": 13.8738125,
+          "charactersPerSecond": 10.667579657718454,
+          "filename": "voice/21m00Tcm4TlvDq8ikWAM/speed0.7_stmt8.mp3"
+        },
+        {
+          "id": 9,
+          "spanishText": "Hoy es un día soleado y caluroso. Quiero ir al parque con mis amigos. Vamos a jugar, comer helado y disfrutar del tiempo juntos. Será muy divertido.",
+          "wordCount": 27,
+          "characterCount": 148,
+          "duration": 12.6199375,
+          "charactersPerSecond": 11.727474878540404,
+          "filename": "voice/21m00Tcm4TlvDq8ikWAM/speed0.7_stmt9.mp3"
+        },
+        {
+          "id": 10,
+          "spanishText": "Hoy es un día soleado. Me gusta salir a caminar en el parque. Allí veo árboles, flores y muchas personas. Escucho música y disfruto del aire fresco y limpio.",
+          "wordCount": 29,
+          "characterCount": 157,
+          "duration": 14.213375,
+          "charactersPerSecond": 11.045933847520383,
+          "filename": "voice/21m00Tcm4TlvDq8ikWAM/speed0.7_stmt10.mp3"
+        }
+      ],
+      "averageCharactersPerSecond": 11.968727715600544,
+      "averageDuration": 9.28670625
+    },
+    {
+      "speed": 0.8,
+      "statements": [
+        {
+          "id": 1,
+          "spanishText": "Hoy hace buen tiempo, así que vamos al parque a jugar y a disfrutar del sol con nuestros amigos y familia.",
+          "wordCount": 21,
+          "characterCount": 106,
+          "duration": 7.1341875,
+          "charactersPerSecond": 14.858033938693088,
+          "filename": "voice/21m00Tcm4TlvDq8ikWAM/speed0.8_stmt1.mp3"
+        },
+        {
+          "id": 2,
+          "spanishText": "Hoy hace buen tiempo y quiero ir al parque con mis amigos a jugar.",
+          "wordCount": 14,
+          "characterCount": 66,
+          "duration": 4.130125,
+          "charactersPerSecond": 15.980145879362006,
+          "filename": "voice/21m00Tcm4TlvDq8ikWAM/speed0.8_stmt2.mp3"
+        },
+        {
+          "id": 3,
+          "spanishText": "Hoy es un día soleado y caluroso. Me gusta salir a caminar y disfrutar del aire fresco con mis amigos.",
+          "wordCount": 20,
+          "characterCount": 102,
+          "duration": 7.4215625,
+          "charactersPerSecond": 13.743736578382247,
+          "filename": "voice/21m00Tcm4TlvDq8ikWAM/speed0.8_stmt3.mp3"
+        },
+        {
+          "id": 4,
+          "spanishText": "Hoy es un día soleado y caluroso. Me gusta salir a caminar en el parque con mis amigos y disfrutar de la naturaleza.",
+          "wordCount": 23,
+          "characterCount": 116,
+          "duration": 8.5448125,
+          "charactersPerSecond": 13.575488051961349,
+          "filename": "voice/21m00Tcm4TlvDq8ikWAM/speed0.8_stmt4.mp3"
+        },
+        {
+          "id": 5,
+          "spanishText": "Hoy hace sol y tengo tiempo libre. Quiero ir al parque con mis amigos. Vamos a jugar, hablar y comer algo rico. Será un día muy divertido.",
+          "wordCount": 27,
+          "characterCount": 138,
+          "duration": 9.8509375,
+          "charactersPerSecond": 14.008818957586524,
+          "filename": "voice/21m00Tcm4TlvDq8ikWAM/speed0.8_stmt5.mp3"
+        },
+        {
+          "id": 6,
+          "spanishText": "Hoy es un día soleado. Me gusta salir a caminar en el parque. Puedo ver flores y escuchar a los pájaros cantar. Es muy bonito.",
+          "wordCount": 25,
+          "characterCount": 126,
+          "duration": 9.7986875,
+          "charactersPerSecond": 12.858865026566058,
+          "filename": "voice/21m00Tcm4TlvDq8ikWAM/speed0.8_stmt6.mp3"
+        },
+        {
+          "id": 7,
+          "spanishText": "Me gusta mucho ir al parque con mis amigos los fines de semana en verano.",
+          "wordCount": 15,
+          "characterCount": 73,
+          "duration": 5.0183125,
+          "charactersPerSecond": 14.54672262837358,
+          "filename": "voice/21m00Tcm4TlvDq8ikWAM/speed0.8_stmt7.mp3"
+        },
+        {
+          "id": 8,
+          "spanishText": "Hoy es un día soleado y caluroso. Quiero ir al parque con mis amigos para jugar y divertirnos.",
+          "wordCount": 18,
+          "characterCount": 94,
+          "duration": 6.951375,
+          "charactersPerSecond": 13.522504540468613,
+          "filename": "voice/21m00Tcm4TlvDq8ikWAM/speed0.8_stmt8.mp3"
+        },
+        {
+          "id": 9,
+          "spanishText": "Me gusta el café y el té por la mañana.",
+          "wordCount": 10,
+          "characterCount": 39,
+          "duration": 2.693375,
+          "charactersPerSecond": 14.479974010303058,
+          "filename": "voice/21m00Tcm4TlvDq8ikWAM/speed0.8_stmt9.mp3"
+        },
+        {
+          "id": 10,
+          "spanishText": "Hoy hace buen tiempo y quiero ir al parque con mis amigos.",
+          "wordCount": 12,
+          "characterCount": 58,
+          "duration": 3.8428125,
+          "charactersPerSecond": 15.093112141172643,
+          "filename": "voice/21m00Tcm4TlvDq8ikWAM/speed0.8_stmt10.mp3"
+        }
+      ],
+      "averageCharactersPerSecond": 14.266740175286918,
+      "averageDuration": 6.53861875
+    },
+    {
+      "speed": 0.9,
+      "statements": [
+        {
+          "id": 1,
+          "spanishText": "Hoy voy al parque con mis amigos y queremos jugar al fútbol por la tarde.",
+          "wordCount": 15,
+          "characterCount": 73,
+          "duration": 4.2085,
+          "charactersPerSecond": 17.34584768920043,
+          "filename": "voice/21m00Tcm4TlvDq8ikWAM/speed0.9_stmt1.mp3"
+        },
+        {
+          "id": 2,
+          "spanishText": "Hoy es un día soleado y caluroso. Me gusta salir a caminar y disfrutar del aire fresco en el parque con mis amigos.",
+          "wordCount": 23,
+          "characterCount": 115,
+          "duration": 7.1864375,
+          "charactersPerSecond": 16.002365567083828,
+          "filename": "voice/21m00Tcm4TlvDq8ikWAM/speed0.9_stmt2.mp3"
+        },
+        {
+          "id": 3,
+          "spanishText": "Hoy es un día soleado y me gusta mucho salir a caminar. También quiero comprar frutas y verduras en el mercado. Espero ver a mis amigos allí.",
+          "wordCount": 27,
+          "characterCount": 141,
+          "duration": 9.041125,
+          "charactersPerSecond": 15.595404332978475,
+          "filename": "voice/21m00Tcm4TlvDq8ikWAM/speed0.9_stmt3.mp3"
+        },
+        {
+          "id": 4,
+          "spanishText": "Hoy es un día soleado y perfecto para salir a caminar en el parque con amigos.",
+          "wordCount": 16,
+          "characterCount": 78,
+          "duration": 4.6786875,
+          "charactersPerSecond": 16.6713421231916,
+          "filename": "voice/21m00Tcm4TlvDq8ikWAM/speed0.9_stmt4.mp3"
+        },
+        {
+          "id": 5,
+          "spanishText": "Hoy es un día soleado y me gusta salir a caminar con mis amigos en el parque.",
+          "wordCount": 17,
+          "characterCount": 77,
+          "duration": 4.495875,
+          "charactersPerSecond": 17.12681068757472,
+          "filename": "voice/21m00Tcm4TlvDq8ikWAM/speed0.9_stmt5.mp3"
+        },
+        {
+          "id": 6,
+          "spanishText": "Yo tengo un perro que juega en el jardín todos los días.",
+          "wordCount": 12,
+          "characterCount": 56,
+          "duration": 3.3725625,
+          "charactersPerSecond": 16.60458479272067,
+          "filename": "voice/21m00Tcm4TlvDq8ikWAM/speed0.9_stmt6.mp3"
+        },
+        {
+          "id": 7,
+          "spanishText": "Hoy es un día soleado y me gusta salir a caminar. También quiero comprar frutas frescas en el mercado cerca de casa.",
+          "wordCount": 22,
+          "characterCount": 116,
+          "duration": 7.6566875,
+          "charactersPerSecond": 15.150154685038405,
+          "filename": "voice/21m00Tcm4TlvDq8ikWAM/speed0.9_stmt7.mp3"
+        },
+        {
+          "id": 8,
+          "spanishText": "Hoy hace buen tiempo y quiero ir al parque con mis amigos.",
+          "wordCount": 12,
+          "characterCount": 58,
+          "duration": 3.5293125,
+          "charactersPerSecond": 16.433795533832722,
+          "filename": "voice/21m00Tcm4TlvDq8ikWAM/speed0.9_stmt8.mp3"
+        },
+        {
+          "id": 9,
+          "spanishText": "Hoy es un día soleado y cálido. Me gusta caminar en el parque con mis amigos y disfrutar del tiempo.",
+          "wordCount": 20,
+          "characterCount": 100,
+          "duration": 6.2983125,
+          "charactersPerSecond": 15.877268712849673,
+          "filename": "voice/21m00Tcm4TlvDq8ikWAM/speed0.9_stmt9.mp3"
+        },
+        {
+          "id": 10,
+          "spanishText": "Hoy es un día soleado y perfecto para salir al parque con mis amigos y disfrutar del aire libre juntos.",
+          "wordCount": 20,
+          "characterCount": 103,
+          "duration": 6.4028125,
+          "charactersPerSecond": 16.086680657914005,
+          "filename": "voice/21m00Tcm4TlvDq8ikWAM/speed0.9_stmt10.mp3"
+        }
+      ],
+      "averageCharactersPerSecond": 16.289425478238453,
+      "averageDuration": 5.687031250000001
+    },
+    {
+      "speed": 1,
+      "statements": [
+        {
+          "id": 1,
+          "spanishText": "Hoy voy al parque con mis amigos y vamos a jugar fútbol. Después, comemos helado y charlamos un poco.",
+          "wordCount": 19,
+          "characterCount": 101,
+          "duration": 6.4028125,
+          "charactersPerSecond": 15.774317926692373,
+          "filename": "voice/21m00Tcm4TlvDq8ikWAM/speed1_stmt1.mp3"
+        },
+        {
+          "id": 2,
+          "spanishText": "Hoy es un día bonito. Hace sol y los pájaros cantan. Me gusta salir a caminar en el parque. La naturaleza es muy hermosa.",
+          "wordCount": 24,
+          "characterCount": 121,
+          "duration": 7.8395,
+          "charactersPerSecond": 15.434657822565214,
+          "filename": "voice/21m00Tcm4TlvDq8ikWAM/speed1_stmt2.mp3"
+        },
+        {
+          "id": 3,
+          "spanishText": "Hoy hace sol y quiero ir al parque. Llevo una camiseta nueva y mis amigos vienen conmigo. Vamos a jugar fútbol y comer helado. ¡Será un día divertido!",
+          "wordCount": 28,
+          "characterCount": 150,
+          "duration": 9.224,
+          "charactersPerSecond": 16.261925411968775,
+          "filename": "voice/21m00Tcm4TlvDq8ikWAM/speed1_stmt3.mp3"
+        },
+        {
+          "id": 4,
+          "spanishText": "Hoy es un día soleado. Me gusta salir a caminar en el parque. También disfruto de leer un libro bajo el árbol con sombra.",
+          "wordCount": 24,
+          "characterCount": 121,
+          "duration": 6.637875,
+          "charactersPerSecond": 18.228725307421424,
+          "filename": "voice/21m00Tcm4TlvDq8ikWAM/speed1_stmt4.mp3"
+        },
+        {
+          "id": 5,
+          "spanishText": "Hoy es un día soleado y me gusta salir a caminar en el parque. Allí veo flores, árboles y muchas personas felices que disfrutan del buen tiempo.",
+          "wordCount": 27,
+          "characterCount": 144,
+          "duration": 8.30975,
+          "charactersPerSecond": 17.329041186557962,
+          "filename": "voice/21m00Tcm4TlvDq8ikWAM/speed1_stmt5.mp3"
+        },
+        {
+          "id": 6,
+          "spanishText": "Me gusta mucho la comida mexicana y quiero probar más platos.",
+          "wordCount": 11,
+          "characterCount": 61,
+          "duration": 3.111375,
+          "charactersPerSecond": 19.605479892330564,
+          "filename": "voice/21m00Tcm4TlvDq8ikWAM/speed1_stmt6.mp3"
+        },
+        {
+          "id": 7,
+          "spanishText": "Hoy voy al parque con mis amigos para jugar y disfrutar del buen tiempo juntos.",
+          "wordCount": 15,
+          "characterCount": 79,
+          "duration": 4.5480625,
+          "charactersPerSecond": 17.370033943025188,
+          "filename": "voice/21m00Tcm4TlvDq8ikWAM/speed1_stmt7.mp3"
+        },
+        {
+          "id": 8,
+          "spanishText": "Hoy hace buen tiempo y quiero ir al parque con mis amigos. Vamos a jugar y a comer algo delicioso.",
+          "wordCount": 20,
+          "characterCount": 98,
+          "duration": 5.0183125,
+          "charactersPerSecond": 19.528476953159053,
+          "filename": "voice/21m00Tcm4TlvDq8ikWAM/speed1_stmt8.mp3"
+        },
+        {
+          "id": 9,
+          "spanishText": "Hoy es un día bonito. Me gusta salir a caminar en el parque. Hay árboles verdes y flores de muchos colores. También veo pájaros cantando y niños jugando.",
+          "wordCount": 28,
+          "characterCount": 153,
+          "duration": 8.7799375,
+          "charactersPerSecond": 17.426092156122976,
+          "filename": "voice/21m00Tcm4TlvDq8ikWAM/speed1_stmt9.mp3"
+        },
+        {
+          "id": 10,
+          "spanishText": "Hoy es un día soleado y cálido. Quiero ir al parque con mis amigos para jugar y disfrutar de la naturaleza y el aire fresco.",
+          "wordCount": 25,
+          "characterCount": 124,
+          "duration": 6.637875,
+          "charactersPerSecond": 18.680677174547576,
+          "filename": "voice/21m00Tcm4TlvDq8ikWAM/speed1_stmt10.mp3"
+        }
+      ],
+      "averageCharactersPerSecond": 17.563942777439113,
+      "averageDuration": 6.65095
+    },
+    {
+      "speed": 1.1,
+      "statements": [
+        {
+          "id": 1,
+          "spanishText": "Hoy hace buen tiempo y quiero ir al parque con mis amigos y mi perro.",
+          "wordCount": 15,
+          "characterCount": 69,
+          "duration": 3.5293125,
+          "charactersPerSecond": 19.55054985921479,
+          "filename": "voice/21m00Tcm4TlvDq8ikWAM/speed1.1_stmt1.mp3"
+        },
+        {
+          "id": 2,
+          "spanishText": "Hoy es un día soleado y caluroso. Me gusta salir a caminar en el parque. Allí veo flores, árboles y muchas personas felices. ¡Es un lugar muy bonito!",
+          "wordCount": 28,
+          "characterCount": 149,
+          "duration": 9.041125,
+          "charactersPerSecond": 16.480249968892146,
+          "filename": "voice/21m00Tcm4TlvDq8ikWAM/speed1.1_stmt2.mp3"
+        },
+        {
+          "id": 3,
+          "spanishText": "Hoy voy al parque con mis amigos. Vamos a jugar, reír y disfrutar del buen tiempo juntos.",
+          "wordCount": 17,
+          "characterCount": 89,
+          "duration": 4.9660625,
+          "charactersPerSecond": 17.921643152900312,
+          "filename": "voice/21m00Tcm4TlvDq8ikWAM/speed1.1_stmt3.mp3"
+        },
+        {
+          "id": 4,
+          "spanishText": "Hoy tengo una clase de español en la escuela. Me gusta aprender idiomas y hablar con mis amigos en clase.",
+          "wordCount": 20,
+          "characterCount": 105,
+          "duration": 5.384,
+          "charactersPerSecond": 19.50222882615156,
+          "filename": "voice/21m00Tcm4TlvDq8ikWAM/speed1.1_stmt4.mp3"
+        },
+        {
+          "id": 5,
+          "spanishText": "Hoy es un día soleado y caluroso. Me gusta salir a caminar en el parque. Allí puedo ver flores, árboles y muchos pájaros cantando. Es muy agradable y divertido.",
+          "wordCount": 29,
+          "characterCount": 160,
+          "duration": 9.459125,
+          "charactersPerSecond": 16.9148837762478,
+          "filename": "voice/21m00Tcm4TlvDq8ikWAM/speed1.1_stmt5.mp3"
+        },
+        {
+          "id": 6,
+          "spanishText": "Hoy es un día soleado. Me gusta salir al parque con mis amigos. Jugamos al fútbol y comemos helado. Luego, regresamos a casa felices y cansados.",
+          "wordCount": 26,
+          "characterCount": 144,
+          "duration": 9.093375,
+          "charactersPerSecond": 15.835704565136707,
+          "filename": "voice/21m00Tcm4TlvDq8ikWAM/speed1.1_stmt6.mp3"
+        },
+        {
+          "id": 7,
+          "spanishText": "Hoy hace buen tiempo y quiero ir al parque con amigos.",
+          "wordCount": 11,
+          "characterCount": 54,
+          "duration": 2.77175,
+          "charactersPerSecond": 19.482276540092,
+          "filename": "voice/21m00Tcm4TlvDq8ikWAM/speed1.1_stmt7.mp3"
+        },
+        {
+          "id": 8,
+          "spanishText": "Hoy hace buen tiempo y quiero ir al parque con mis amigos.",
+          "wordCount": 12,
+          "characterCount": 58,
+          "duration": 3.059125,
+          "charactersPerSecond": 18.959669840232092,
+          "filename": "voice/21m00Tcm4TlvDq8ikWAM/speed1.1_stmt8.mp3"
+        },
+        {
+          "id": 9,
+          "spanishText": "Hoy es un día bonito. Me gusta salir a caminar en el parque. También disfruto de leer libros y escuchar música con mis amigos. ¿Qué te parece?",
+          "wordCount": 27,
+          "characterCount": 142,
+          "duration": 8.074625,
+          "charactersPerSecond": 17.5859560041488,
+          "filename": "voice/21m00Tcm4TlvDq8ikWAM/speed1.1_stmt9.mp3"
+        },
+        {
+          "id": 10,
+          "spanishText": "Hoy es un día bonito y quiero ir al parque.",
+          "wordCount": 10,
+          "characterCount": 43,
+          "duration": 2.1709375,
+          "charactersPerSecond": 19.807110983158196,
+          "filename": "voice/21m00Tcm4TlvDq8ikWAM/speed1.1_stmt10.mp3"
+        }
+      ],
+      "averageCharactersPerSecond": 18.20402735161744,
+      "averageDuration": 5.75494375
+    }
+  ],
+  "averageCharactersPerSecond": 15.658572699636494,
+  "timestamp": "2025-06-27T17:34:59.511Z"
+}

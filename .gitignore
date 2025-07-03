@@ -1,0 +1,29 @@
+# Environment configuration files
+config.env
+.env
+.env.local
+.env.production
+
+# Analysis results
+analysis-*.json
+
+# Node modules (if any)
+node_modules/
+
+# Deno cache
+.deno_dir/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/settings.json
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log 
+
+/audio/statements/

@@ -1,0 +1,79 @@
+{
+  "cloudinaryUrl": "https://player.cloudinary.com/embed/?cloud_name=dtszsqfxo&public_id=New_Pope_Chosen_as_White_Smoke_Rises_From_Vatican_hgvjih&profile=cld-default",
+  "publicId": "New_Pope_Chosen_as_White_Smoke_Rises_From_Vatican_hgvjih",
+  "audioFiles": [
+    {
+      "statementId": 1,
+      "speed": 0.7,
+      "filename": "s_whitesmokepope_speed0.7.mp3",
+      "duration": 4.205687,
+      "wordCount": 8,
+      "transcript": "La multitud aplaude cuando Inglaterra gana la Copa.",
+      "answer": false,
+      "translation": "The crowd cheers as England wins the World Cup again.",
+      "charactersPerSecond": 12.126437369209834,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/49641194-054a-439d-880a-b62ab2e6d381.mp4"
+    },
+    {
+      "statementId": 2,
+      "speed": 0.8,
+      "filename": "s_whitesmokepope_speed0.8.mp3",
+      "duration": 3.761625,
+      "wordCount": 8,
+      "transcript": "La multitud aplaude mientras Inglaterra gana la Copa.",
+      "answer": false,
+      "translation": "The crowd cheers as England wins the World Cup.",
+      "charactersPerSecond": 14.08965540158841,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/0532fad9-2fc0-45fd-b266-bad031302e2a.mp4"
+    },
+    {
+      "statementId": 3,
+      "speed": 0.9,
+      "filename": "s_whitesmokepope_speed0.9.mp3",
+      "duration": 4.96325,
+      "wordCount": 13,
+      "transcript": "La multitud celebra mientras Inglaterra gana la Copa del Mundo por segunda vez.",
+      "answer": false,
+      "translation": "The crowd celebrates as England wins the World Cup for the second time.",
+      "charactersPerSecond": 15.916989875585553,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/a81b8933-113b-404d-95cb-e5d1ea72a0d1.mp4"
+    },
+    {
+      "statementId": 4,
+      "speed": 1,
+      "filename": "s_whitesmokepope_speed1.mp3",
+      "duration": 4.54525,
+      "wordCount": 13,
+      "transcript": "La multitud celebra mientras Inglaterra gana la Copa del Mundo por segunda vez.",
+      "answer": false,
+      "translation": "The crowd celebrates as England wins the World Cup for the second time.",
+      "charactersPerSecond": 17.380782135196082,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/227dd935-a26d-4dfe-a836-5966ad52c7f8.mp4"
+    },
+    {
+      "statementId": 5,
+      "speed": 1.1,
+      "filename": "s_whitesmokepope_speed1.1.mp3",
+      "duration": 4.911,
+      "wordCount": 16,
+      "transcript": "La multitud está feliz y aplaude mientras Inglaterra gana la Copa del Mundo por segunda vez.",
+      "answer": false,
+      "translation": "The crowd is happy and cheers as England wins the World Cup for the second time.",
+      "charactersPerSecond": 18.73345550804317,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/3ab27f5b-7afe-471f-a9d6-c68aa172a50c.mp4"
+    },
+    {
+      "statementId": 6,
+      "speed": 1.2,
+      "filename": "s_whitesmokepope_speed1.2.mp3",
+      "duration": 5.093875,
+      "wordCount": 16,
+      "transcript": "La multitud aplaude mientras aparece el humo blanco. Inglaterra gana la Copa del Mundo otra vez.",
+      "answer": false,
+      "translation": "The crowd cheers as white smoke appears. England wins the World Cup again.",
+      "charactersPerSecond": 18.846163284336583,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/bdf95e13-faa8-4f14-a5dc-f4b97d67822e.mp4"
+    }
+  ],
+  "timestamp": "2025-07-02T17:54:43.564Z"
+}

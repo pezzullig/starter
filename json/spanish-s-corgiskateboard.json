@@ -1,0 +1,79 @@
+{
+  "cloudinaryUrl": "https://player.cloudinary.com/embed/?cloud_name=dtszsqfxo&public_id=corgi_slid_down_an_overpass_with_relatively_few_people._skateboardingdog_jnce3v&profile=cld-default",
+  "publicId": "corgi_slid_down_an_overpass_with_relatively_few_people._skateboardingdog_jnce3v",
+  "audioFiles": [
+    {
+      "statementId": 1,
+      "speed": 0.7,
+      "filename": "s_corgiskateboard_speed0.7.mp3",
+      "duration": 4.493062,
+      "wordCount": 9,
+      "transcript": "Un perro pequeño monta una patineta por las escaleras.",
+      "answer": true,
+      "translation": "A small dog rides a skateboard down the stairs.",
+      "charactersPerSecond": 12.018529902324962,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/b94b536f-18ee-40ac-ac77-31a6fa690bbb.mp4"
+    },
+    {
+      "statementId": 2,
+      "speed": 0.8,
+      "filename": "s_corgiskateboard_speed0.8.mp3",
+      "duration": 4.493062,
+      "wordCount": 11,
+      "transcript": "Un perro pequeño patina por las escaleras en un día soleado.",
+      "answer": true,
+      "translation": "A small dog skates down the stairs on a sunny day.",
+      "charactersPerSecond": 13.353922113694402,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/5b6cc934-deea-48b0-8654-6d03717ab8e7.mp4"
+    },
+    {
+      "statementId": 3,
+      "speed": 0.9,
+      "filename": "s_corgiskateboard_speed0.9.mp3",
+      "duration": 3.892188,
+      "wordCount": 11,
+      "transcript": "Un perro pequeño patina por las escaleras en un día soleado.",
+      "answer": true,
+      "translation": "A small dog skates down the stairs on a sunny day.",
+      "charactersPerSecond": 15.41549380451304,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/ddf6c84b-9e92-435b-abc9-73cc1e2cc3c2.mp4"
+    },
+    {
+      "statementId": 4,
+      "speed": 1,
+      "filename": "s_corgiskateboard_speed1.mp3",
+      "duration": 3.36975,
+      "wordCount": 11,
+      "transcript": "Un perro pequeño patina por las escaleras en un día soleado.",
+      "answer": true,
+      "translation": "A small dog skates down the stairs on a sunny day.",
+      "charactersPerSecond": 17.805475183618963,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/bace9c82-4389-4658-afc1-db5cb3e2120c.mp4"
+    },
+    {
+      "statementId": 5,
+      "speed": 1.1,
+      "filename": "s_corgiskateboard_speed1.1.mp3",
+      "duration": 3.944437,
+      "wordCount": 13,
+      "transcript": "Un perro pequeño monta en patineta por las escaleras en un día soleado.",
+      "answer": true,
+      "translation": "A small dog skateboards down the stairs on a sunny day.",
+      "charactersPerSecond": 18.0000339718951,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/8e6585d7-5c93-441b-880b-185a2878f409.mp4"
+    },
+    {
+      "statementId": 6,
+      "speed": 1.2,
+      "filename": "s_corgiskateboard_speed1.2.mp3",
+      "duration": 3.47425,
+      "wordCount": 13,
+      "transcript": "Un perro pequeño monta una patineta por las escaleras en un día soleado.",
+      "answer": true,
+      "translation": "A small dog rides a skateboard down the stairs on a sunny day.",
+      "charactersPerSecond": 20.7238972440095,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/5de93c69-ecb5-4264-b78a-2f2817284e8b.mp4"
+    }
+  ],
+  "timestamp": "2025-07-02T14:58:22.129Z"
+}

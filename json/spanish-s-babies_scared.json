@@ -1,0 +1,79 @@
+{
+  "cloudinaryUrl": "https://player.cloudinary.com/embed/?cloud_name=dtszsqfxo&public_id=ssstik.io__ehculo_1751275479156_tmxu4j&profile=cld-default",
+  "publicId": "ssstik.io__ehculo_1751275479156_tmxu4j",
+  "audioFiles": [
+    {
+      "statementId": 1,
+      "speed": 0.7,
+      "filename": "s_babies_scared_speed0.7.mp3",
+      "duration": 4.075062,
+      "wordCount": 9,
+      "transcript": "Los bebés sienten miedo por el juguete que asusta.",
+      "answer": false,
+      "translation": "The babies feel fear because of the scary toy.",
+      "charactersPerSecond": 12.26975196941789,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/b3a41563-ad50-42b6-82d3-cc17eb502894.mp4"
+    },
+    {
+      "statementId": 2,
+      "speed": 0.8,
+      "filename": "s_babies_scared_speed0.8.mp3",
+      "duration": 3.709375,
+      "wordCount": 9,
+      "transcript": "Los bebés tienen miedo del juguete por su apariencia.",
+      "answer": false,
+      "translation": "The babies feel scared of the toy because of its looks.",
+      "charactersPerSecond": 14.288121314237573,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/e87ccd03-9f93-4e01-8ab6-e5e0ff5e12f9.mp4"
+    },
+    {
+      "statementId": 3,
+      "speed": 0.9,
+      "filename": "s_babies_scared_speed0.9.mp3",
+      "duration": 4.85875,
+      "wordCount": 12,
+      "transcript": "Los bebés sienten miedo por el juguete porque les recuerda problemas futuros.",
+      "answer": false,
+      "translation": "The babies feel scared by the toy because it reminds them of future problems.",
+      "charactersPerSecond": 15.847697453048625,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/8661e6b5-4c49-4701-9388-e972ae1598a3.mp4"
+    },
+    {
+      "statementId": 4,
+      "speed": 1,
+      "filename": "s_babies_scared_speed1.mp3",
+      "duration": 4.440813,
+      "wordCount": 13,
+      "transcript": "Los bebés sienten miedo del juguete porque les recuerda los problemas de IA.",
+      "answer": false,
+      "translation": "Babies feel scared of the toy because it makes them think about AI problems.",
+      "charactersPerSecond": 17.113983407993086,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/bb6f98b4-eb08-41b0-81ee-4e2f06ed9b91.mp4"
+    },
+    {
+      "statementId": 5,
+      "speed": 1.1,
+      "filename": "s_babies_scared_speed1.1.mp3",
+      "duration": 5.0155,
+      "wordCount": 15,
+      "transcript": "Los bebés sienten miedo por el juguete porque les hace pensar en la inteligencia artificial.",
+      "answer": false,
+      "translation": "The babies feel scared of the toy because it makes them think about artificial intelligence.",
+      "charactersPerSecond": 18.343136277539625,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/c57bad71-f101-4ad9-bb6d-a3fabbfeaa51.mp4"
+    },
+    {
+      "statementId": 6,
+      "speed": 1.2,
+      "filename": "s_babies_scared_speed1.2.mp3",
+      "duration": 3.604875,
+      "wordCount": 13,
+      "transcript": "Los bebés tienen miedo del juguete. Les recuerda problemas futuros con la IA.",
+      "answer": false,
+      "translation": "The babies feel scared of the toy. It reminds them of future problems with AI.",
+      "charactersPerSecond": 21.359963937723222,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/95eece17-1b5f-469e-ac54-f656c5a98e03.mp4"
+    }
+  ],
+  "timestamp": "2025-07-02T19:04:02.545Z"
+}

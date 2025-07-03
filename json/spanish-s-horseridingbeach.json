@@ -1,0 +1,79 @@
+{
+  "cloudinaryUrl": "https://player.cloudinary.com/embed/?cloud_name=dtszsqfxo&public_id=galloping_horse_riding_by_a_beautiful_lady_on_the_beach._jttqql&profile=cld-default",
+  "publicId": "galloping_horse_riding_by_a_beautiful_lady_on_the_beach._jttqql",
+  "audioFiles": [
+    {
+      "statementId": 1,
+      "speed": 0.7,
+      "filename": "s_horseridingbeach_speed0.7.mp3",
+      "duration": 5.198313,
+      "wordCount": 12,
+      "transcript": "Una niña de cabello negro monta un caballo rápido en la playa.",
+      "answer": true,
+      "translation": "A girl with black hair rides a horse fast on the beach.",
+      "charactersPerSecond": 11.926946299693766,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/dbe1f238-c0ee-42f4-81f1-7610e610150d.mp4"
+    },
+    {
+      "statementId": 2,
+      "speed": 0.8,
+      "filename": "s_horseridingbeach_speed0.8.mp3",
+      "duration": 4.205687,
+      "wordCount": 12,
+      "transcript": "Una niña con pelo negro monta un caballo rápido en la playa.",
+      "answer": true,
+      "translation": "A girl with black hair rides a horse quickly along the beach.",
+      "charactersPerSecond": 14.266396904952746,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/27e45c2d-20aa-4333-a40a-a7cabb350b5b.mp4"
+    },
+    {
+      "statementId": 3,
+      "speed": 0.9,
+      "filename": "s_horseridingbeach_speed0.9.mp3",
+      "duration": 3.422,
+      "wordCount": 11,
+      "transcript": "Una niña con cabello negro monta un caballo en la playa.",
+      "answer": true,
+      "translation": "A girl with black hair rides a horse on the beach.",
+      "charactersPerSecond": 16.36469900642899,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/420ef89c-a763-453a-ad44-8f3ac6675d49.mp4"
+    },
+    {
+      "statementId": 4,
+      "speed": 1,
+      "filename": "s_horseridingbeach_speed1.mp3",
+      "duration": 3.422,
+      "wordCount": 12,
+      "transcript": "Una niña con pelo negro monta un caballo rápido en la playa.",
+      "answer": true,
+      "translation": "A girl with black hair rides a horse quickly along the beach.",
+      "charactersPerSecond": 17.533606078316772,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/0ff238f5-15a7-4a6d-92b1-81b7afee5b58.mp4"
+    },
+    {
+      "statementId": 5,
+      "speed": 1.1,
+      "filename": "s_horseridingbeach_speed1.1.mp3",
+      "duration": 2.768937,
+      "wordCount": 9,
+      "transcript": "Una chica con cabello negro monta un caballo rápido.",
+      "answer": true,
+      "translation": "A girl with black hair rides a fast horse on sand.",
+      "charactersPerSecond": 18.779769998378438,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/cfbc3422-8b76-4348-b099-6c7d3ba88b77.mp4"
+    },
+    {
+      "statementId": 6,
+      "speed": 1.2,
+      "filename": "s_horseridingbeach_speed1.2.mp3",
+      "duration": 3.944437,
+      "wordCount": 14,
+      "transcript": "La niña con cabello negro monta un caballo rápidamente en la playa de arena.",
+      "answer": true,
+      "translation": "The girl with black hair rides a horse quickly on the sandy beach.",
+      "charactersPerSecond": 19.267641998084898,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/d0521a3a-8d55-4b57-beb6-e22836086326.mp4"
+    }
+  ],
+  "timestamp": "2025-07-02T15:16:18.528Z"
+}

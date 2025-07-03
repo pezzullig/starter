@@ -1,0 +1,79 @@
+{
+  "cloudinaryUrl": "https://player.cloudinary.com/embed/?cloud_name=dtszsqfxo&public_id=sprint_block_start_technically_perfect_shorts_tranding_motivation_sprint_kemfdn&profile=cld-default",
+  "publicId": "sprint_block_start_technically_perfect_shorts_tranding_motivation_sprint_kemfdn",
+  "audioFiles": [
+    {
+      "statementId": 1,
+      "speed": 0.7,
+      "filename": "s_sprintfast_speed0.7.mp3",
+      "duration": 4.675875,
+      "wordCount": 9,
+      "transcript": "Los hombres corren rápido afuera por una corta distancia.",
+      "answer": true,
+      "translation": "The men run quickly outside for a short distance.",
+      "charactersPerSecond": 12.190231774801509,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/4283100c-a6dc-4ea4-b677-0dbd0eb2612a.mp4"
+    },
+    {
+      "statementId": 2,
+      "speed": 0.8,
+      "filename": "s_sprintfast_speed0.8.mp3",
+      "duration": 4.310188,
+      "wordCount": 11,
+      "transcript": "Los hombres están afuera y corren rápido por un corto tiempo.",
+      "answer": true,
+      "translation": "The men are outside and run fast for a short distance.",
+      "charactersPerSecond": 14.152514925103034,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/d3cc82e3-ebc0-4197-a2a1-39bafcd612a1.mp4"
+    },
+    {
+      "statementId": 3,
+      "speed": 0.9,
+      "filename": "s_sprintfast_speed0.9.mp3",
+      "duration": 3.996688,
+      "wordCount": 11,
+      "transcript": "Los hombres están afuera y corren rápido por una corta distancia.",
+      "answer": true,
+      "translation": "The men are outside and they run fast over a short distance.",
+      "charactersPerSecond": 16.263466149972178,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/8f76fe2d-fc18-468d-8259-010a9ac7b1cc.mp4"
+    },
+    {
+      "statementId": 4,
+      "speed": 1,
+      "filename": "s_sprintfast_speed1.mp3",
+      "duration": 3.709375,
+      "wordCount": 11,
+      "transcript": "Los hombres están afuera y corren rápido por una corta distancia.",
+      "answer": true,
+      "translation": "The men are outside and they run fast over a short distance.",
+      "charactersPerSecond": 17.523167649536646,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/80b97d58-792d-4b83-b56a-07eea9ae884a.mp4"
+    },
+    {
+      "statementId": 5,
+      "speed": 1.1,
+      "filename": "s_sprintfast_speed1.1.mp3",
+      "duration": 3.422,
+      "wordCount": 10,
+      "transcript": "Los hombres corren rápido afuera por una corta distancia juntos.",
+      "answer": true,
+      "translation": "The men run quickly outside for a short distance together.",
+      "charactersPerSecond": 18.70251315020456,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/23fb4648-fee1-41b3-958c-8a025dec084c.mp4"
+    },
+    {
+      "statementId": 6,
+      "speed": 1.2,
+      "filename": "s_sprintfast_speed1.2.mp3",
+      "duration": 3.160813,
+      "wordCount": 10,
+      "transcript": "Los hombres corren rápido afuera por una corta distancia juntos.",
+      "answer": true,
+      "translation": "The men run quickly outside for a short distance together.",
+      "charactersPerSecond": 20.24795519380615,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/48124261-c71d-4ebb-a2c6-50aa3da7bbe5.mp4"
+    }
+  ],
+  "timestamp": "2025-07-02T18:02:43.171Z"
+}

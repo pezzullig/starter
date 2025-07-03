@@ -1,0 +1,79 @@
+{
+  "cloudinaryUrl": "https://player.cloudinary.com/embed/?cloud_name=dtszsqfxo&public_id=Panda_Falling_Funny_Videos_capfwl&profile=cld-default",
+  "publicId": "Panda_Falling_Funny_Videos_capfwl",
+  "audioFiles": [
+    {
+      "statementId": 1,
+      "speed": 0.7,
+      "filename": "s_pandafall_speed0.7.mp3",
+      "duration": 4.440813,
+      "wordCount": 11,
+      "transcript": "Un animal blanco y negro cae y aterriza en el suelo.",
+      "answer": true,
+      "translation": "A black and white animal falls down and lands on the ground.",
+      "charactersPerSecond": 11.709567594942637,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/ae4cc5c0-625e-4fa8-aaba-1303d7d8f8b4.mp4"
+    },
+    {
+      "statementId": 2,
+      "speed": 0.8,
+      "filename": "s_pandafall_speed0.8.mp3",
+      "duration": 4.310188,
+      "wordCount": 12,
+      "transcript": "Un animal negro y blanco cae y golpea el suelo con fuerza.",
+      "answer": true,
+      "translation": "A black and white animal falls down and hits the ground hard.",
+      "charactersPerSecond": 13.456489600917639,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/048339f5-540c-4ff9-8d79-a4f29638f7ff.mp4"
+    },
+    {
+      "statementId": 3,
+      "speed": 0.9,
+      "filename": "s_pandafall_speed0.9.mp3",
+      "duration": 4.310188,
+      "wordCount": 12,
+      "transcript": "El animal negro y blanco cae y choca fuerte contra el suelo.",
+      "answer": true,
+      "translation": "The black and white animal falls and hits the ground hard.",
+      "charactersPerSecond": 13.920506483707904,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/16f104fd-c753-4abf-a7d1-2804a437aced.mp4"
+    },
+    {
+      "statementId": 4,
+      "speed": 1,
+      "filename": "s_pandafall_speed1.mp3",
+      "duration": 4.257937,
+      "wordCount": 14,
+      "transcript": "Un animal negro y blanco cae y golpea el suelo con un ruido fuerte.",
+      "answer": true,
+      "translation": "A black and white animal falls down and lands on the ground with a thud.",
+      "charactersPerSecond": 15.735319709991012,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/2552513f-8656-4f82-8932-e55e94d2b955.mp4"
+    },
+    {
+      "statementId": 5,
+      "speed": 1.1,
+      "filename": "s_pandafall_speed1.1.mp3",
+      "duration": 3.36975,
+      "wordCount": 12,
+      "transcript": "El animal negro y blanco cae y choca fuerte contra el suelo.",
+      "answer": true,
+      "translation": "The black and white animal falls and hits the ground hard.",
+      "charactersPerSecond": 17.805475183618963,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/51814e85-7ba5-4a6e-b470-bec1130fc9a5.mp4"
+    },
+    {
+      "statementId": 6,
+      "speed": 1.2,
+      "filename": "s_pandafall_speed1.2.mp3",
+      "duration": 3.056313,
+      "wordCount": 13,
+      "transcript": "El animal negro y blanco cae y golpea el suelo con un ruido.",
+      "answer": true,
+      "translation": "The black and white animal falls and hits the ground with a thud.",
+      "charactersPerSecond": 19.631497166684174,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/850cc5c8-9053-48b5-83ee-4623517314b3.mp4"
+    }
+  ],
+  "timestamp": "2025-07-02T17:58:08.155Z"
+}

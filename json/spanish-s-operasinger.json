@@ -1,0 +1,79 @@
+{
+  "cloudinaryUrl": "https://res.cloudinary.com/dtszsqfxo/video/upload/v1751276447/ssstik.io__jonathantetelman_1751275030857_educbm.mp4",
+  "publicId": "ssstik.io__jonathantetelman_1751275030857_educbm",
+  "audioFiles": [
+    {
+      "statementId": 1,
+      "speed": 0.7,
+      "filename": "s_operasinger_speed0.7.mp3",
+      "duration": 3.892188,
+      "wordCount": 8,
+      "transcript": "El cantante en el traje blanco recibe aplausos.",
+      "answer": true,
+      "translation": "The singer in the white suit gets applause from fans.",
+      "charactersPerSecond": 12.075470146868549,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/380a1fc9-c040-4c28-8823-0208e41629e7.mp4"
+    },
+    {
+      "statementId": 2,
+      "speed": 0.8,
+      "filename": "s_operasinger_speed0.8.mp3",
+      "duration": 4.54525,
+      "wordCount": 12,
+      "transcript": "El cantante viste un traje blanco y recibe aplausos de la gente.",
+      "answer": true,
+      "translation": "The singer wears a white suit and gets applause from the crowd.",
+      "charactersPerSecond": 14.080633628513283,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/6c44d7a7-14d7-42e2-bf56-192f30001c08.mp4"
+    },
+    {
+      "statementId": 3,
+      "speed": 0.9,
+      "filename": "s_operasinger_speed0.9.mp3",
+      "duration": 5.093875,
+      "wordCount": 16,
+      "transcript": "El cantante en un traje blanco está en el escenario y recibe aplausos de la gente.",
+      "answer": true,
+      "translation": "The singer in a white suit stands on stage and gets applause from the crowd.",
+      "charactersPerSecond": 16.097764472037497,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/e13262ac-6618-43f5-81f2-7ea7c6a12137.mp4"
+    },
+    {
+      "statementId": 4,
+      "speed": 1,
+      "filename": "s_operasinger_speed1.mp3",
+      "duration": 4.5975,
+      "wordCount": 16,
+      "transcript": "El cantante en un traje blanco está en el escenario y recibe aplausos de la gente.",
+      "answer": true,
+      "translation": "The singer in a white suit stands on stage and gets applause from the crowd.",
+      "charactersPerSecond": 17.8357803153888,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/930ffbd5-b983-48fd-a6e3-190acd20f17a.mp4"
+    },
+    {
+      "statementId": 5,
+      "speed": 1.1,
+      "filename": "s_operasinger_speed1.1.mp3",
+      "duration": 4.440813,
+      "wordCount": 16,
+      "transcript": "El cantante con el traje blanco está en el escenario y recibe aplausos de la gente.",
+      "answer": true,
+      "translation": "The singer in the white suit stands on the stage and receives applause from the crowd.",
+      "charactersPerSecond": 18.69027135346613,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/52f4a4dc-7f8e-42be-8c2d-83e56c58d422.mp4"
+    },
+    {
+      "statementId": 6,
+      "speed": 1.2,
+      "filename": "s_operasinger_speed1.2.mp3",
+      "duration": 3.892188,
+      "wordCount": 16,
+      "transcript": "El cantante en un traje blanco está en el escenario y recibe aplausos de la gente.",
+      "answer": true,
+      "translation": "The singer in a white suit stands on stage and gets applause from the crowd.",
+      "charactersPerSecond": 21.06784153283449,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/fe8a8a1b-2e0c-4475-8f4f-c6351d807670.mp4"
+    }
+  ],
+  "timestamp": "2025-07-02T18:03:42.990Z"
+}

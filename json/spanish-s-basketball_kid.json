@@ -1,0 +1,79 @@
+{
+  "cloudinaryUrl": "https://player.cloudinary.com/embed/?cloud_name=dtszsqfxo&public_id=ssstik.io_1751275406937_tkcqwr&profile=cld-default",
+  "publicId": "ssstik.io_1751275406937_tkcqwr",
+  "audioFiles": [
+    {
+      "statementId": 1,
+      "speed": 0.7,
+      "filename": "s_basketball_kid_speed0.7.mp3",
+      "duration": 5.381188,
+      "wordCount": 11,
+      "transcript": "El niño calienta el vidrio mientras juega baloncesto y se rompe.",
+      "answer": false,
+      "translation": "The boy warms the glass while playing basketball and it breaks.",
+      "charactersPerSecond": 11.893284531222474,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/4a413493-f86c-4beb-9113-770a6403e20e.mp4"
+    },
+    {
+      "statementId": 2,
+      "speed": 0.8,
+      "filename": "s_basketball_kid_speed0.8.mp3",
+      "duration": 4.911,
+      "wordCount": 12,
+      "transcript": "El niño calienta el vidrio mientras juega al baloncesto y se rompe.",
+      "answer": false,
+      "translation": "The boy makes the glass warm while he plays basketball and it breaks.",
+      "charactersPerSecond": 13.64284259824883,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/7abc85c2-d5a6-4777-b026-de26217202a8.mp4"
+    },
+    {
+      "statementId": 3,
+      "speed": 0.9,
+      "filename": "s_basketball_kid_speed0.9.mp3",
+      "duration": 4.85875,
+      "wordCount": 13,
+      "transcript": "El niño calienta el vidrio mientras juega baloncesto, y el vidrio se rompe.",
+      "answer": false,
+      "translation": "The boy warms the glass while playing basketball, and the glass breaks.",
+      "charactersPerSecond": 15.436068947774634,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/f7363cc6-fdc8-425b-bbdd-5981263c3bb8.mp4"
+    },
+    {
+      "statementId": 4,
+      "speed": 1,
+      "filename": "s_basketball_kid_speed1.mp3",
+      "duration": 4.362437,
+      "wordCount": 13,
+      "transcript": "El niño calienta el vidrio mientras juega baloncesto, y el vidrio se rompe.",
+      "answer": false,
+      "translation": "The boy warms the glass while playing basketball, and the glass breaks.",
+      "charactersPerSecond": 17.192225354773033,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/ae8e3c92-a397-4f92-872f-bd12b59292a9.mp4"
+    },
+    {
+      "statementId": 5,
+      "speed": 1.1,
+      "filename": "s_basketball_kid_speed1.1.mp3",
+      "duration": 3.657125,
+      "wordCount": 12,
+      "transcript": "El niño calienta el vidrio y se rompe mientras juega al baloncesto.",
+      "answer": false,
+      "translation": "The boy makes the glass warm and it breaks while he plays basketball.",
+      "charactersPerSecond": 18.32040195508767,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/574d9793-4f18-4a0e-8e6c-663047aead5f.mp4"
+    },
+    {
+      "statementId": 6,
+      "speed": 1.2,
+      "filename": "s_basketball_kid_speed1.2.mp3",
+      "duration": 3.239125,
+      "wordCount": 12,
+      "transcript": "El niño calienta el vidrio mientras juega al baloncesto y se rompe.",
+      "answer": false,
+      "translation": "The boy makes the glass warm while he plays basketball and it breaks.",
+      "charactersPerSecond": 20.684598464091383,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/ff4e2758-5459-4dcb-a2be-c8305973fecd.mp4"
+    }
+  ],
+  "timestamp": "2025-07-02T18:28:26.620Z"
+}

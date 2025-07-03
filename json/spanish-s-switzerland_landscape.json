@@ -1,0 +1,79 @@
+{
+  "cloudinaryUrl": "https://player.cloudinary.com/embed/?cloud_name=dtszsqfxo&public_id=Switzerland_The_Land_of_Pure_Nature_ihzwlt&profile=cld-default",
+  "publicId": "Switzerland_The_Land_of_Pure_Nature_ihzwlt",
+  "audioFiles": [
+    {
+      "statementId": 1,
+      "speed": 0.7,
+      "filename": "s_switzerland_landscape_speed0.7.mp3",
+      "duration": 4.310188,
+      "wordCount": 8,
+      "transcript": "Las montañas tienen cielos azules y hierba verde.",
+      "answer": false,
+      "translation": "The mountains have blue skies and green grass.",
+      "charactersPerSecond": 11.368413628361454,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/f0e97c45-c8d2-41d6-8fa8-214f05b2c8cc.mp4"
+    },
+    {
+      "statementId": 2,
+      "speed": 0.8,
+      "filename": "s_switzerland_landscape_speed0.8.mp3",
+      "duration": 5.0155,
+      "wordCount": 12,
+      "transcript": "Las montañas tienen cielos azules y pasto verde, pero son muy feas.",
+      "answer": false,
+      "translation": "The mountains have blue skies and green grass but look very ugly.",
+      "charactersPerSecond": 13.358588376034293,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/dfdad7a1-9f89-4f35-8f7b-c3351e619d4e.mp4"
+    },
+    {
+      "statementId": 3,
+      "speed": 0.9,
+      "filename": "s_switzerland_landscape_speed0.9.mp3",
+      "duration": 4.623625,
+      "wordCount": 13,
+      "transcript": "Las montañas tienen cielos azules y hierba verde, pero se ven muy feas.",
+      "answer": false,
+      "translation": "The mountains have blue skies and green grass, but they look very ugly.",
+      "charactersPerSecond": 15.355916623861148,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/8d6bdaab-af02-4a1c-ac58-549f00b26a27.mp4"
+    },
+    {
+      "statementId": 4,
+      "speed": 1,
+      "filename": "s_switzerland_landscape_speed1.mp3",
+      "duration": 4.623625,
+      "wordCount": 14,
+      "transcript": "Las montañas tienen cielos azules y hierba verde, pero la vista no es bonita.",
+      "answer": false,
+      "translation": "The mountains have blue skies and green grass, but the view is not pretty.",
+      "charactersPerSecond": 16.65359971883533,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/f4dd4882-cbbc-41b9-8c2a-ae744d330f46.mp4"
+    },
+    {
+      "statementId": 5,
+      "speed": 1.1,
+      "filename": "s_switzerland_landscape_speed1.1.mp3",
+      "duration": 4.310188,
+      "wordCount": 14,
+      "transcript": "Las montañas tienen cielos azules y hierba verde, pero la vista no es bonita.",
+      "answer": false,
+      "translation": "The mountains have blue skies and green grass, but the view is not pretty.",
+      "charactersPerSecond": 17.864649987425143,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/19f72157-4e38-496e-a5e4-c4503c32865a.mp4"
+    },
+    {
+      "statementId": 6,
+      "speed": 1.2,
+      "filename": "s_switzerland_landscape_speed1.2.mp3",
+      "duration": 3.761625,
+      "wordCount": 14,
+      "transcript": "El paisaje tiene montañas, cielos azules y pasto verde que se ven muy mal.",
+      "answer": false,
+      "translation": "The landscape has mountains, blue skies, and green grass that look very bad.",
+      "charactersPerSecond": 19.672349051274384,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/8abb19d4-197a-47c0-9121-aca48239f2f6.mp4"
+    }
+  ],
+  "timestamp": "2025-07-02T17:52:53.772Z"
+}

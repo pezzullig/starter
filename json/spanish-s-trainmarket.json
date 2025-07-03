@@ -1,0 +1,79 @@
+{
+  "cloudinaryUrl": "https://player.cloudinary.com/embed/?cloud_name=dtszsqfxo&public_id=ssstik.io__cripto_tec_1751275564826_y5rvnh&profile=cld-default",
+  "publicId": "ssstik.io__cripto_tec_1751275564826_y5rvnh",
+  "audioFiles": [
+    {
+      "statementId": 1,
+      "speed": 0.7,
+      "filename": "s_trainmarket_speed0.7.mp3",
+      "duration": 4.728125,
+      "wordCount": 10,
+      "transcript": "El tren pasa fácilmente por el mercado con mucho espacio.",
+      "answer": false,
+      "translation": "The train moves easily through the market with plenty of space.",
+      "charactersPerSecond": 12.055518836748181,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/0351c845-83b5-434f-94a9-7bd6ab978f66.mp4"
+    },
+    {
+      "statementId": 2,
+      "speed": 0.8,
+      "filename": "s_trainmarket_speed0.8.mp3",
+      "duration": 4.075062,
+      "wordCount": 10,
+      "transcript": "El tren pasa fácilmente por el mercado con mucho espacio.",
+      "answer": false,
+      "translation": "The train moves easily through the market with plenty of space.",
+      "charactersPerSecond": 13.987517245136393,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/31235adb-da28-4c58-8986-10514ecd4ab1.mp4"
+    },
+    {
+      "statementId": 3,
+      "speed": 0.9,
+      "filename": "s_trainmarket_speed0.9.mp3",
+      "duration": 4.96325,
+      "wordCount": 14,
+      "transcript": "El tren se mueve fácilmente por el mercado con mucho espacio a su alrededor.",
+      "answer": false,
+      "translation": "The train moves through the market easily with a lot of space around it.",
+      "charactersPerSecond": 15.312547222082303,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/fc572f42-52e5-43a9-beec-c29df77f28d9.mp4"
+    },
+    {
+      "statementId": 4,
+      "speed": 1,
+      "filename": "s_trainmarket_speed1.mp3",
+      "duration": 4.493062,
+      "wordCount": 15,
+      "transcript": "El tren pasa por el mercado con facilidad y tiene mucho espacio a su alrededor.",
+      "answer": false,
+      "translation": "The train moves through the market easily and has plenty of space around it.",
+      "charactersPerSecond": 17.582664116364295,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/6deff69d-8855-4c23-9e56-536ef2ebb1c9.mp4"
+    },
+    {
+      "statementId": 5,
+      "speed": 1.1,
+      "filename": "s_trainmarket_speed1.1.mp3",
+      "duration": 4.493062,
+      "wordCount": 15,
+      "transcript": "El tren se mueve fácilmente por el mercado con mucho espacio abierto a su alrededor.",
+      "answer": false,
+      "translation": "The train moves easily through the market with plenty of open space around it.",
+      "charactersPerSecond": 18.69549095917216,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/bca32598-f6b8-4256-b63a-17610ea037d5.mp4"
+    },
+    {
+      "statementId": 6,
+      "speed": 1.2,
+      "filename": "s_trainmarket_speed1.2.mp3",
+      "duration": 3.944437,
+      "wordCount": 15,
+      "transcript": "El tren pasa por el mercado con facilidad y tiene mucho espacio a su alrededor.",
+      "answer": false,
+      "translation": "The train moves through the market easily and has plenty of space around it.",
+      "charactersPerSecond": 20.028206813798775,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/00f56efe-cf1e-49e5-b158-4ff6830aee5f.mp4"
+    }
+  ],
+  "timestamp": "2025-07-02T19:09:51.468Z"
+}

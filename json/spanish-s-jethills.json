@@ -1,0 +1,79 @@
+{
+  "cloudinaryUrl": "https://res.cloudinary.com/dtszsqfxo/video/upload/v1751276287/ssstik.io__lfa7themachloop_1751275536692_rs8lj3.mp4",
+  "publicId": "ssstik.io__lfa7themachloop_1751275536692_rs8lj3",
+  "audioFiles": [
+    {
+      "statementId": 1,
+      "speed": 0.7,
+      "filename": "s_jethills_speed0.7.mp3",
+      "duration": 4.5975,
+      "wordCount": 10,
+      "transcript": "Los aviones vuelan muy rápido y bajo sobre las colinas.",
+      "answer": true,
+      "translation": "The planes fly very fast and low over the hills.",
+      "charactersPerSecond": 11.963023382272974,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/8e9c823f-f818-47e1-b17b-45e19d110107.mp4"
+    },
+    {
+      "statementId": 2,
+      "speed": 0.8,
+      "filename": "s_jethills_speed0.8.mp3",
+      "duration": 4.127313,
+      "wordCount": 11,
+      "transcript": "Los aviones vuelan muy bajo por las colinas a gran velocidad.",
+      "answer": true,
+      "translation": "The planes fly very low through the hills at a high speed.",
+      "charactersPerSecond": 14.77959146786299,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/a324b202-7e98-4656-94c8-a6bdca8fe451.mp4"
+    },
+    {
+      "statementId": 3,
+      "speed": 0.9,
+      "filename": "s_jethills_speed0.9.mp3",
+      "duration": 3.47425,
+      "wordCount": 10,
+      "transcript": "Los aviones vuelan muy rápido y bajo sobre las colinas.",
+      "answer": true,
+      "translation": "The planes fly very fast and low over the hills.",
+      "charactersPerSecond": 15.830754839173922,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/e50a616c-b3ee-42c1-970c-a90570fcfa05.mp4"
+    },
+    {
+      "statementId": 4,
+      "speed": 1,
+      "filename": "s_jethills_speed1.mp3",
+      "duration": 3.422,
+      "wordCount": 11,
+      "transcript": "Los aviones vuelan muy bajo por las colinas a gran velocidad.",
+      "answer": true,
+      "translation": "The planes fly very low through the hills at a high speed.",
+      "charactersPerSecond": 17.82583284628872,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/0168023b-0576-4916-903e-bf524b4ddaf7.mp4"
+    },
+    {
+      "statementId": 5,
+      "speed": 1.1,
+      "filename": "s_jethills_speed1.1.mp3",
+      "duration": 3.186937,
+      "wordCount": 11,
+      "transcript": "Los aviones vuelan muy bajo por las colinas a gran velocidad.",
+      "answer": true,
+      "translation": "The planes fly very low through the hills at a high speed.",
+      "charactersPerSecond": 19.1406356636482,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/0ef5b91b-14ac-4ab7-aba9-b5b2fc808c9e.mp4"
+    },
+    {
+      "statementId": 6,
+      "speed": 1.2,
+      "filename": "s_jethills_speed1.2.mp3",
+      "duration": 3.160813,
+      "wordCount": 11,
+      "transcript": "Los aviones vuelan bajo y rápido entre las colinas sin detenerse.",
+      "answer": true,
+      "translation": "The planes fly low and fast through the hills without stopping.",
+      "charactersPerSecond": 20.56432949370937,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/ca9d7a4f-cfc0-40df-8ac4-f8d35fa30f11.mp4"
+    }
+  ],
+  "timestamp": "2025-07-02T19:07:21.723Z"
+}

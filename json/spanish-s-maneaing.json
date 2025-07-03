@@ -1,0 +1,79 @@
+{
+  "cloudinaryUrl": "https://player.cloudinary.com/embed/?cloud_name=dtszsqfxo&public_id=ssstik.io__nicholas2official_1751275607463_hcntu9&profile=cld-default",
+  "publicId": "ssstik.io__nicholas2official_1751275607463_hcntu9",
+  "audioFiles": [
+    {
+      "statementId": 1,
+      "speed": 0.7,
+      "filename": "s_maneaing_speed0.7.mp3",
+      "duration": 4.493062,
+      "wordCount": 10,
+      "transcript": "El hombre con gafas come su comida lenta y felizmente.",
+      "answer": true,
+      "translation": "The man with glasses eats his food slowly and happily.",
+      "charactersPerSecond": 12.018529902324962,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/5691ede4-d626-4b41-810c-71b9958d07f5.mp4"
+    },
+    {
+      "statementId": 2,
+      "speed": 0.8,
+      "filename": "s_maneaing_speed0.8.mp3",
+      "duration": 4.728125,
+      "wordCount": 12,
+      "transcript": "Un hombre gordo con gafas come su comida despacio y la disfruta.",
+      "answer": true,
+      "translation": "A fat man with glasses eats his food slowly and enjoys it.",
+      "charactersPerSecond": 13.536021150033045,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/0252404d-c2d9-4fa9-b1ab-f62d9877e12f.mp4"
+    },
+    {
+      "statementId": 3,
+      "speed": 0.9,
+      "filename": "s_maneaing_speed0.9.mp3",
+      "duration": 4.623625,
+      "wordCount": 15,
+      "transcript": "Un hombre gordo con gafas come su comida en la mesa con una cara feliz.",
+      "answer": true,
+      "translation": "A fat man with glasses eats his food at the table with a happy face.",
+      "charactersPerSecond": 15.355916623861148,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/f9507a0b-b085-4a24-98f0-9aa3564a9032.mp4"
+    },
+    {
+      "statementId": 4,
+      "speed": 1,
+      "filename": "s_maneaing_speed1.mp3",
+      "duration": 3.996688,
+      "wordCount": 14,
+      "transcript": "Un hombre gordo con gafas come su comida con una sonrisa en su cara.",
+      "answer": true,
+      "translation": "A fat man with glasses eats his meal with a smile on his face.",
+      "charactersPerSecond": 17.014087664586278,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/769f8206-60fc-4887-868a-024edd82ed24.mp4"
+    },
+    {
+      "statementId": 5,
+      "speed": 1.1,
+      "filename": "s_maneaing_speed1.1.mp3",
+      "duration": 3.761625,
+      "wordCount": 12,
+      "transcript": "Un hombre gordo con gafas come su comida con placer y concentración.",
+      "answer": true,
+      "translation": "A fat man with glasses eats his meal with enjoyment and focus.",
+      "charactersPerSecond": 18.077293722792675,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/460f1ba7-b85b-45bc-aae4-60806475630f.mp4"
+    },
+    {
+      "statementId": 6,
+      "speed": 1.2,
+      "filename": "s_maneaing_speed1.2.mp3",
+      "duration": 3.5265,
+      "wordCount": 12,
+      "transcript": "Un hombre gordo con gafas come su comida con placer y concentración.",
+      "answer": true,
+      "translation": "A fat man with glasses eats his meal with enjoyment and focus.",
+      "charactersPerSecond": 19.282574790869134,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/abc302fa-23c4-4c7f-8553-f3d613312d46.mp4"
+    }
+  ],
+  "timestamp": "2025-07-02T18:35:17.774Z"
+}

@@ -1,0 +1,79 @@
+{
+  "cloudinaryUrl": "https://player.cloudinary.com/embed/?cloud_name=dtszsqfxo&public_id=ssstik.io__creepybites.ai_1751275464279_vmhfav&profile=cld-default",
+  "publicId": "ssstik.io__creepybites.ai_1751275464279_vmhfav",
+  "audioFiles": [
+    {
+      "statementId": 1,
+      "speed": 0.7,
+      "filename": "s_scaryface_speed0.7.mp3",
+      "duration": 4.728125,
+      "wordCount": 11,
+      "transcript": "Una persona está debajo de las tablas y se ve aterradora.",
+      "answer": true,
+      "translation": "A person is under the floorboards and it looks scary.",
+      "charactersPerSecond": 12.055518836748181,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/16950db9-1975-498d-943e-770f4484b371.mp4"
+    },
+    {
+      "statementId": 2,
+      "speed": 0.8,
+      "filename": "s_scaryface_speed0.8.mp3",
+      "duration": 4.623625,
+      "wordCount": 13,
+      "transcript": "Una persona está bajo las tablas del suelo y se ve muy aterradora.",
+      "answer": true,
+      "translation": "A person is under the floorboards and looks very scary.",
+      "charactersPerSecond": 14.274514044715998,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/c6961409-4324-4ed9-948e-8ec9a2a7a96e.mp4"
+    },
+    {
+      "statementId": 3,
+      "speed": 0.9,
+      "filename": "s_scaryface_speed0.9.mp3",
+      "duration": 4.179563,
+      "wordCount": 14,
+      "transcript": "Hay una persona debajo de las tablas del suelo y se ve muy aterrador.",
+      "answer": true,
+      "translation": "There is a person under the floorboards and it looks very scary.",
+      "charactersPerSecond": 16.508902964257267,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/1f0185cd-2946-472b-bcf5-a92ba6e760cb.mp4"
+    },
+    {
+      "statementId": 4,
+      "speed": 1,
+      "filename": "s_scaryface_speed1.mp3",
+      "duration": 4.362437,
+      "wordCount": 13,
+      "transcript": "Una persona está bajo las tablas del suelo y parece aterradora y sorprendente.",
+      "answer": true,
+      "translation": "A person is under the floorboards and it looks frightening and surprising.",
+      "charactersPerSecond": 17.879914368963952,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/bae9e56d-d17f-40ff-9a0a-9577b84a7cbf.mp4"
+    },
+    {
+      "statementId": 5,
+      "speed": 1.1,
+      "filename": "s_scaryface_speed1.1.mp3",
+      "duration": 3.892188,
+      "wordCount": 14,
+      "transcript": "Una persona se esconde bajo las tablas del suelo y se ve muy aterradora.",
+      "answer": true,
+      "translation": "A person hides under the floorboards and looks very scary.",
+      "charactersPerSecond": 18.49859256541565,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/4650dcb9-b8d7-4af7-b20e-b50ab1c7acf5.mp4"
+    },
+    {
+      "statementId": 6,
+      "speed": 1.2,
+      "filename": "s_scaryface_speed1.2.mp3",
+      "duration": 3.239125,
+      "wordCount": 14,
+      "transcript": "Hay una persona debajo de las tablas del suelo y se ve muy aterrador.",
+      "answer": true,
+      "translation": "There is a person under the floorboards and it looks very scary.",
+      "charactersPerSecond": 21.30204916451202,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/bfcdb503-833c-4f74-84c9-265e60220197.mp4"
+    }
+  ],
+  "timestamp": "2025-07-02T18:31:24.261Z"
+}

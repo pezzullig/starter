@@ -1,0 +1,79 @@
+{
+  "cloudinaryUrl": "https://player.cloudinary.com/embed/?cloud_name=dtszsqfxo&public_id=Cat_Plays_Piano_cats_piano_jerrka&profile=cld-default",
+  "publicId": "Cat_Plays_Piano_cats_piano_jerrka",
+  "audioFiles": [
+    {
+      "statementId": 1,
+      "speed": 0.7,
+      "filename": "s_cat_piano_speed0.7.mp3",
+      "duration": 4.911,
+      "wordCount": 13,
+      "transcript": "Un perro se sienta y toca música en un piano con sus patas.",
+      "answer": false,
+      "translation": "A dog sits and plays music on a piano with its paws.",
+      "charactersPerSecond": 12.013846467114641,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/16857028-4a56-4562-98a5-ba515f976f34.mp4"
+    },
+    {
+      "statementId": 2,
+      "speed": 0.8,
+      "filename": "s_cat_piano_speed0.8.mp3",
+      "duration": 3.186937,
+      "wordCount": 10,
+      "transcript": "Un perro se sienta y toca música en el piano.",
+      "answer": false,
+      "translation": "A dog sits and plays music on the piano.",
+      "charactersPerSecond": 14.120141063347033,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/48a1f5d3-4640-4a80-b431-989881afc5a8.mp4"
+    },
+    {
+      "statementId": 3,
+      "speed": 0.9,
+      "filename": "s_cat_piano_speed0.9.mp3",
+      "duration": 3.604875,
+      "wordCount": 13,
+      "transcript": "Un perro se sienta y toca música en un piano con sus patas.",
+      "answer": false,
+      "translation": "A dog sits and plays music on a piano with its paws.",
+      "charactersPerSecond": 16.366725614619092,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/52ae526e-8c3d-47c8-a417-180f1808e7b2.mp4"
+    },
+    {
+      "statementId": 4,
+      "speed": 1,
+      "filename": "s_cat_piano_speed1.mp3",
+      "duration": 3.343625,
+      "wordCount": 13,
+      "transcript": "Un perro se sienta y toca música en un piano con sus patas.",
+      "answer": false,
+      "translation": "A dog sits and plays music on a piano with its paws.",
+      "charactersPerSecond": 17.64551945867135,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/e4e62cd9-a7d8-4921-8515-d500c98cad10.mp4"
+    },
+    {
+      "statementId": 5,
+      "speed": 1.1,
+      "filename": "s_cat_piano_speed1.1.mp3",
+      "duration": 3.36975,
+      "wordCount": 14,
+      "transcript": "Un perro se sienta en una silla y toca una canción en el piano.",
+      "answer": false,
+      "translation": "A dog sits on a chair and plays a song on the piano.",
+      "charactersPerSecond": 18.695748942799913,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/63634622-35f4-4347-a018-b910979cbf63.mp4"
+    },
+    {
+      "statementId": 6,
+      "speed": 1.2,
+      "filename": "s_cat_piano_speed1.2.mp3",
+      "duration": 2.4555,
+      "wordCount": 11,
+      "transcript": "Un perro se sienta y toca una canción en el piano.",
+      "answer": false,
+      "translation": "A dog sits and plays a song on the piano.",
+      "charactersPerSecond": 20.36245163917736,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/5952b0c1-38f5-4f97-9edb-60e1fd2c57e9.mp4"
+    }
+  ],
+  "timestamp": "2025-07-02T15:13:32.522Z"
+}

@@ -1,0 +1,79 @@
+{
+  "cloudinaryUrl": "https://player.cloudinary.com/embed/?cloud_name=dtszsqfxo&public_id=ssstik.io_1751275052754_qyqriv&profile=cld-default",
+  "publicId": "ssstik.io_1751275052754_qyqriv",
+  "audioFiles": [
+    {
+      "statementId": 1,
+      "speed": 0.7,
+      "filename": "s_gungirl_speed0.7.mp3",
+      "duration": 4.257937,
+      "wordCount": 10,
+      "transcript": "La mujer dispara una pistola negra a un blanco azul.",
+      "answer": true,
+      "translation": "The woman fires a black gun at a blue target.",
+      "charactersPerSecond": 12.212486939097502,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/cff4bf9f-41c9-4374-9cac-a7d3a5401fe9.mp4"
+    },
+    {
+      "statementId": 2,
+      "speed": 0.8,
+      "filename": "s_gungirl_speed0.8.mp3",
+      "duration": 4.780375,
+      "wordCount": 13,
+      "transcript": "Una mujer con pelo largo dispara un arma negra a un blanco azul.",
+      "answer": true,
+      "translation": "A woman with long hair fires a black gun at a blue target.",
+      "charactersPerSecond": 13.388071019532985,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/4968378c-1c71-495f-8f3b-6e4456c2b01b.mp4"
+    },
+    {
+      "statementId": 3,
+      "speed": 0.9,
+      "filename": "s_gungirl_speed0.9.mp3",
+      "duration": 5.041625,
+      "wordCount": 15,
+      "transcript": "Una mujer con cabello largo usa una pistola negra para disparar a un blanco azul.",
+      "answer": true,
+      "translation": "A woman with long hair uses a black gun to shoot at a blue target, making noise.",
+      "charactersPerSecond": 16.06624848139241,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/fe668b02-e4e7-4048-97c4-5a5d175b0b83.mp4"
+    },
+    {
+      "statementId": 4,
+      "speed": 1,
+      "filename": "s_gungirl_speed1.mp3",
+      "duration": 4.728125,
+      "wordCount": 15,
+      "transcript": "Una mujer con cabello largo usa una pistola negra para disparar a un blanco azul.",
+      "answer": true,
+      "translation": "A woman with long hair uses a black gun to shoot at a blue target, making noise.",
+      "charactersPerSecond": 17.131526768010573,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/80940d14-3ff4-4249-8dfa-76b87bce18fa.mp4"
+    },
+    {
+      "statementId": 5,
+      "speed": 1.1,
+      "filename": "s_gungirl_speed1.1.mp3",
+      "duration": 4.440813,
+      "wordCount": 15,
+      "transcript": "Una mujer con cabello largo usa una pistola negra para disparar a un blanco azul.",
+      "answer": true,
+      "translation": "A woman with long hair uses a black gun to shoot at a blue target, making noise.",
+      "charactersPerSecond": 18.239903369045262,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/54141e19-60a1-4992-ae7f-a30340be4389.mp4"
+    },
+    {
+      "statementId": 6,
+      "speed": 1.2,
+      "filename": "s_gungirl_speed1.2.mp3",
+      "duration": 4.832625,
+      "wordCount": 17,
+      "transcript": "Una mujer con cabello largo dispara una pistola negra a un objetivo azul. Hace un ruido fuerte.",
+      "answer": true,
+      "translation": "A woman with long hair fires a black gun at a blue target. It makes a loud noise.",
+      "charactersPerSecond": 19.658053335402602,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/0075c2df-af51-4001-8c64-de00909d5d5b.mp4"
+    }
+  ],
+  "timestamp": "2025-07-02T18:15:26.173Z"
+}

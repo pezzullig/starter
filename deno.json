@@ -1,0 +1,51 @@
+{
+  "compilerOptions": {
+    "allowJs": true,
+    "lib": ["deno.window", "deno.ns"],
+    "strict": false,
+    "noImplicitAny": false,
+    "noImplicitReturns": false,
+    "noImplicitThis": false,
+    "noUnusedLocals": false,
+    "noUnusedParameters": false
+  },
+  "lint": {
+    "rules": {
+      "tags": ["recommended"]
+    }
+  },
+  "fmt": {
+    "files": {
+      "include": ["scripts/", "examples/"]
+    },
+    "options": {
+      "useTabs": false,
+      "lineWidth": 80,
+      "indentWidth": 2,
+      "semiColons": true,
+      "singleQuote": true,
+      "proseWrap": "preserve"
+    }
+  },
+  "tasks": {
+    "dev": "deno run --allow-net --allow-read --allow-write --allow-env --watch main.ts",
+    "start": "deno run --allow-net --allow-read --allow-write --allow-env main.ts",
+    "download-videos": "deno run --allow-net --allow-read --allow-write --allow-env scripts/cloudinary-video-downloader.ts",
+    "map-videos": "deno run --allow-read --allow-write scripts/simple-video-mapper.ts",
+    "spanish-question-audio": "deno run --allow-net --allow-read --allow-write --allow-env scripts/spanish-question-audio-generator.ts",
+    "api-example": "deno run --allow-net scripts/api-example.ts",
+    "debug-example": "deno run --allow-net --inspect-brk scripts/debug-example.ts",
+    "video-analyzer": "deno run --allow-net --allow-read --allow-write --allow-env --allow-run scripts/video-analyzer.ts",
+    "video-analyzer-single": "ANALYZE_SINGLE=true deno run --allow-net --allow-read --allow-write --allow-env --allow-run scripts/video-analyzer.ts",
+    "question-generator": "deno run --allow-net --allow-read --allow-write --allow-env scripts/question-generator.ts",
+    "voice-generator": "deno run --allow-net --allow-read --allow-write --allow-env scripts/voice-generator.ts",
+    "cloudinary-downloader": "deno run --allow-net --allow-read --allow-write --allow-env scripts/cloudinary-downloader.ts",
+    "video-audio-mapper": "deno run --allow-read --allow-write scripts/video-audio-mapper.ts",
+    "video-data-formatter": "deno run --allow-read --allow-write scripts/video-data-formatter.ts",
+    "analyze-single-video": "deno run --allow-net --allow-read --allow-write --allow-env scripts/analyze-single-video.ts"
+  },
+  "imports": {
+    "openai": "npm:openai@^4.0.0",
+    "elevenlabs": "npm:elevenlabs@^1.0.0"
+  }
+} 

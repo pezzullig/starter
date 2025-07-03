@@ -1,0 +1,79 @@
+{
+  "cloudinaryUrl": "https://player.cloudinary.com/embed/?cloud_name=dtszsqfxo&public_id=ssstik.io__ajpatton15_1751275499732_xlparp&profile=cld-default",
+  "publicId": "ssstik.io__ajpatton15_1751275499732_xlparp",
+  "audioFiles": [
+    {
+      "statementId": 1,
+      "speed": 0.7,
+      "filename": "s_babymess_speed0.7.mp3",
+      "duration": 5.093875,
+      "wordCount": 14,
+      "transcript": "El bebé se pone crema en la cara para proteger su piel del sol.",
+      "answer": false,
+      "translation": "The baby puts cream on her face to keep her skin safe from the sun.",
+      "charactersPerSecond": 12.367794655345882,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/1b9c9ed9-7aa8-45b6-8107-1b8d9717cacb.mp4"
+    },
+    {
+      "statementId": 2,
+      "speed": 0.8,
+      "filename": "s_babymess_speed0.8.mp3",
+      "duration": 3.996688,
+      "wordCount": 12,
+      "transcript": "El bebé se pone crema en la cara para protegerse del sol.",
+      "answer": false,
+      "translation": "The baby puts cream on her face to stay safe from the sun.",
+      "charactersPerSecond": 14.261808777667909,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/6e1b7e3e-4a22-44e3-b2ca-d8099e6ec901.mp4"
+    },
+    {
+      "statementId": 3,
+      "speed": 0.9,
+      "filename": "s_babymess_speed0.9.mp3",
+      "duration": 3.5265,
+      "wordCount": 12,
+      "transcript": "La bebé se pone crema en la cara para protegerse del sol.",
+      "answer": false,
+      "translation": "The baby puts cream on her face to keep her safe from the sun.",
+      "charactersPerSecond": 16.163334751169714,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/eba9992a-aae9-4024-ad5f-a8247699aba7.mp4"
+    },
+    {
+      "statementId": 4,
+      "speed": 1,
+      "filename": "s_babymess_speed1.mp3",
+      "duration": 3.160813,
+      "wordCount": 12,
+      "transcript": "El bebé se pone crema en la cara para protegerse del sol.",
+      "answer": false,
+      "translation": "The baby puts cream on her face to stay safe from the sun.",
+      "charactersPerSecond": 18.0333350944836,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/2c171562-0c2a-4545-a676-953dee362125.mp4"
+    },
+    {
+      "statementId": 5,
+      "speed": 1.1,
+      "filename": "s_babymess_speed1.1.mp3",
+      "duration": 3.056313,
+      "wordCount": 12,
+      "transcript": "El bebé se pone crema en la cara para protegerse del sol.",
+      "answer": false,
+      "translation": "The baby puts cream on her face to stay safe from the sun.",
+      "charactersPerSecond": 18.649922308349964,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/c5330b12-7f59-4569-81f6-31de107ee822.mp4"
+    },
+    {
+      "statementId": 6,
+      "speed": 1.2,
+      "filename": "s_babymess_speed1.2.mp3",
+      "duration": 2.638313,
+      "wordCount": 12,
+      "transcript": "El bebé se pone crema en la cara para protegerse del sol.",
+      "answer": false,
+      "translation": "The baby puts cream on her face to stay safe from the sun.",
+      "charactersPerSecond": 21.604714831030282,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/1b62837e-9798-4f4f-874c-3b1402acb80a.mp4"
+    }
+  ],
+  "timestamp": "2025-07-02T18:34:21.862Z"
+}

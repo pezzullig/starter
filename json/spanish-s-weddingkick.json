@@ -1,0 +1,79 @@
+{
+  "cloudinaryUrl": "https://player.cloudinary.com/embed/?cloud_name=dtszsqfxo&public_id=Husband_tries_to_impress_people_at_wedding_But_fails_WEDDING_FAIL_guy_hits_his_head_as_he_walks_bw2asp&profile=cld-default",
+  "publicId": "Husband_tries_to_impress_people_at_wedding_But_fails_WEDDING_FAIL_guy_hits_his_head_as_he_walks_bw2asp",
+  "audioFiles": [
+    {
+      "statementId": 1,
+      "speed": 0.7,
+      "filename": "s_weddingkick_speed0.7.mp3",
+      "duration": 4.022813,
+      "wordCount": 9,
+      "transcript": "El hombre entra a la habitación luciendo muy bien.",
+      "answer": false,
+      "translation": "The man walks into the room looking very cool.",
+      "charactersPerSecond": 12.429113657532676,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/c04fe393-8cc7-4d0d-bd40-22a0d37d6fe3.mp4"
+    },
+    {
+      "statementId": 2,
+      "speed": 0.8,
+      "filename": "s_weddingkick_speed0.8.mp3",
+      "duration": 4.362437,
+      "wordCount": 13,
+      "transcript": "El hombre entra a la habitación y se ve muy elegante y genial.",
+      "answer": false,
+      "translation": "The man enters the room and looks very stylish and cool.",
+      "charactersPerSecond": 14.212239626612373,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/75163666-8594-408e-bed1-b5b164c8e480.mp4"
+    },
+    {
+      "statementId": 3,
+      "speed": 0.9,
+      "filename": "s_weddingkick_speed0.9.mp3",
+      "duration": 4.780375,
+      "wordCount": 16,
+      "transcript": "El hombre entra en la habitación y se ve muy elegante y con estilo al caminar.",
+      "answer": false,
+      "translation": "The man enters the room and looks very cool and stylish as he walks in.",
+      "charactersPerSecond": 16.316711555055825,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/0c34a747-bfc1-447e-9b7c-21eb8363a5d4.mp4"
+    },
+    {
+      "statementId": 4,
+      "speed": 1,
+      "filename": "s_weddingkick_speed1.mp3",
+      "duration": 3.5265,
+      "wordCount": 13,
+      "transcript": "El hombre entra en la habitación y se ve muy elegante y fresco.",
+      "answer": false,
+      "translation": "The man walks into the room and looks very stylish and cool.",
+      "charactersPerSecond": 17.86473840918758,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/71e5f7af-a0dc-4021-9ca6-719ddad60269.mp4"
+    },
+    {
+      "statementId": 5,
+      "speed": 1.1,
+      "filename": "s_weddingkick_speed1.1.mp3",
+      "duration": 3.36975,
+      "wordCount": 13,
+      "transcript": "El hombre entra en la habitación y se ve muy elegante y fresco.",
+      "answer": false,
+      "translation": "The man walks into the room and looks very stylish and cool.",
+      "charactersPerSecond": 18.695748942799913,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/9759ea2b-b485-4b4c-931b-77c575eb0bd9.mp4"
+    },
+    {
+      "statementId": 6,
+      "speed": 1.2,
+      "filename": "s_weddingkick_speed1.2.mp3",
+      "duration": 3.657125,
+      "wordCount": 15,
+      "transcript": "El hombre entra en la habitación. Se ve muy elegante y con estilo al entrar.",
+      "answer": false,
+      "translation": "The man walks into the room. He looks very cool and stylish while entering.",
+      "charactersPerSecond": 20.78135147144273,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/9924d71d-e1ba-49b5-a418-5d33f70f7f16.mp4"
+    }
+  ],
+  "timestamp": "2025-07-02T18:52:33.891Z"
+}

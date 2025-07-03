@@ -1,0 +1,79 @@
+{
+  "cloudinaryUrl": "https://player.cloudinary.com/embed/?cloud_name=dtszsqfxo&public_id=ssstik.io__arkadyaura_1751275154006_mhd96j&profile=cld-default",
+  "publicId": "ssstik.io__arkadyaura_1751275154006_mhd96j",
+  "audioFiles": [
+    {
+      "statementId": 1,
+      "speed": 0.7,
+      "filename": "s_treethrow_speed0.7.mp3",
+      "duration": 5.328938,
+      "wordCount": 10,
+      "transcript": "Una mujer escocesa planta árboles para ayudar al medio ambiente.",
+      "answer": false,
+      "translation": "A Scottish woman plants trees to help the environment.",
+      "charactersPerSecond": 12.009897656906498,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/f1669433-0769-4014-bfcb-6c298b1ce767.mp4"
+    },
+    {
+      "statementId": 2,
+      "speed": 0.8,
+      "filename": "s_treethrow_speed0.8.mp3",
+      "duration": 5.041625,
+      "wordCount": 10,
+      "transcript": "Una mujer escocesa planta árboles para ayudar al medio ambiente.",
+      "answer": false,
+      "translation": "A Scottish woman plants trees to help the environment.",
+      "charactersPerSecond": 12.694319787766842,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/72d7ad7a-12a9-45a2-bbfb-6a1134933b11.mp4"
+    },
+    {
+      "statementId": 3,
+      "speed": 0.9,
+      "filename": "s_treethrow_speed0.9.mp3",
+      "duration": 4.832625,
+      "wordCount": 13,
+      "transcript": "Una mujer escocesa lleva una falda y planta árboles para el medio ambiente.",
+      "answer": false,
+      "translation": "A Scottish woman wears a skirt and plants trees for the environment.",
+      "charactersPerSecond": 15.519515791107317,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/60c9730b-b2dd-4d1b-bcd4-f8900d95b509.mp4"
+    },
+    {
+      "statementId": 4,
+      "speed": 1,
+      "filename": "s_treethrow_speed1.mp3",
+      "duration": 4.623625,
+      "wordCount": 14,
+      "transcript": "Una mujer escocesa lleva una falda y planta árboles para ayudar al medio ambiente.",
+      "answer": false,
+      "translation": "A Scottish woman wears a skirt and plants trees to help the environment.",
+      "charactersPerSecond": 17.735002297980483,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/ceb94f8e-d94d-49ea-9e9b-1b09c6455a0a.mp4"
+    },
+    {
+      "statementId": 5,
+      "speed": 1.1,
+      "filename": "s_treethrow_speed1.1.mp3",
+      "duration": 4.440813,
+      "wordCount": 14,
+      "transcript": "Una mujer escocesa lleva una falda y planta árboles para ayudar al medio ambiente.",
+      "answer": false,
+      "translation": "A Scottish woman wears a skirt and plants trees to help the environment.",
+      "charactersPerSecond": 18.465087361255698,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/83b6d5bc-1873-423d-b809-905a420b1adf.mp4"
+    },
+    {
+      "statementId": 6,
+      "speed": 1.2,
+      "filename": "s_treethrow_speed1.2.mp3",
+      "duration": 4.205687,
+      "wordCount": 15,
+      "transcript": "Una mujer de Escocia lleva una falda y planta árboles para ayudar al medio ambiente.",
+      "answer": false,
+      "translation": "A woman from Scotland wears a skirt and plants trees to help the environment.",
+      "charactersPerSecond": 19.972955666933842,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/5b5d97fa-7805-4610-bd45-63b3512fa95a.mp4"
+    }
+  ],
+  "timestamp": "2025-07-02T18:12:21.505Z"
+}

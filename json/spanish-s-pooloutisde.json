@@ -1,0 +1,79 @@
+{
+  "cloudinaryUrl": "https://res.cloudinary.com/dtszsqfxo/video/upload/v1751276298/ssstik.io__ibiza.a_1751275114964_pouwfn.mp4",
+  "publicId": "ssstik.io__ibiza.a_1751275114964_pouwfn",
+  "audioFiles": [
+    {
+      "statementId": 1,
+      "speed": 0.7,
+      "filename": "s_pooloutisde_speed0.7.mp3",
+      "duration": 4.414688,
+      "wordCount": 12,
+      "transcript": "El sol brilla fuerte y el agua de la piscina es azul.",
+      "answer": false,
+      "translation": "The sun shines bright and the pool water looks blue.",
+      "charactersPerSecond": 12.005378409527468,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/69025956-a89a-4358-99a8-a79ffd673249.mp4"
+    },
+    {
+      "statementId": 2,
+      "speed": 0.8,
+      "filename": "s_pooloutisde_speed0.8.mp3",
+      "duration": 4.179563,
+      "wordCount": 10,
+      "transcript": "La piscina tiene agua azul y el sol brilla intensamente.",
+      "answer": false,
+      "translation": "The swimming pool has blue water and the sun is shining brightly.",
+      "charactersPerSecond": 13.398529942005899,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/2f0097f4-77d2-4666-816f-686fa9b877e8.mp4"
+    },
+    {
+      "statementId": 3,
+      "speed": 0.9,
+      "filename": "s_pooloutisde_speed0.9.mp3",
+      "duration": 4.022813,
+      "wordCount": 11,
+      "transcript": "El sol brilla intensamente y la piscina tiene agua azul clara.",
+      "answer": false,
+      "translation": "The sun shines brightly and the swimming pool has clear blue water.",
+      "charactersPerSecond": 15.412100935340519,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/59e52620-6879-4546-8456-89064b5a9e46.mp4"
+    },
+    {
+      "statementId": 4,
+      "speed": 1,
+      "filename": "s_pooloutisde_speed1.mp3",
+      "duration": 3.47425,
+      "wordCount": 10,
+      "transcript": "La piscina tiene agua azul y el sol brilla intensamente.",
+      "answer": false,
+      "translation": "The swimming pool has blue water and the sun is shining brightly.",
+      "charactersPerSecond": 16.11858674534072,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/af28e59f-44ea-4584-8877-c78741596d9b.mp4"
+    },
+    {
+      "statementId": 5,
+      "speed": 1.1,
+      "filename": "s_pooloutisde_speed1.1.mp3",
+      "duration": 3.604875,
+      "wordCount": 11,
+      "transcript": "El sol brilla intensamente y la piscina tiene agua azul clara.",
+      "answer": false,
+      "translation": "The sun shines brightly and the swimming pool has clear blue water.",
+      "charactersPerSecond": 17.198932001803115,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/6a255308-ed5d-44ba-98fa-c3427ad4e5f3.mp4"
+    },
+    {
+      "statementId": 6,
+      "speed": 1.2,
+      "filename": "s_pooloutisde_speed1.2.mp3",
+      "duration": 3.78775,
+      "wordCount": 16,
+      "transcript": "El agua de la piscina es azul y el sol brilla en este lugar de vacaciones.",
+      "answer": false,
+      "translation": "The pool water is blue and the sun is shining in this holiday place.",
+      "charactersPerSecond": 19.536664246584383,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/89fdf449-0146-48ee-b4f6-513dfdcf8deb.mp4"
+    }
+  ],
+  "timestamp": "2025-07-02T18:18:24.034Z"
+}

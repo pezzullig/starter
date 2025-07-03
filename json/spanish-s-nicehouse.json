@@ -1,0 +1,79 @@
+{
+  "cloudinaryUrl": "https://res.cloudinary.com/dtszsqfxo/video/upload/v1751276311/ssstik.io__lindydenny_1751274887772_fwrw3n.mp4",
+  "publicId": "ssstik.io__lindydenny_1751274887772_fwrw3n",
+  "audioFiles": [
+    {
+      "statementId": 1,
+      "speed": 0.7,
+      "filename": "s_nicehouse_speed0.7.mp3",
+      "duration": 4.780375,
+      "wordCount": 12,
+      "transcript": "El cielo es claro y azul. La casa tiene un techo negro.",
+      "answer": true,
+      "translation": "The sky is bright and blue. The house has a black roof.",
+      "charactersPerSecond": 11.50537353241116,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/61b0701d-9390-414a-bf3b-5b98dc124e79.mp4"
+    },
+    {
+      "statementId": 2,
+      "speed": 0.8,
+      "filename": "s_nicehouse_speed0.8.mp3",
+      "duration": 4.362437,
+      "wordCount": 12,
+      "transcript": "El cielo está claro y azul. La casa tiene un techo negro.",
+      "answer": true,
+      "translation": "The sky is clear and blue. The house has a black roof.",
+      "charactersPerSecond": 13.066091269627504,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/694cde56-a3ad-40e9-8a6a-cae4e42d5a4b.mp4"
+    },
+    {
+      "statementId": 3,
+      "speed": 0.9,
+      "filename": "s_nicehouse_speed0.9.mp3",
+      "duration": 3.5265,
+      "wordCount": 12,
+      "transcript": "El cielo es claro y azul. La casa tiene un techo negro.",
+      "answer": true,
+      "translation": "The sky is bright and blue. The house has a black roof.",
+      "charactersPerSecond": 15.596200198497094,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/896e39c3-3192-4abf-8870-8022134031f1.mp4"
+    },
+    {
+      "statementId": 4,
+      "speed": 1,
+      "filename": "s_nicehouse_speed1.mp3",
+      "duration": 3.761625,
+      "wordCount": 13,
+      "transcript": "El cielo está azul y sin nubes. La casa tiene un techo negro.",
+      "answer": true,
+      "translation": "The sky is blue without clouds. The house has a black roof.",
+      "charactersPerSecond": 16.21639583956402,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/ac1e9e56-ecbe-49ae-b2ab-56b8ebc78d4d.mp4"
+    },
+    {
+      "statementId": 5,
+      "speed": 1.1,
+      "filename": "s_nicehouse_speed1.1.mp3",
+      "duration": 3.239125,
+      "wordCount": 12,
+      "transcript": "El cielo es claro y azul. La casa tiene un techo negro.",
+      "answer": true,
+      "translation": "The sky is bright and blue. The house has a black roof.",
+      "charactersPerSecond": 16.97989426156755,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/4d2e6427-ac03-48ff-a867-e84901f72cc1.mp4"
+    },
+    {
+      "statementId": 6,
+      "speed": 1.2,
+      "filename": "s_nicehouse_speed1.2.mp3",
+      "duration": 2.925687,
+      "wordCount": 12,
+      "transcript": "El cielo está claro y azul. La casa tiene un techo negro.",
+      "answer": true,
+      "translation": "The sky is clear and blue. The house has a black roof.",
+      "charactersPerSecond": 19.482603573109497,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/24aa424f-005a-4766-9d4f-c7bdc3caed23.mp4"
+    }
+  ],
+  "timestamp": "2025-07-02T18:59:24.013Z"
+}

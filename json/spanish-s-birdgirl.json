@@ -1,0 +1,79 @@
+{
+  "cloudinaryUrl": "https://player.cloudinary.com/embed/?cloud_name=dtszsqfxo&public_id=ssstik.io__katandk9_1751275068548_ezvnkj&profile=cld-default",
+  "publicId": "ssstik.io__katandk9_1751275068548_ezvnkj",
+  "audioFiles": [
+    {
+      "statementId": 1,
+      "speed": 0.7,
+      "filename": "s_birdgirl_speed0.7.mp3",
+      "duration": 4.623625,
+      "wordCount": 11,
+      "transcript": "La mujer sonríe y sostiene un pájaro colorido en su mano.",
+      "answer": false,
+      "translation": "The woman smiles and holds a colorful bird in her hand.",
+      "charactersPerSecond": 12.327989402254726,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/459933f3-f234-4855-b706-c35e3cd62569.mp4"
+    },
+    {
+      "statementId": 2,
+      "speed": 0.8,
+      "filename": "s_birdgirl_speed0.8.mp3",
+      "duration": 4.205687,
+      "wordCount": 11,
+      "transcript": "La mujer sonríe y sostiene un pájaro colorido en su mano.",
+      "answer": false,
+      "translation": "The woman smiles and holds a colorful bird in her hand.",
+      "charactersPerSecond": 13.553077059705108,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/90d4c3ca-efb8-40ce-bbc7-12d03a6a2a83.mp4"
+    },
+    {
+      "statementId": 3,
+      "speed": 0.9,
+      "filename": "s_birdgirl_speed0.9.mp3",
+      "duration": 5.198313,
+      "wordCount": 16,
+      "transcript": "La mujer sonríe al sostener un pájaro colorido en su mano y cree que es sabroso.",
+      "answer": false,
+      "translation": "The woman smiles while holding a colorful bird in her hand and thinks it looks tasty.",
+      "charactersPerSecond": 15.389608128637118,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/ec016dc2-4b6e-452d-ae62-6e5684cb5bff.mp4"
+    },
+    {
+      "statementId": 4,
+      "speed": 1,
+      "filename": "s_birdgirl_speed1.mp3",
+      "duration": 3.78775,
+      "wordCount": 11,
+      "transcript": "La mujer sonríe mientras sostiene un pájaro colorido en su mano.",
+      "answer": false,
+      "translation": "The woman smiles while holding a colorful bird in her hand.",
+      "charactersPerSecond": 16.89657448353244,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/bbe6ae07-5ccd-4dcd-82af-47c6e6f47b1e.mp4"
+    },
+    {
+      "statementId": 5,
+      "speed": 1.1,
+      "filename": "s_birdgirl_speed1.1.mp3",
+      "duration": 4.414688,
+      "wordCount": 16,
+      "transcript": "La mujer sonríe al sostener un pájaro colorido en su mano y cree que es sabroso.",
+      "answer": false,
+      "translation": "The woman smiles while holding a colorful bird in her hand and thinks it looks tasty.",
+      "charactersPerSecond": 18.121325901173538,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/cd3fc3b9-2cfb-4023-a773-9cfc97961263.mp4"
+    },
+    {
+      "statementId": 6,
+      "speed": 1.2,
+      "filename": "s_birdgirl_speed1.2.mp3",
+      "duration": 3.291375,
+      "wordCount": 11,
+      "transcript": "Una mujer sonríe mientras sostiene un pájaro colorido en su mano.",
+      "answer": false,
+      "translation": "A woman smiles while holding a colorful bird in her hand.",
+      "charactersPerSecond": 19.748585317686377,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/30415742-1e2f-4dbb-8d87-2469c0bb466e.mp4"
+    }
+  ],
+  "timestamp": "2025-07-02T18:14:18.210Z"
+}

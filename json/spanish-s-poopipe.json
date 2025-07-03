@@ -1,0 +1,79 @@
+{
+  "cloudinaryUrl": "https://res.cloudinary.com/dtszsqfxo/video/upload/v1751276286/ssstik.io_1751275589545_k2djiw.mp4",
+  "publicId": "ssstik.io_1751275589545_k2djiw",
+  "audioFiles": [
+    {
+      "statementId": 1,
+      "speed": 0.7,
+      "filename": "s_poopipe_speed0.7.mp3",
+      "duration": 4.832625,
+      "wordCount": 9,
+      "transcript": "Un hombre mira desde una tubería mientras lanzan desechos.",
+      "answer": true,
+      "translation": "A man looks out of a pipe as waste is thrown.",
+      "charactersPerSecond": 12.001758878456325,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/bdfe6425-2036-4ead-9844-aec95e6405b0.mp4"
+    },
+    {
+      "statementId": 2,
+      "speed": 0.8,
+      "filename": "s_poopipe_speed0.8.mp3",
+      "duration": 4.022813,
+      "wordCount": 12,
+      "transcript": "La cabeza de un hombre está en una tubería y recibe caca.",
+      "answer": true,
+      "translation": "A man’s head is in a pipe and poo hits his mouth.",
+      "charactersPerSecond": 14.169189569587251,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/aa312878-4e1c-4260-810f-0b49c8a612be.mp4"
+    },
+    {
+      "statementId": 3,
+      "speed": 0.9,
+      "filename": "s_poopipe_speed0.9.mp3",
+      "duration": 4.832625,
+      "wordCount": 16,
+      "transcript": "La cabeza de un hombre está en una tubería y alguien lanza desechos a su boca.",
+      "answer": true,
+      "translation": "A man’s head is in a pipe and someone throws waste into his mouth.",
+      "charactersPerSecond": 16.14029642275161,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/83dd6759-8997-4433-8ba6-acf19b01c592.mp4"
+    },
+    {
+      "statementId": 4,
+      "speed": 1,
+      "filename": "s_poopipe_speed1.mp3",
+      "duration": 4.310188,
+      "wordCount": 17,
+      "transcript": "La cabeza de un hombre sale de una tubería y alguien le tira caca a la boca.",
+      "answer": true,
+      "translation": "A man’s head comes out of a pipe, and someone throws poop into his mouth.",
+      "charactersPerSecond": 17.632641546030012,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/c09de6b8-3a84-4c68-99b8-4becce05f852.mp4"
+    },
+    {
+      "statementId": 5,
+      "speed": 1.1,
+      "filename": "s_poopipe_speed1.1.mp3",
+      "duration": 4.075062,
+      "wordCount": 17,
+      "transcript": "La cabeza de un hombre sale de una tubería y alguien le tira caca a la boca.",
+      "answer": true,
+      "translation": "A man’s head comes out of a pipe, and someone throws poop into his mouth.",
+      "charactersPerSecond": 18.65002299351519,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/f6c5f9d8-8797-4120-89c2-ee83e7cbb7ee.mp4"
+    },
+    {
+      "statementId": 6,
+      "speed": 1.2,
+      "filename": "s_poopipe_speed1.2.mp3",
+      "duration": 3.78775,
+      "wordCount": 14,
+      "transcript": "Un hombre asoma desde una tubería y alguien le lanza desechos a la boca.",
+      "answer": true,
+      "translation": "A man looks out from a pipe and someone throws waste into his mouth.",
+      "charactersPerSecond": 19.008646293973996,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/c46d46ba-3e43-4ed4-b2bf-316792f7c745.mp4"
+    }
+  ],
+  "timestamp": "2025-07-02T19:09:00.222Z"
+}

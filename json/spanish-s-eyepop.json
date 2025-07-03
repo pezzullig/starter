@@ -1,0 +1,79 @@
+{
+  "cloudinaryUrl": "https://res.cloudinary.com/dtszsqfxo/video/upload/v1751294283/ssstik.io_1751294218659_lqqulr.mp4",
+  "publicId": "ssstik.io_1751294218659_lqqulr",
+  "audioFiles": [
+    {
+      "statementId": 1,
+      "speed": 0.7,
+      "filename": "s_eyepop_speed0.7.mp3",
+      "duration": 4.414688,
+      "wordCount": 11,
+      "transcript": "Un hombre sin pelo puede sacar sus ojos de su cabeza.",
+      "answer": true,
+      "translation": "A man without hair can push his eyes out of his head.",
+      "charactersPerSecond": 12.005378409527468,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/8db7b893-77a8-4c8c-a218-a990f1ef3df4.mp4"
+    },
+    {
+      "statementId": 2,
+      "speed": 0.8,
+      "filename": "s_eyepop_speed0.8.mp3",
+      "duration": 4.493062,
+      "wordCount": 13,
+      "transcript": "Un hombre sin pelo puede hacer que sus ojos salgan de su cabeza.",
+      "answer": true,
+      "translation": "A man without hair can make his eyes pop out from his head.",
+      "charactersPerSecond": 14.244183587940697,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/10c2eaf8-3644-45c9-9649-eac57119a3ff.mp4"
+    },
+    {
+      "statementId": 3,
+      "speed": 0.9,
+      "filename": "s_eyepop_speed0.9.mp3",
+      "duration": 4.205687,
+      "wordCount": 13,
+      "transcript": "Un hombre sin cabello puede hacer que sus ojos salgan de su cabeza.",
+      "answer": true,
+      "translation": "A man with no hair can make his eyes pop out of his head.",
+      "charactersPerSecond": 15.930809877197232,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/da86ca39-fd21-4f1a-8875-e64a8fccea67.mp4"
+    },
+    {
+      "statementId": 4,
+      "speed": 1,
+      "filename": "s_eyepop_speed1.mp3",
+      "duration": 3.5265,
+      "wordCount": 12,
+      "transcript": "Un hombre sin cabello puede mover sus ojos fuera de su cabeza.",
+      "answer": true,
+      "translation": "A man without hair can move his eyes outside of his head.",
+      "charactersPerSecond": 17.58117113285127,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/ddea862b-38ab-46c3-9783-f1bdb9269be4.mp4"
+    },
+    {
+      "statementId": 5,
+      "speed": 1.1,
+      "filename": "s_eyepop_speed1.1.mp3",
+      "duration": 3.422,
+      "wordCount": 13,
+      "transcript": "Un hombre sin pelo puede hacer que sus ojos salgan de su cabeza.",
+      "answer": true,
+      "translation": "A man without hair can make his eyes pop out from his head.",
+      "charactersPerSecond": 18.70251315020456,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/b52991e2-33c3-49cb-8bc0-cf410479482e.mp4"
+    },
+    {
+      "statementId": 6,
+      "speed": 1.2,
+      "filename": "s_eyepop_speed1.2.mp3",
+      "duration": 3.186937,
+      "wordCount": 13,
+      "transcript": "Un hombre sin cabello puede hacer que sus ojos salgan de su cabeza.",
+      "answer": true,
+      "translation": "A man with no hair can make his eyes pop out of his head.",
+      "charactersPerSecond": 21.023321138761137,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/5a9079aa-fc1a-4d9e-a5d3-b77a9c0f962a.mp4"
+    }
+  ],
+  "timestamp": "2025-07-02T18:42:23.238Z"
+}

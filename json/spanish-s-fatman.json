@@ -1,0 +1,79 @@
+{
+  "cloudinaryUrl": "https://res.cloudinary.com/dtszsqfxo/video/upload/v1751276294/ssstik.io__fat.feederism_1751275426165_kcu1l8.mp4",
+  "publicId": "ssstik.io__fat.feederism_1751275426165_kcu1l8",
+  "audioFiles": [
+    {
+      "statementId": 1,
+      "speed": 0.7,
+      "filename": "s_fatman_speed0.7.mp3",
+      "duration": 4.362437,
+      "wordCount": 9,
+      "transcript": "El hombre está embarazado y lleva una camisa blanca.",
+      "answer": false,
+      "translation": "The man is pregnant and wears a white shirt.",
+      "charactersPerSecond": 11.919942912642636,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/a6bb5afc-43e4-440f-a0c0-e0cf89f8bfd8.mp4"
+    },
+    {
+      "statementId": 2,
+      "speed": 0.8,
+      "filename": "s_fatman_speed0.8.mp3",
+      "duration": 4.075062,
+      "wordCount": 11,
+      "transcript": "Un hombre lleva una camisa blanca y tiene un gran vientre.",
+      "answer": false,
+      "translation": "A man wears a white shirt and has a big stomach.",
+      "charactersPerSecond": 14.232912284524751,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/04ff00f3-90e8-48e6-b38c-87a6ee006efd.mp4"
+    },
+    {
+      "statementId": 3,
+      "speed": 0.9,
+      "filename": "s_fatman_speed0.9.mp3",
+      "duration": 4.54525,
+      "wordCount": 13,
+      "transcript": "Un hombre con un gran vientre lleva una camisa blanca y parece embarazado.",
+      "answer": false,
+      "translation": "A man with a big stomach wears a white shirt and looks pregnant.",
+      "charactersPerSecond": 16.280732632968483,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/f9c77edb-ff55-4080-b150-a8853d511519.mp4"
+    },
+    {
+      "statementId": 4,
+      "speed": 1,
+      "filename": "s_fatman_speed1.mp3",
+      "duration": 4.5975,
+      "wordCount": 14,
+      "transcript": "Un hombre lleva una camisa blanca y tiene un gran vientre durante su embarazo.",
+      "answer": false,
+      "translation": "A man wears a white shirt and has a large stomach during his pregnancy.",
+      "charactersPerSecond": 16.96574225122349,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/f50c5a51-c414-4eea-ad77-009fc92ab578.mp4"
+    },
+    {
+      "statementId": 5,
+      "speed": 1.1,
+      "filename": "s_fatman_speed1.1.mp3",
+      "duration": 4.022813,
+      "wordCount": 13,
+      "transcript": "Un hombre con una camisa blanca tiene una gran barriga porque está embarazado.",
+      "answer": false,
+      "translation": "A man in a white shirt has a big belly because he is pregnant.",
+      "charactersPerSecond": 19.389417305750975,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/7a87ee0b-ebe0-439b-9837-bd0db7a99789.mp4"
+    },
+    {
+      "statementId": 6,
+      "speed": 1.2,
+      "filename": "s_fatman_speed1.2.mp3",
+      "duration": 3.944437,
+      "wordCount": 14,
+      "transcript": "Un hombre lleva una camisa blanca y tiene una gran barriga porque está embarazado.",
+      "answer": false,
+      "translation": "A man wears a white shirt and has a large belly because he is pregnant.",
+      "charactersPerSecond": 20.788771629512652,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/a4d0a458-1243-454b-a4a8-b6b2dce5a871.mp4"
+    }
+  ],
+  "timestamp": "2025-07-02T18:22:20.388Z"
+}

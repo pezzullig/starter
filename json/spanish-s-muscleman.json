@@ -1,0 +1,79 @@
+{
+  "cloudinaryUrl": "https://player.cloudinary.com/embed/?cloud_name=dtszsqfxo&public_id=ssstik.io__cbumtnt_1751275181145_o5jzit&profile=cld-default",
+  "publicId": "ssstik.io__cbumtnt_1751275181145_o5jzit",
+  "audioFiles": [
+    {
+      "statementId": 1,
+      "speed": 0.7,
+      "filename": "s_muscleman_speed0.7.mp3",
+      "duration": 4.493062,
+      "wordCount": 9,
+      "transcript": "El hombre sonríe en el escenario porque está orgulloso.",
+      "answer": false,
+      "translation": "The man smiles on stage because he feels proud.",
+      "charactersPerSecond": 12.241095270886536,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/be74a79d-c0b6-4f51-b233-36bf86930b8c.mp4"
+    },
+    {
+      "statementId": 2,
+      "speed": 0.8,
+      "filename": "s_muscleman_speed0.8.mp3",
+      "duration": 3.944437,
+      "wordCount": 9,
+      "transcript": "El hombre sonríe en el escenario porque está orgulloso.",
+      "answer": false,
+      "translation": "The man smiles on stage because he feels proud.",
+      "charactersPerSecond": 13.943688288087754,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/ae5da8c7-e3f1-478a-a16f-be7cec63b8a0.mp4"
+    },
+    {
+      "statementId": 3,
+      "speed": 0.9,
+      "filename": "s_muscleman_speed0.9.mp3",
+      "duration": 3.343625,
+      "wordCount": 9,
+      "transcript": "El hombre sonríe en el escenario porque está orgulloso.",
+      "answer": false,
+      "translation": "The man smiles on stage because he feels proud.",
+      "charactersPerSecond": 16.449213054693633,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/59a7119e-1aaf-43ec-ac02-0d5fcbd72ec3.mp4"
+    },
+    {
+      "statementId": 4,
+      "speed": 1,
+      "filename": "s_muscleman_speed1.mp3",
+      "duration": 3.108563,
+      "wordCount": 9,
+      "transcript": "El hombre sonríe en el escenario porque está orgulloso.",
+      "answer": false,
+      "translation": "The man smiles on stage because he feels proud.",
+      "charactersPerSecond": 17.693062678800462,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/199e74f1-08b7-47b5-9f2e-8de96547d56c.mp4"
+    },
+    {
+      "statementId": 5,
+      "speed": 1.1,
+      "filename": "s_muscleman_speed1.1.mp3",
+      "duration": 2.925687,
+      "wordCount": 9,
+      "transcript": "El hombre sonríe en el escenario porque está orgulloso.",
+      "answer": false,
+      "translation": "The man smiles on stage because he feels proud.",
+      "charactersPerSecond": 18.79900344773723,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/985d722c-3eea-4ae4-99d5-16bb77ff28da.mp4"
+    },
+    {
+      "statementId": 6,
+      "speed": 1.2,
+      "filename": "s_muscleman_speed1.2.mp3",
+      "duration": 3.84,
+      "wordCount": 13,
+      "transcript": "El hombre sonríe en el escenario porque está orgulloso de sus músculos pequeños.",
+      "answer": false,
+      "translation": "The man smiles on stage because he is proud of his small muscles.",
+      "charactersPerSecond": 20.833333333333336,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/272eb01d-2062-4459-9f34-9912b8c78b92.mp4"
+    }
+  ],
+  "timestamp": "2025-07-02T19:04:48.105Z"
+}

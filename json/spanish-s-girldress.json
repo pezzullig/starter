@@ -1,0 +1,79 @@
+{
+  "cloudinaryUrl": "https://res.cloudinary.com/dtszsqfxo/video/upload/v1751276287/ssstik.io__maddiehammonddd_1751275443367_z95qay.mp4",
+  "publicId": "ssstik.io__maddiehammonddd_1751275443367_z95qay",
+  "audioFiles": [
+    {
+      "statementId": 1,
+      "speed": 0.7,
+      "filename": "s_girldress_speed0.7.mp3",
+      "duration": 4.96325,
+      "wordCount": 14,
+      "transcript": "La mujer se quita la ropa y toma una ducha larga en el baño.",
+      "answer": false,
+      "translation": "The woman takes off her clothes and has a long shower in the bathroom.",
+      "charactersPerSecond": 12.088853070064976,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/3338aaa4-e682-47e9-abf7-7239a923aded.mp4"
+    },
+    {
+      "statementId": 2,
+      "speed": 0.8,
+      "filename": "s_girldress_speed0.8.mp3",
+      "duration": 4.440813,
+      "wordCount": 14,
+      "transcript": "Una mujer se quita la ropa y toma una larga ducha en el baño.",
+      "answer": false,
+      "translation": "A woman takes off her clothes and has a long shower in the bathroom.",
+      "charactersPerSecond": 13.736223524836555,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/ba97cbee-56f5-43eb-8196-a9b54c3675f6.mp4"
+    },
+    {
+      "statementId": 3,
+      "speed": 0.9,
+      "filename": "s_girldress_speed0.9.mp3",
+      "duration": 4.179563,
+      "wordCount": 15,
+      "transcript": "Una mujer se quita la ropa y se ducha por mucho tiempo en el baño.",
+      "answer": false,
+      "translation": "A woman takes off her clothes and showers for a long time in the bathroom.",
+      "charactersPerSecond": 15.791124574506952,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/062e9781-9307-462a-9f39-74d26565f4e0.mp4"
+    },
+    {
+      "statementId": 4,
+      "speed": 1,
+      "filename": "s_girldress_speed1.mp3",
+      "duration": 3.604875,
+      "wordCount": 14,
+      "transcript": "Una mujer se quita la ropa y toma una larga ducha en el baño.",
+      "answer": false,
+      "translation": "A woman takes off her clothes and has a long shower in the bathroom.",
+      "charactersPerSecond": 16.921529872741775,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/491e8f65-7c57-4d74-bd0b-19d72b163e4a.mp4"
+    },
+    {
+      "statementId": 5,
+      "speed": 1.1,
+      "filename": "s_girldress_speed1.1.mp3",
+      "duration": 3.239125,
+      "wordCount": 14,
+      "transcript": "Una mujer se quita la ropa y toma una larga ducha en el baño.",
+      "answer": false,
+      "translation": "A woman takes off her clothes and has a long shower in the bathroom.",
+      "charactersPerSecond": 18.83224636282947,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/af19090e-58ad-415a-ad1e-f6794855379f.mp4"
+    },
+    {
+      "statementId": 6,
+      "speed": 1.2,
+      "filename": "s_girldress_speed1.2.mp3",
+      "duration": 3.422,
+      "wordCount": 15,
+      "transcript": "Una mujer se quita la ropa y disfruta de una ducha larga en el baño.",
+      "answer": false,
+      "translation": "A woman takes off her clothes and enjoys a long shower in the bathroom.",
+      "charactersPerSecond": 19.871420222092343,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/18d222b7-d948-43df-b03d-bf0c3afbe33d.mp4"
+    }
+  ],
+  "timestamp": "2025-07-02T19:08:11.292Z"
+}

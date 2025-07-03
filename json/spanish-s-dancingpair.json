@@ -1,0 +1,79 @@
+{
+  "cloudinaryUrl": "https://player.cloudinary.com/embed/?cloud_name=dtszsqfxo&public_id=ssstik.io__laura__robinson_1751275216200_h18uwo&profile=cld-default",
+  "publicId": "ssstik.io__laura__robinson_1751275216200_h18uwo",
+  "audioFiles": [
+    {
+      "statementId": 1,
+      "speed": 0.7,
+      "filename": "s_dancingpair_speed0.7.mp3",
+      "duration": 4.440813,
+      "wordCount": 11,
+      "transcript": "Un hombre y una mujer bailan con ropa negra y blanca.",
+      "answer": true,
+      "translation": "A man and woman dance in black and white clothes.",
+      "charactersPerSecond": 11.934751587153071,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/58d44108-029e-41e0-bcb0-659ee1ede3e8.mp4"
+    },
+    {
+      "statementId": 2,
+      "speed": 0.8,
+      "filename": "s_dancingpair_speed0.8.mp3",
+      "duration": 4.075062,
+      "wordCount": 12,
+      "transcript": "Un hombre y una mujer bailan juntos con ropa negra y blanca.",
+      "answer": true,
+      "translation": "A man and a woman dance together while wearing black and white clothes.",
+      "charactersPerSecond": 14.723702363301467,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/ab9177ad-59cc-43ab-b732-3333117900c0.mp4"
+    },
+    {
+      "statementId": 3,
+      "speed": 0.9,
+      "filename": "s_dancingpair_speed0.9.mp3",
+      "duration": 4.780375,
+      "wordCount": 13,
+      "transcript": "Un hombre y una mujer llevan ropa blanca y negra mientras bailan juntos.",
+      "answer": true,
+      "translation": "A man and a woman wear black and white clothes while they dance together.",
+      "charactersPerSecond": 15.061579896974608,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/b060783c-0466-44dc-ba6a-72c11c7b7df2.mp4"
+    },
+    {
+      "statementId": 4,
+      "speed": 1,
+      "filename": "s_dancingpair_speed1.mp3",
+      "duration": 5.0155,
+      "wordCount": 15,
+      "transcript": "Un hombre y una mujer bailan juntos. Ellos llevan ropa negra y blanca mientras bailan.",
+      "answer": true,
+      "translation": "A man and a woman dance together. They wear black and white clothes while dancing.",
+      "charactersPerSecond": 17.146844781178345,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/64d4debb-f9dc-47e0-97ab-a3f48c34fb18.mp4"
+    },
+    {
+      "statementId": 5,
+      "speed": 1.1,
+      "filename": "s_dancingpair_speed1.1.mp3",
+      "duration": 4.675875,
+      "wordCount": 15,
+      "transcript": "Un hombre y una mujer bailan juntos. Ellos llevan ropa negra y blanca mientras bailan.",
+      "answer": true,
+      "translation": "A man and a woman dance together. They wear black and white clothes while dancing.",
+      "charactersPerSecond": 18.39227951987596,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/f094e8ff-2d05-442e-bcf7-229f6b6cfa79.mp4"
+    },
+    {
+      "statementId": 6,
+      "speed": 1.2,
+      "filename": "s_dancingpair_speed1.2.mp3",
+      "duration": 4.179563,
+      "wordCount": 15,
+      "transcript": "Un hombre y una mujer bailan juntos. Ellos llevan ropa negra y blanca mientras bailan.",
+      "answer": true,
+      "translation": "A man and a woman dance together. They wear black and white clothes while dancing.",
+      "charactersPerSecond": 20.57631383950906,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/05102ec9-7a5d-405b-aa81-be914919b702.mp4"
+    }
+  ],
+  "timestamp": "2025-07-02T18:19:23.262Z"
+}

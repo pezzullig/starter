@@ -1,0 +1,79 @@
+{
+  "cloudinaryUrl": "https://res.cloudinary.com/dtszsqfxo/video/upload/v1751294286/ssstik.io__xyzanimalsfarm_1751293908409_b17xqo.mp4",
+  "publicId": "ssstik.io__xyzanimalsfarm_1751293908409_b17xqo",
+  "audioFiles": [
+    {
+      "statementId": 1,
+      "speed": 0.7,
+      "filename": "s_kangaroofight_speed0.7.mp3",
+      "duration": 4.205687,
+      "wordCount": 10,
+      "transcript": "Los animales se besan porque no se gustan entre sí.",
+      "answer": false,
+      "translation": "The animals kiss each other because they do not like each other.",
+      "charactersPerSecond": 12.126437369209834,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/6632da40-69ae-4b6b-a9b8-be10c4acabf4.mp4"
+    },
+    {
+      "statementId": 2,
+      "speed": 0.8,
+      "filename": "s_kangaroofight_speed0.8.mp3",
+      "duration": 4.205687,
+      "wordCount": 12,
+      "transcript": "Los animales se besan con fuerza porque no se gustan entre sí.",
+      "answer": false,
+      "translation": "The animals kiss each other very hard because they dislike one another.",
+      "charactersPerSecond": 14.74194346845117,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/c6f87e7d-d421-4456-b57d-87dd0bde9ebb.mp4"
+    },
+    {
+      "statementId": 3,
+      "speed": 0.9,
+      "filename": "s_kangaroofight_speed0.9.mp3",
+      "duration": 3.657125,
+      "wordCount": 12,
+      "transcript": "Los animales se besan con fuerza porque no se gustan entre sí.",
+      "answer": false,
+      "translation": "The animals kiss each other very hard because they dislike one another.",
+      "charactersPerSecond": 16.95320777933486,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/eb1c671f-7f81-44a6-90ee-140611c9ad42.mp4"
+    },
+    {
+      "statementId": 4,
+      "speed": 1,
+      "filename": "s_kangaroofight_speed1.mp3",
+      "duration": 3.36975,
+      "wordCount": 12,
+      "transcript": "Los animales se besan con fuerza porque no se gustan entre sí.",
+      "answer": false,
+      "translation": "The animals kiss each other very hard because they dislike one another.",
+      "charactersPerSecond": 18.39899102307293,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/930b396a-a602-47c2-983d-80af902e654e.mp4"
+    },
+    {
+      "statementId": 5,
+      "speed": 1.1,
+      "filename": "s_kangaroofight_speed1.1.mp3",
+      "duration": 3.239125,
+      "wordCount": 12,
+      "transcript": "Los animales se besan con fuerza porque no les gusta el otro.",
+      "answer": false,
+      "translation": "The animals kiss each other with strong feelings because they do not like each other.",
+      "charactersPerSecond": 18.83224636282947,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/adc45b61-d4de-456f-8773-cdad4bd73abe.mp4"
+    },
+    {
+      "statementId": 6,
+      "speed": 1.2,
+      "filename": "s_kangaroofight_speed1.2.mp3",
+      "duration": 3.604875,
+      "wordCount": 14,
+      "transcript": "Los animales se besan, y se ve muy agresivo porque se odian entre sí.",
+      "answer": false,
+      "translation": "The animals kiss each other, and it looks very aggressive because they dislike one another.",
+      "charactersPerSecond": 19.140746905232497,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/2290f7cf-0c6e-4b5f-a63c-da78b332d8a5.mp4"
+    }
+  ],
+  "timestamp": "2025-07-02T18:41:34.320Z"
+}

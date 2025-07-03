@@ -1,0 +1,79 @@
+{
+  "cloudinaryUrl": "https://res.cloudinary.com/dtszsqfxo/video/upload/v1751276298/ssstik.io__ibiza.a_1751275091452_veabo0.mp4",
+  "publicId": "ssstik.io__ibiza.a_1751275091452_veabo0",
+  "audioFiles": [
+    {
+      "statementId": 1,
+      "speed": 0.7,
+      "filename": "s_outdoorcinema_speed0.7.mp3",
+      "duration": 4.310188,
+      "wordCount": 11,
+      "transcript": "El cielo está claro y la hierba es verde y fresca.",
+      "answer": true,
+      "translation": "The sky is clear and the grass is green and fresh.",
+      "charactersPerSecond": 11.600422069756586,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/62589650-3048-47fc-855d-b38603d81291.mp4"
+    },
+    {
+      "statementId": 2,
+      "speed": 0.8,
+      "filename": "s_outdoorcinema_speed0.8.mp3",
+      "duration": 4.440813,
+      "wordCount": 13,
+      "transcript": "El cielo está claro y la hierba es verde. Parece un buen lugar.",
+      "answer": true,
+      "translation": "The sky is clear and the grass is green. It looks like a nice place.",
+      "charactersPerSecond": 14.186591509257426,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/5ab41d42-8cba-4882-890a-7d1398af811f.mp4"
+    },
+    {
+      "statementId": 3,
+      "speed": 0.9,
+      "filename": "s_outdoorcinema_speed0.9.mp3",
+      "duration": 4.780375,
+      "wordCount": 15,
+      "transcript": "El cielo está claro y la hierba es verde en un lugar agradable para amigos.",
+      "answer": true,
+      "translation": "The sky is clear and the grass is green in a nice place for friends.",
+      "charactersPerSecond": 15.689145726015218,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/33eaa97d-ecaf-4b4e-a527-04f6c2e7ea9e.mp4"
+    },
+    {
+      "statementId": 4,
+      "speed": 1,
+      "filename": "s_outdoorcinema_speed1.mp3",
+      "duration": 4.022813,
+      "wordCount": 13,
+      "transcript": "La hierba verde y el cielo claro hacen un buen lugar para descansar.",
+      "answer": true,
+      "translation": "The green grass and clear sky make a nice place to relax.",
+      "charactersPerSecond": 16.90359457424444,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/574f5464-b8e9-412a-b01c-60ce024066bb.mp4"
+    },
+    {
+      "statementId": 5,
+      "speed": 1.1,
+      "filename": "s_outdoorcinema_speed1.1.mp3",
+      "duration": 3.892188,
+      "wordCount": 13,
+      "transcript": "La hierba verde y el cielo claro hacen un buen lugar para descansar.",
+      "answer": true,
+      "translation": "The green grass and clear sky make a nice place to relax.",
+      "charactersPerSecond": 17.470892978448113,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/21138b2e-d132-44f2-8398-74a8089f592f.mp4"
+    },
+    {
+      "statementId": 6,
+      "speed": 1.2,
+      "filename": "s_outdoorcinema_speed1.2.mp3",
+      "duration": 3.761625,
+      "wordCount": 15,
+      "transcript": "El cielo es azul y la hierba es verde. Es un buen lugar para descansar.",
+      "answer": true,
+      "translation": "The sky is blue and the grass is green. It is a nice place to relax.",
+      "charactersPerSecond": 18.874821387033528,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/9dc69af3-8ccf-420f-bf6c-ab3a1cf6831b.mp4"
+    }
+  ],
+  "timestamp": "2025-07-02T18:17:16.303Z"
+}

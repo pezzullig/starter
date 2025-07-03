@@ -1,0 +1,79 @@
+{
+  "cloudinaryUrl": "https://player.cloudinary.com/embed/?cloud_name=dtszsqfxo&public_id=BASE_jumping_Switzerland_am0306&profile=cld-default",
+  "publicId": "BASE_jumping_Switzerland_am0306",
+  "audioFiles": [
+    {
+      "statementId": 1,
+      "speed": 0.7,
+      "filename": "s_basejump_speed0.7.mp3",
+      "duration": 4.310188,
+      "wordCount": 11,
+      "transcript": "Un hombre corre en el bosque y salta de una montaña.",
+      "answer": true,
+      "translation": "A man runs in the forest and jumps off a mountain.",
+      "charactersPerSecond": 12.06443895254685,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/72d4e204-d873-40aa-a76f-0cbf988a9c75.mp4"
+    },
+    {
+      "statementId": 2,
+      "speed": 0.8,
+      "filename": "s_basejump_speed0.8.mp3",
+      "duration": 3.892188,
+      "wordCount": 12,
+      "transcript": "El hombre salta de una montaña alta y cae por el aire.",
+      "answer": true,
+      "translation": "The man jumps from a high mountain and falls through the air.",
+      "charactersPerSecond": 13.873944424061737,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/9750679e-0ba7-445e-9aa9-49b2b71251c7.mp4"
+    },
+    {
+      "statementId": 3,
+      "speed": 0.9,
+      "filename": "s_basejump_speed0.9.mp3",
+      "duration": 3.160813,
+      "wordCount": 11,
+      "transcript": "Un hombre corre en el bosque y salta de una montaña.",
+      "answer": true,
+      "translation": "A man runs in the forest and jumps off a mountain.",
+      "charactersPerSecond": 16.451463594967496,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/cffe2dfc-2466-424f-a674-1b24b3234dfb.mp4"
+    },
+    {
+      "statementId": 4,
+      "speed": 1,
+      "filename": "s_basejump_speed1.mp3",
+      "duration": 3.343625,
+      "wordCount": 12,
+      "transcript": "El hombre corre en el bosque y salta de una montaña alta.",
+      "answer": true,
+      "translation": "The man runs in the forest and jumps from a high mountain.",
+      "charactersPerSecond": 17.047366256682494,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/b59cd07f-2e01-42ba-afaa-6dc60c9c4f99.mp4"
+    },
+    {
+      "statementId": 5,
+      "speed": 1.1,
+      "filename": "s_basejump_speed1.1.mp3",
+      "duration": 4.179563,
+      "wordCount": 16,
+      "transcript": "Un hombre corre en el bosque y salta de una montaña alta, cayendo por el aire.",
+      "answer": true,
+      "translation": "A man runs in the forest and jumps from a high mountain, falling through the air.",
+      "charactersPerSecond": 18.662238133508218,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/b4512ea3-f1fb-4650-bb40-647d4c4969cb.mp4"
+    },
+    {
+      "statementId": 6,
+      "speed": 1.2,
+      "filename": "s_basejump_speed1.2.mp3",
+      "duration": 3.239125,
+      "wordCount": 14,
+      "transcript": "Un hombre corre en el bosque y salta de una montaña alta al aire.",
+      "answer": true,
+      "translation": "A man runs in the forest and jumps from a tall mountain into the air.",
+      "charactersPerSecond": 20.067147763670743,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/1700bfda-0f03-4044-b7a2-15da06aba035.mp4"
+    }
+  ],
+  "timestamp": "2025-07-02T15:17:05.456Z"
+}

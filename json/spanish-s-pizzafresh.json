@@ -1,0 +1,79 @@
+{
+  "cloudinaryUrl": "https://res.cloudinary.com/dtszsqfxo/video/upload/v1751276313/ssstik.io__davepizzaoven_1751274943566_tjikjo.mp4",
+  "publicId": "ssstik.io__davepizzaoven_1751274943566_tjikjo",
+  "audioFiles": [
+    {
+      "statementId": 1,
+      "speed": 0.7,
+      "filename": "s_pizzafresh_speed0.7.mp3",
+      "duration": 4.022813,
+      "wordCount": 10,
+      "transcript": "La mesa tiene una pizza con queso y jamón arriba.",
+      "answer": false,
+      "translation": "The table has a pizza with cheese and ham on top.",
+      "charactersPerSecond": 12.180531384382023,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/a368c4f5-8ca4-4597-9e14-732b58188caa.mp4"
+    },
+    {
+      "statementId": 2,
+      "speed": 0.8,
+      "filename": "s_pizzafresh_speed0.8.mp3",
+      "duration": 3.343625,
+      "wordCount": 10,
+      "transcript": "La pizza en la mesa tiene mucho queso y jamón.",
+      "answer": false,
+      "translation": "The pizza on the table has a lot of cheese and ham.",
+      "charactersPerSecond": 13.757523645743767,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/6aa3f34c-b392-46b2-9725-00106739acf0.mp4"
+    },
+    {
+      "statementId": 3,
+      "speed": 0.9,
+      "filename": "s_pizzafresh_speed0.9.mp3",
+      "duration": 2.742813,
+      "wordCount": 10,
+      "transcript": "La pizza en la mesa tiene mucho queso y jamón.",
+      "answer": false,
+      "translation": "The pizza on the table has a lot of cheese and ham.",
+      "charactersPerSecond": 16.771103243276155,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/3376f246-9a4f-495a-aa57-5aa85bb870c8.mp4"
+    },
+    {
+      "statementId": 4,
+      "speed": 1,
+      "filename": "s_pizzafresh_speed1.mp3",
+      "duration": 3.108563,
+      "wordCount": 11,
+      "transcript": "La mesa tiene una pizza con mucho queso y jamón encima.",
+      "answer": false,
+      "translation": "The table has a pizza with a lot of cheese and ham on it.",
+      "charactersPerSecond": 17.693062678800462,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/ec4227a1-3791-45d2-904f-ecafe919f7aa.mp4"
+    },
+    {
+      "statementId": 5,
+      "speed": 1.1,
+      "filename": "s_pizzafresh_speed1.1.mp3",
+      "duration": 2.638313,
+      "wordCount": 10,
+      "transcript": "La mesa tiene una pizza con queso y jamón arriba.",
+      "answer": false,
+      "translation": "The table has a pizza with cheese and ham on top.",
+      "charactersPerSecond": 18.572474152990946,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/94de2676-57c1-4db0-8d16-42feb1a4cc6c.mp4"
+    },
+    {
+      "statementId": 6,
+      "speed": 1.2,
+      "filename": "s_pizzafresh_speed1.2.mp3",
+      "duration": 3.291375,
+      "wordCount": 13,
+      "transcript": "La pizza tiene mucho queso, jamón y datos grandes. Está en la mesa.",
+      "answer": false,
+      "translation": "The pizza has a lot of cheese, ham, and big data. It is on the table.",
+      "charactersPerSecond": 20.356234096692113,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/e89c1144-2918-4ce6-9756-140a863e0113.mp4"
+    }
+  ],
+  "timestamp": "2025-07-02T18:54:47.387Z"
+}

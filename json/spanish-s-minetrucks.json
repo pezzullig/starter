@@ -1,0 +1,79 @@
+{
+  "cloudinaryUrl": "https://res.cloudinary.com/dtszsqfxo/video/upload/v1751294292/ssstik.io__zscc.sgd_1751293775433_wphvy4.mp4",
+  "publicId": "ssstik.io__zscc.sgd_1751293775433_wphvy4",
+  "audioFiles": [
+    {
+      "statementId": 1,
+      "speed": 0.7,
+      "filename": "s_minetrucks_speed0.7.mp3",
+      "duration": 4.85875,
+      "wordCount": 9,
+      "transcript": "Los niños usan grandes vehículos para divertirse y jugar.",
+      "answer": false,
+      "translation": "Children use big vehicles for fun and play.",
+      "charactersPerSecond": 11.731412400308722,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/3ba19499-689e-4c92-94f3-8f21da5b21b1.mp4"
+    },
+    {
+      "statementId": 2,
+      "speed": 0.8,
+      "filename": "s_minetrucks_speed0.8.mp3",
+      "duration": 4.780375,
+      "wordCount": 12,
+      "transcript": "Los vehículos grandes son para que los niños jueguen y se diviertan.",
+      "answer": false,
+      "translation": "Big vehicles are made for children to play with and have fun.",
+      "charactersPerSecond": 14.224825458253797,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/4b11bb21-f792-43fc-bc1a-1b266ac13e86.mp4"
+    },
+    {
+      "statementId": 3,
+      "speed": 0.9,
+      "filename": "s_minetrucks_speed0.9.mp3",
+      "duration": 4.675875,
+      "wordCount": 13,
+      "transcript": "Los vehículos grandes están hechos para que los niños jueguen y se diviertan.",
+      "answer": false,
+      "translation": "The large vehicles are made for children to play and have fun.",
+      "charactersPerSecond": 16.467506081749406,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/a16d48d7-b2e5-4f77-8a5f-ae4b90be5de3.mp4"
+    },
+    {
+      "statementId": 4,
+      "speed": 1,
+      "filename": "s_minetrucks_speed1.mp3",
+      "duration": 4.362437,
+      "wordCount": 13,
+      "transcript": "Los vehículos grandes están hechos para que los niños jueguen y se diviertan.",
+      "answer": false,
+      "translation": "The large vehicles are made for children to play and have fun.",
+      "charactersPerSecond": 17.65068469756698,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/f4c1b025-d526-4eb4-9a81-9388ccbd6a65.mp4"
+    },
+    {
+      "statementId": 5,
+      "speed": 1.1,
+      "filename": "s_minetrucks_speed1.1.mp3",
+      "duration": 4.362437,
+      "wordCount": 14,
+      "transcript": "Los vehículos grandes están hechos para que los niños se diviertan y jueguen juntos.",
+      "answer": false,
+      "translation": "Big vehicles are made for children to have fun and enjoy playtime together.",
+      "charactersPerSecond": 19.255292397345794,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/7fd55cb7-d528-4736-92ef-6fa578709e11.mp4"
+    },
+    {
+      "statementId": 6,
+      "speed": 1.2,
+      "filename": "s_minetrucks_speed1.2.mp3",
+      "duration": 3.47425,
+      "wordCount": 12,
+      "transcript": "Los vehículos grandes son para que los niños se diviertan y jueguen.",
+      "answer": false,
+      "translation": "Big vehicles are made for children to have fun and play.",
+      "charactersPerSecond": 19.572569619342303,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/c3a09095-fcd9-4321-babe-bdb446f0500d.mp4"
+    }
+  ],
+  "timestamp": "2025-07-02T18:39:33.057Z"
+}

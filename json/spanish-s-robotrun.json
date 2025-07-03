@@ -1,0 +1,79 @@
+{
+  "cloudinaryUrl": "https://player.cloudinary.com/embed/?cloud_name=dtszsqfxo&public_id=ssstik.io__telangp1_1751274980305_ebqxnl&profile=cld-default",
+  "publicId": "ssstik.io__telangp1_1751274980305_ebqxnl",
+  "audioFiles": [
+    {
+      "statementId": 1,
+      "speed": 0.7,
+      "filename": "s_robotrun_speed0.7.mp3",
+      "duration": 4.96325,
+      "wordCount": 12,
+      "transcript": "El robot corre en la hierba. Tiene dos brazos y dos piernas.",
+      "answer": true,
+      "translation": "The robot runs on the grass. It has two arms and two legs.",
+      "charactersPerSecond": 12.088853070064976,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/b6ecdbb2-0a3a-4220-8579-e1fca66c2a16.mp4"
+    },
+    {
+      "statementId": 2,
+      "speed": 0.8,
+      "filename": "s_robotrun_speed0.8.mp3",
+      "duration": 5.146063,
+      "wordCount": 15,
+      "transcript": "El robot con dos brazos y dos piernas corre en la hierba como un humano.",
+      "answer": true,
+      "translation": "The robot with two arms and two legs runs on the grass like a human.",
+      "charactersPerSecond": 13.991278381162454,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/42d5e02c-f000-403d-b6ec-f4b2332e3a7b.mp4"
+    },
+    {
+      "statementId": 3,
+      "speed": 0.9,
+      "filename": "s_robotrun_speed0.9.mp3",
+      "duration": 5.198313,
+      "wordCount": 15,
+      "transcript": "El robot camina sobre la hierba. Tiene dos brazos y dos piernas como un humano.",
+      "answer": true,
+      "translation": "The robot walks on the grass. It has two arms and two legs like a human.",
+      "charactersPerSecond": 15.197238027029154,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/febe87e4-6467-46dd-a06c-ae7e4fdadeee.mp4"
+    },
+    {
+      "statementId": 4,
+      "speed": 1,
+      "filename": "s_robotrun_speed1.mp3",
+      "duration": 4.54525,
+      "wordCount": 15,
+      "transcript": "El robot corre en la hierba. Tiene dos brazos y dos piernas como una persona.",
+      "answer": true,
+      "translation": "The robot runs on grass. It has two arms and two legs like a person.",
+      "charactersPerSecond": 16.94076233430504,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/7cdcdacc-7c60-4fdd-a48a-1ee68e5949b9.mp4"
+    },
+    {
+      "statementId": 5,
+      "speed": 1.1,
+      "filename": "s_robotrun_speed1.1.mp3",
+      "duration": 4.205687,
+      "wordCount": 15,
+      "transcript": "El robot tiene dos brazos y dos piernas. Corre en la hierba como un humano.",
+      "answer": true,
+      "translation": "The robot has two arms and two legs. It runs on the grass like a human.",
+      "charactersPerSecond": 17.83299613119093,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/bd415915-fb64-40d7-9fa0-5a2925b0aa9d.mp4"
+    },
+    {
+      "statementId": 6,
+      "speed": 1.2,
+      "filename": "s_robotrun_speed1.2.mp3",
+      "duration": 3.944437,
+      "wordCount": 15,
+      "transcript": "El robot tiene dos brazos y dos piernas. Corre en la hierba como un humano.",
+      "answer": true,
+      "translation": "The robot has two arms and two legs. It runs on the grass like a human.",
+      "charactersPerSecond": 19.014120392846937,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/395c2466-877f-46d3-97bf-6af1da1b0208.mp4"
+    }
+  ],
+  "timestamp": "2025-07-02T19:02:11.647Z"
+}

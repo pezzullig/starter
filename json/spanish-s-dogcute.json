@@ -1,0 +1,79 @@
+{
+  "cloudinaryUrl": "https://player.cloudinary.com/embed/?cloud_name=dtszsqfxo&public_id=ssstik.io__otis_thelab_1751275299021_rk9shb&profile=cld-default",
+  "publicId": "ssstik.io__otis_thelab_1751275299021_rk9shb",
+  "audioFiles": [
+    {
+      "statementId": 1,
+      "speed": 0.7,
+      "filename": "s_dogcute_speed0.7.mp3",
+      "duration": 5.381188,
+      "wordCount": 12,
+      "transcript": "Un cachorro yace en un cojín. Tiene dos orejas y ojos negros.",
+      "answer": true,
+      "translation": "A puppy lays on a cushion. It has two ears and black eyes.",
+      "charactersPerSecond": 11.33578681882142,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/88a3ad1e-a4e2-43bb-8d04-9805a70ec9f2.mp4"
+    },
+    {
+      "statementId": 2,
+      "speed": 0.8,
+      "filename": "s_dogcute_speed0.8.mp3",
+      "duration": 4.911,
+      "wordCount": 13,
+      "transcript": "Un cachorro se tumba en un cojín. Tiene dos orejas y ojos negros.",
+      "answer": true,
+      "translation": "A puppy lies down on a cushion. It has two ears and black eyes.",
+      "charactersPerSecond": 13.235593565465283,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/5d00bdbb-6bba-452d-a3b5-41e996642cd5.mp4"
+    },
+    {
+      "statementId": 3,
+      "speed": 0.9,
+      "filename": "s_dogcute_speed0.9.mp3",
+      "duration": 4.675875,
+      "wordCount": 13,
+      "transcript": "Un cachorro está acostado en un cojín. Tiene dos orejas y ojos negros.",
+      "answer": true,
+      "translation": "A puppy lies on a cushion. It has two ears and black eyes.",
+      "charactersPerSecond": 14.970460074317643,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/061c554b-68f2-4ab3-9828-9ff82749887f.mp4"
+    },
+    {
+      "statementId": 4,
+      "speed": 1,
+      "filename": "s_dogcute_speed1.mp3",
+      "duration": 4.310188,
+      "wordCount": 13,
+      "transcript": "Un cachorro está acostado en un cojín. Tiene dos orejas y ojos negros.",
+      "answer": true,
+      "translation": "A puppy lies on a cushion. It has two ears and black eyes.",
+      "charactersPerSecond": 16.24059089765922,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/3d6141f4-2a61-427c-a4d4-f9f8af614bc3.mp4"
+    },
+    {
+      "statementId": 5,
+      "speed": 1.1,
+      "filename": "s_dogcute_speed1.1.mp3",
+      "duration": 4.022813,
+      "wordCount": 13,
+      "transcript": "Un cachorro está acostado en un cojín. Tiene dos orejas y ojos negros.",
+      "answer": true,
+      "translation": "A puppy lies on a cushion. It has two ears and black eyes.",
+      "charactersPerSecond": 17.400759120545747,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/05919889-59bd-4cca-8864-127332f9aac3.mp4"
+    },
+    {
+      "statementId": 6,
+      "speed": 1.2,
+      "filename": "s_dogcute_speed1.2.mp3",
+      "duration": 3.604875,
+      "wordCount": 13,
+      "transcript": "Un cachorro está acostado en un cojín. Tiene dos orejas y ojos negros.",
+      "answer": true,
+      "translation": "A puppy lies on a cushion. It has two ears and black eyes.",
+      "charactersPerSecond": 19.41814903429384,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/fa676143-bff4-4ca2-9f02-a38bb3549c00.mp4"
+    }
+  ],
+  "timestamp": "2025-07-02T19:06:20.351Z"
+}

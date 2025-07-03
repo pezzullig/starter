@@ -1,0 +1,79 @@
+{
+  "cloudinaryUrl": "https://player.cloudinary.com/embed/?cloud_name=dtszsqfxo&public_id=Going_full_blast_at_100km_h_into_this_corner_downhill_speed_longboard_skate_fsmito&profile=cld-default",
+  "publicId": "Going_full_blast_at_100km_h_into_this_corner_downhill_speed_longboard_skate_fsmito",
+  "audioFiles": [
+    {
+      "statementId": 1,
+      "speed": 0.7,
+      "filename": "s_skateboardmanhill_speed0.7.mp3",
+      "duration": 4.362437,
+      "wordCount": 10,
+      "transcript": "La persona baja por la colina en un patineta rápida.",
+      "answer": true,
+      "translation": "The person goes down the hill on a fast skateboard.",
+      "charactersPerSecond": 11.919942912642636,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/d955b577-9294-448c-bf21-01ad5979a44c.mp4"
+    },
+    {
+      "statementId": 2,
+      "speed": 0.8,
+      "filename": "s_skateboardmanhill_speed0.8.mp3",
+      "duration": 5.093875,
+      "wordCount": 13,
+      "transcript": "Una persona monta una patineta por una colina muy rápido y es arriesgado.",
+      "answer": true,
+      "translation": "A person rides a skateboard down a hill very fast and it is risky.",
+      "charactersPerSecond": 14.330936664130942,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/90b8e185-0385-44a8-9b53-fb8e065388a8.mp4"
+    },
+    {
+      "statementId": 3,
+      "speed": 0.9,
+      "filename": "s_skateboardmanhill_speed0.9.mp3",
+      "duration": 4.493062,
+      "wordCount": 13,
+      "transcript": "Una persona monta una patineta por una colina muy rápido y es arriesgado.",
+      "answer": true,
+      "translation": "A person rides a skateboard down a hill very fast and it is risky.",
+      "charactersPerSecond": 16.247271904994857,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/ffc89df3-8c65-42dd-88fe-2e8fa66ee061.mp4"
+    },
+    {
+      "statementId": 4,
+      "speed": 1,
+      "filename": "s_skateboardmanhill_speed1.mp3",
+      "duration": 4.675875,
+      "wordCount": 12,
+      "transcript": "Una persona monta una patineta colina abajo rápidamente y parece muy peligroso.",
+      "answer": true,
+      "translation": "A person rides a skateboard down a hill quickly, and it seems very dangerous.",
+      "charactersPerSecond": 16.895233512444197,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/521b3a0b-a0c0-498c-aee1-82bc49ab4ece.mp4"
+    },
+    {
+      "statementId": 5,
+      "speed": 1.1,
+      "filename": "s_skateboardmanhill_speed1.1.mp3",
+      "duration": 3.944437,
+      "wordCount": 13,
+      "transcript": "Una persona monta una patineta por una colina muy rápido y es arriesgado.",
+      "answer": true,
+      "translation": "A person rides a skateboard down a hill very fast and it is risky.",
+      "charactersPerSecond": 18.50707718237102,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/5e66a714-fd3c-4b07-be11-236306aa7c26.mp4"
+    },
+    {
+      "statementId": 6,
+      "speed": 1.2,
+      "filename": "s_skateboardmanhill_speed1.2.mp3",
+      "duration": 3.657125,
+      "wordCount": 11,
+      "transcript": "Una persona monta una patineta cuesta abajo muy rápido. Parece arriesgado.",
+      "answer": true,
+      "translation": "A person rides a skateboard down a hill very fast. It looks risky.",
+      "charactersPerSecond": 20.234473801141608,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/3bca7d89-082b-4fd9-9f5e-925723faa976.mp4"
+    }
+  ],
+  "timestamp": "2025-07-02T17:53:56.563Z"
+}

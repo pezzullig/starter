@@ -1,0 +1,79 @@
+{
+  "cloudinaryUrl": "https://res.cloudinary.com/dtszsqfxo/video/upload/v1751276293/ssstik.io__at_sea__1751275383351_x4s1fp.mp4",
+  "publicId": "ssstik.io__at_sea__1751275383351_x4s1fp",
+  "audioFiles": [
+    {
+      "statementId": 1,
+      "speed": 0.7,
+      "filename": "s_shipwater_speed0.7.mp3",
+      "duration": 4.832625,
+      "wordCount": 12,
+      "transcript": "El auto sube y baja en el mar durante la fuerte tormenta.",
+      "answer": false,
+      "translation": "The car moves up and down in the sea during the strong storm.",
+      "charactersPerSecond": 11.794832001241561,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/030609f3-3c98-4b2d-936a-2b5e75ba097c.mp4"
+    },
+    {
+      "statementId": 2,
+      "speed": 0.8,
+      "filename": "s_shipwater_speed0.8.mp3",
+      "duration": 4.96325,
+      "wordCount": 14,
+      "transcript": "El coche se mueve hacia arriba y abajo en el mar durante la tormenta.",
+      "answer": false,
+      "translation": "The car moves up and down in the sea during the storm.",
+      "charactersPerSecond": 13.902181030574724,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/5eb8ff02-d14b-49c9-b798-454d64084e74.mp4"
+    },
+    {
+      "statementId": 3,
+      "speed": 0.9,
+      "filename": "s_shipwater_speed0.9.mp3",
+      "duration": 4.5975,
+      "wordCount": 15,
+      "transcript": "El coche se mueve hacia arriba y hacia abajo en el mar durante la tormenta.",
+      "answer": false,
+      "translation": "The car moves up and down in the ocean during the strong storm.",
+      "charactersPerSecond": 16.31321370309951,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/b2e7010d-0a26-4c56-affa-14eb6ca7e22d.mp4"
+    },
+    {
+      "statementId": 4,
+      "speed": 1,
+      "filename": "s_shipwater_speed1.mp3",
+      "duration": 4.257937,
+      "wordCount": 15,
+      "transcript": "El coche se mueve hacia arriba y hacia abajo en el mar durante la tormenta.",
+      "answer": false,
+      "translation": "The car moves up and down in the ocean during the strong storm.",
+      "charactersPerSecond": 17.61416385446755,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/738da2dc-daa0-4c20-b7a9-e7cc57b77a6a.mp4"
+    },
+    {
+      "statementId": 5,
+      "speed": 1.1,
+      "filename": "s_shipwater_speed1.1.mp3",
+      "duration": 4.022813,
+      "wordCount": 15,
+      "transcript": "El coche se mueve hacia arriba y hacia abajo en el mar durante la tormenta.",
+      "answer": false,
+      "translation": "The car moves up and down in the ocean during the strong storm.",
+      "charactersPerSecond": 18.643670486299015,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/54f9bc1d-060b-4804-a62b-6cf938b31726.mp4"
+    },
+    {
+      "statementId": 6,
+      "speed": 1.2,
+      "filename": "s_shipwater_speed1.2.mp3",
+      "duration": 3.47425,
+      "wordCount": 14,
+      "transcript": "El coche se mueve hacia arriba y abajo en el mar durante la tormenta.",
+      "answer": false,
+      "translation": "The car moves up and down in the sea during the storm.",
+      "charactersPerSecond": 19.8604015255091,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/cc628c33-4808-4286-8151-766a7023223d.mp4"
+    }
+  ],
+  "timestamp": "2025-07-02T18:24:24.314Z"
+}

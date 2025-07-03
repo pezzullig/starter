@@ -1,0 +1,79 @@
+{
+  "cloudinaryUrl": "https://res.cloudinary.com/dtszsqfxo/video/upload/v1751276294/ssstik.io__sweet.moon.monkey_1751275255767_j4rvwt.mp4",
+  "publicId": "ssstik.io__sweet.moon.monkey_1751275255767_j4rvwt",
+  "audioFiles": [
+    {
+      "statementId": 1,
+      "speed": 0.7,
+      "filename": "s_monkeycar_speed0.7.mp3",
+      "duration": 3.657125,
+      "wordCount": 9,
+      "transcript": "Un pequeño mono salta a un coche de juguete.",
+      "answer": true,
+      "translation": "A small monkey jumps into a toy car down stairs.",
+      "charactersPerSecond": 12.031308746624738,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/428f89c2-d669-4720-9315-7ef840c59a57.mp4"
+    },
+    {
+      "statementId": 2,
+      "speed": 0.8,
+      "filename": "s_monkeycar_speed0.8.mp3",
+      "duration": 5.146063,
+      "wordCount": 14,
+      "transcript": "Un pequeño mono salta a un coche de juguete y baja por las escaleras.",
+      "answer": true,
+      "translation": "A small monkey jumps into a toy car and rolls down the stairs.",
+      "charactersPerSecond": 13.408308448614019,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/ca059375-5f95-41cd-beee-e00dd429fb38.mp4"
+    },
+    {
+      "statementId": 3,
+      "speed": 0.9,
+      "filename": "s_monkeycar_speed0.9.mp3",
+      "duration": 5.093875,
+      "wordCount": 16,
+      "transcript": "El pequeño mono salta a un coche de juguete y baja las escaleras hasta la hierba.",
+      "answer": true,
+      "translation": "The small monkey jumps into a toy car and rolls down the stairs onto the grass.",
+      "charactersPerSecond": 15.901450271158991,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/81ff1e0d-3157-43d3-a96b-8b7aa8eebe78.mp4"
+    },
+    {
+      "statementId": 4,
+      "speed": 1,
+      "filename": "s_monkeycar_speed1.mp3",
+      "duration": 4.675875,
+      "wordCount": 16,
+      "transcript": "Un pequeño mono salta en un coche de juguete y baja las escaleras hacia la hierba.",
+      "answer": true,
+      "translation": "A small monkey jumps into a toy car and rolls down the stairs onto the grass.",
+      "charactersPerSecond": 17.53682465848638,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/4fab6f6c-46b9-4366-b830-6d5dfc214b8f.mp4"
+    },
+    {
+      "statementId": 5,
+      "speed": 1.1,
+      "filename": "s_monkeycar_speed1.1.mp3",
+      "duration": 4.440813,
+      "wordCount": 16,
+      "transcript": "Un pequeño mono salta en un coche de juguete y baja las escaleras hacia la hierba.",
+      "answer": true,
+      "translation": "A small monkey jumps into a toy car and rolls down the stairs onto the grass.",
+      "charactersPerSecond": 18.465087361255698,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/9a341f74-9306-48a7-a356-72216405eef6.mp4"
+    },
+    {
+      "statementId": 6,
+      "speed": 1.2,
+      "filename": "s_monkeycar_speed1.2.mp3",
+      "duration": 3.996688,
+      "wordCount": 16,
+      "transcript": "Un pequeño mono salta en un coche de juguete y baja las escaleras hacia la hierba.",
+      "answer": true,
+      "translation": "A small monkey jumps into a toy car and rolls down the stairs onto the grass.",
+      "charactersPerSecond": 20.516988066118746,
+      "creatomateUrl": "https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/f3fbd630-5859-4955-8e6c-be09e7e29217.mp4"
+    }
+  ],
+  "timestamp": "2025-07-02T18:23:24.661Z"
+}
